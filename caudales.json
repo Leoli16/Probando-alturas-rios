@@ -1,0 +1,18 @@
+[
+  {
+    "seriesid": 857,
+    "sitecode": 8,
+    "estacion_nombre": "Andresito",
+    "estacion_tabla": "alturas_prefe",
+    "red_nombre": "escalas Prefectura Nacional",
+    "varid": 4,
+    "var_nombre": "Caudal",
+    "procid": 2,
+    "proc_nombre": "Curva de gasto",
+    "unitid": 10,
+    "unit_nombre": "metros cúbicos por segundo",
+    "from_date": "2006-01-01T12:00:00",
+    "to_date": "2025-08-26T00:00:00",
+    "obs_count": 8099
+  }
+]
