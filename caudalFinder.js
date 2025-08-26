@@ -8,7 +8,7 @@ async function probar(){
     series = series.data;
     console.log(series);
     let disponibles = []
-    for(let i in "12345678901234567890123456789012345678901234567890123456789012345678901234567890"){
+    for(let i in series){
         console.log(i)
         if (series[i].var_nombre === "Caudal"){
             let result = await fetch(`https://alerta.ina.gob.ar/pub/datos/datosDia&date=2025-08-26&seriesId=${series[i].seriesid}&desc=1&siteCode=${series[i].sitecode}&varId=2&procId=1&format=json`);
@@ -38,7 +38,7 @@ async function probar(){
     const contenidoJSON = JSON.stringify(disponibles, null, 2);
 
     try {
-        fs.writeFileSync('caudales.json', contenidoJSON);
+        fs.writeFileSync('par.json', contenidoJSON);
         console.log('✅ ¡Archivo "usuarios.json" guardado con éxito!');
       } catch (error) {
         console.error('❌ Error al guardar el archivo:', error);
