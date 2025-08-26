@@ -1,0 +1,34 @@
+[
+  {
+    "seriesid": 8,
+    "sitecode": 8,
+    "estacion_nombre": "Andresito",
+    "estacion_tabla": "alturas_prefe",
+    "red_nombre": "escalas Prefectura Nacional",
+    "varid": 2,
+    "var_nombre": "Altura hidrométrica",
+    "procid": 1,
+    "proc_nombre": "medición directa",
+    "unitid": 11,
+    "unit_nombre": "metros",
+    "from_date": "1984-01-01T06:00:00",
+    "to_date": "2025-08-26T00:00:00",
+    "obs_count": 15671
+  },
+  {
+    "seriesid": 9,
+    "sitecode": 9,
+    "estacion_nombre": "Puerto Iguazú",
+    "estacion_tabla": "alturas_prefe",
+    "red_nombre": "escalas Prefectura Nacional",
+    "varid": 2,
+    "var_nombre": "Altura hidrométrica",
+    "procid": 1,
+    "proc_nombre": "medición directa",
+    "unitid": 11,
+    "unit_nombre": "metros",
+    "from_date": "1966-01-01T07:00:00",
+    "to_date": "2025-08-26T00:00:00",
+    "obs_count": 19656
+  }
+]
