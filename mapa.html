@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mapa con múltiples puntos</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <style>
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  ></script>
+  <script>
+    const coordenadas = [
+      [40.4168, -3.7038], // Madrid
+      [48.8566, 2.3522],  // París
+      [51.5074, -0.1278], // Londres
+      [40.7128, -74.0060],// Nueva York
+      [-34.6037, -58.3816],// Buenos Aires
+      [35.6895, 139.6917],// Tokio
+      [55.7558, 37.6173]  // Moscú
+    ];
+
+    const map = L.map('map').setView([20, 0], 2);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+
+    coordenadas.forEach(([lat, lng]) => {
+      L.marker([lat, lng]).addTo(map);
+    });
+  </script>
+</body>
+</html>
