@@ -13,7 +13,9 @@
     "unit_nombre": "metros",
     "from_date": "1984-01-01T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 15671
+    "obs_count": 15671,
+    "lat": -25.5833333333333,
+    "lon": -53.9833333333333
   },
   {
     "seriesid": 9,
@@ -29,7 +31,9 @@
     "unit_nombre": "metros",
     "from_date": "1966-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 19656
+    "obs_count": 19656,
+    "lat": -25.5833333333333,
+    "lon": -54.5666666666667
   },
   {
     "seriesid": 10,
@@ -45,7 +49,9 @@
     "unit_nombre": "metros",
     "from_date": "1931-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 27073
+    "obs_count": 27073,
+    "lat": -25.916679,
+    "lon": -54.621134
   },
   {
     "seriesid": 11,
@@ -61,7 +67,9 @@
     "unit_nombre": "metros",
     "from_date": "1931-03-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 23967
+    "obs_count": 23967,
+    "lat": -26.3833333333333,
+    "lon": -54.7
   },
   {
     "seriesid": 12,
@@ -77,7 +85,9 @@
     "unit_nombre": "metros",
     "from_date": "1956-03-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 22434
+    "obs_count": 22434,
+    "lat": -26.8,
+    "lon": -55.0333333333333
   },
   {
     "seriesid": 13,
@@ -93,7 +103,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 6871
+    "obs_count": 6871,
+    "lat": -27.33509,
+    "lon": -55.588412
   },
   {
     "seriesid": 14,
@@ -109,7 +121,9 @@
     "unit_nombre": "metros",
     "from_date": "1901-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 46160
+    "obs_count": 46160,
+    "lat": -27.3666666666667,
+    "lon": -55.8833333333333
   },
   {
     "seriesid": 15,
@@ -125,7 +139,9 @@
     "unit_nombre": "metros",
     "from_date": "1910-03-16T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 42058
+    "obs_count": 42058,
+    "lat": -27.5833333333333,
+    "lon": -56.7
   },
   {
     "seriesid": 16,
@@ -141,7 +157,9 @@
     "unit_nombre": "metros",
     "from_date": "1912-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 40143
+    "obs_count": 40143,
+    "lat": -27.42336098,
+    "lon": -57.33326783
   },
   {
     "seriesid": 17,
@@ -157,7 +175,9 @@
     "unit_nombre": "metros",
     "from_date": "1912-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 40895
+    "obs_count": 40895,
+    "lat": -27.26677773,
+    "lon": -58.24407387
   },
   {
     "seriesid": 18,
@@ -173,7 +193,9 @@
     "unit_nombre": "metros",
     "from_date": "1956-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 26407
+    "obs_count": 26407,
+    "lat": -27.3333333333333,
+    "lon": -58.5833333333333
   },
   {
     "seriesid": 19,
@@ -189,7 +211,9 @@
     "unit_nombre": "metros",
     "from_date": "1901-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 47551
+    "obs_count": 47551,
+    "lat": -27.46364349,
+    "lon": -58.8388696
   },
   {
     "seriesid": 20,
@@ -205,7 +229,9 @@
     "unit_nombre": "metros",
     "from_date": "1906-03-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 45273
+    "obs_count": 45273,
+    "lat": -27.4833333333333,
+    "lon": -58.9333333333333
   },
   {
     "seriesid": 21,
@@ -221,7 +247,9 @@
     "unit_nombre": "metros",
     "from_date": "1912-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 31444
+    "obs_count": 31444,
+    "lat": -27.95412346,
+    "lon": -58.81852419
   },
   {
     "seriesid": 22,
@@ -237,7 +265,9 @@
     "unit_nombre": "metros",
     "from_date": "1906-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 43877
+    "obs_count": 43877,
+    "lat": -28.51840072,
+    "lon": -59.05931723
   },
   {
     "seriesid": 23,
@@ -253,7 +283,9 @@
     "unit_nombre": "metros",
     "from_date": "1903-06-17T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 46251
+    "obs_count": 46251,
+    "lat": -29.14376844,
+    "lon": -59.27303952
   },
   {
     "seriesid": 24,
@@ -269,7 +301,9 @@
     "unit_nombre": "metros",
     "from_date": "1908-04-26T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 43400
+    "obs_count": 43400,
+    "lat": -29.23756092,
+    "lon": -59.58115833
   },
   {
     "seriesid": 25,
@@ -285,7 +319,9 @@
     "unit_nombre": "metros",
     "from_date": "1903-09-04T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 45772
+    "obs_count": 45772,
+    "lat": -30.01924089,
+    "lon": -59.53663483
   },
   {
     "seriesid": 26,
@@ -301,7 +337,9 @@
     "unit_nombre": "metros",
     "from_date": "1903-05-16T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 44987
+    "obs_count": 44987,
+    "lat": -30.73419972,
+    "lon": -59.6381167
   },
   {
     "seriesid": 27,
@@ -317,7 +355,9 @@
     "unit_nombre": "metros",
     "from_date": "1912-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 39797
+    "obs_count": 39797,
+    "lat": -30.95,
+    "lon": -59.7833333333333
   },
   {
     "seriesid": 28,
@@ -333,7 +373,9 @@
     "unit_nombre": "metros",
     "from_date": "1912-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 40083
+    "obs_count": 40083,
+    "lat": -31.22650904,
+    "lon": -59.99193936
   },
   {
     "seriesid": 29,
@@ -349,7 +391,9 @@
     "unit_nombre": "metros",
     "from_date": "1902-02-22T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 46609
+    "obs_count": 46609,
+    "lat": -31.7182378629681,
+    "lon": -60.5225697750899
   },
   {
     "seriesid": 30,
@@ -365,7 +409,9 @@
     "unit_nombre": "metros",
     "from_date": "1925-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 38734
+    "obs_count": 38734,
+    "lat": -31.6514772196376,
+    "lon": -60.7002319185745
   },
   {
     "seriesid": 31,
@@ -381,7 +427,9 @@
     "unit_nombre": "metros",
     "from_date": "1902-04-25T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 47027
+    "obs_count": 47027,
+    "lat": -32.0715615377843,
+    "lon": -60.6432219715378
   },
   {
     "seriesid": 32,
@@ -397,7 +445,9 @@
     "unit_nombre": "metros",
     "from_date": "1964-01-01T09:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 24131
+    "obs_count": 24131,
+    "lat": -32.6558456373673,
+    "lon": -60.2195849446607
   },
   {
     "seriesid": 33,
@@ -413,7 +463,9 @@
     "unit_nombre": "metros",
     "from_date": "1909-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 43659
+    "obs_count": 43659,
+    "lat": -32.7336256031375,
+    "lon": -60.7256705696322
   },
   {
     "seriesid": 34,
@@ -429,7 +481,9 @@
     "unit_nombre": "metros",
     "from_date": "1884-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 53309
+    "obs_count": 53309,
+    "lat": -32.9432699442268,
+    "lon": -60.6308206029857
   },
   {
     "seriesid": 35,
@@ -445,7 +499,9 @@
     "unit_nombre": "metros",
     "from_date": "1974-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 18208
+    "obs_count": 18208,
+    "lat": -33.2354221667103,
+    "lon": -60.3091044341421
   },
   {
     "seriesid": 36,
@@ -461,7 +517,9 @@
     "unit_nombre": "metros",
     "from_date": "1904-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 45356
+    "obs_count": 45356,
+    "lat": -33.3420008188866,
+    "lon": -60.1895279977149
   },
   {
     "seriesid": 37,
@@ -477,7 +535,9 @@
     "unit_nombre": "metros",
     "from_date": "1904-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 45282
+    "obs_count": 45282,
+    "lat": -33.4780656197056,
+    "lon": -59.9957013181522
   },
   {
     "seriesid": 38,
@@ -493,7 +553,9 @@
     "unit_nombre": "metros",
     "from_date": "1901-01-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 46807
+    "obs_count": 46807,
+    "lat": -33.6745267329027,
+    "lon": -59.6497183332918
   },
   {
     "seriesid": 39,
@@ -509,7 +571,9 @@
     "unit_nombre": "metros",
     "from_date": "1976-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 16711
+    "obs_count": 16711,
+    "lat": -33.8006916108445,
+    "lon": -59.4955962110789
   },
   {
     "seriesid": 40,
@@ -525,7 +589,9 @@
     "unit_nombre": "metros",
     "from_date": "1978-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 15505
+    "obs_count": 15505,
+    "lat": -34.0987818311696,
+    "lon": -59.0108657589595
   },
   {
     "seriesid": 41,
@@ -541,7 +607,9 @@
     "unit_nombre": "metros",
     "from_date": "1977-10-24T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 15556
+    "obs_count": 15556,
+    "lat": -34.1555854281116,
+    "lon": -58.9581750062675
   },
   {
     "seriesid": 42,
@@ -557,7 +625,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7514
+    "obs_count": 7514,
+    "lat": -34.3,
+    "lon": -58.7333333333
   },
   {
     "seriesid": 43,
@@ -573,7 +643,9 @@
     "unit_nombre": "metros",
     "from_date": "1983-01-01T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 17398
+    "obs_count": 17398,
+    "lat": -33.7,
+    "lon": -58.65
   },
   {
     "seriesid": 44,
@@ -589,7 +661,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 8039
+    "obs_count": 8039,
+    "lat": -33.8627031166646,
+    "lon": -58.6604197120006
   },
   {
     "seriesid": 45,
@@ -605,7 +679,9 @@
     "unit_nombre": "metros",
     "from_date": "1983-01-01T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 14886
+    "obs_count": 14886,
+    "lat": -33.7619777376355,
+    "lon": -59.1800594404244
   },
   {
     "seriesid": 46,
@@ -621,7 +697,9 @@
     "unit_nombre": "metros",
     "from_date": "2003-01-01T08:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 11095
+    "obs_count": 11095,
+    "lat": -33.2166666667,
+    "lon": -59.3666666667
   },
   {
     "seriesid": 48,
@@ -637,7 +715,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7782
+    "obs_count": 7782,
+    "lat": -34.0166666667,
+    "lon": -58.4
   },
   {
     "seriesid": 49,
@@ -653,7 +733,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7736
+    "obs_count": 7736,
+    "lat": -34.4159316389634,
+    "lon": -58.5779747237367
   },
   {
     "seriesid": 50,
@@ -669,7 +751,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7734
+    "obs_count": 7734,
+    "lat": -34.351576,
+    "lon": -58.686115
   },
   {
     "seriesid": 51,
@@ -685,7 +769,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7809
+    "obs_count": 7809,
+    "lat": -34.2,
+    "lon": -58.4833333333
   },
   {
     "seriesid": 52,
@@ -701,7 +787,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T10:45:00",
-    "obs_count": 119376
+    "obs_count": 119376,
+    "lat": -34.4333333333,
+    "lon": -58.55
   },
   {
     "seriesid": 53,
@@ -717,7 +805,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7860
+    "obs_count": 7860,
+    "lat": -34.457166,
+    "lon": -58.507163
   },
   {
     "seriesid": 54,
@@ -733,7 +823,9 @@
     "unit_nombre": "metros",
     "from_date": "1999-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 9544
+    "obs_count": 9544,
+    "lat": -34.506666,
+    "lon": -58.475863
   },
   {
     "seriesid": 55,
@@ -749,7 +841,9 @@
     "unit_nombre": "metros",
     "from_date": "1910-01-02T12:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 40574
+    "obs_count": 40574,
+    "lat": -25.3666666666667,
+    "lon": -57.65
   },
   {
     "seriesid": 57,
@@ -765,7 +859,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7929
+    "obs_count": 7929,
+    "lat": -26.1833333333333,
+    "lon": -58.1833333333333
   },
   {
     "seriesid": 58,
@@ -781,7 +877,9 @@
     "unit_nombre": "metros",
     "from_date": "1957-02-16T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 19479
+    "obs_count": 19479,
+    "lat": -26.92629,
+    "lon": -58.506205
   },
   {
     "seriesid": 59,
@@ -797,7 +895,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-06-11T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 2900
+    "obs_count": 2900,
+    "lat": -27.3166666666667,
+    "lon": -58.6166666666667
   },
   {
     "seriesid": 60,
@@ -813,7 +913,9 @@
     "unit_nombre": "metros",
     "from_date": "1984-01-03T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 8127
+    "obs_count": 8127,
+    "lat": -27.153744,
+    "lon": -53.933149
   },
   {
     "seriesid": 61,
@@ -829,7 +931,9 @@
     "unit_nombre": "metros",
     "from_date": "1980-04-25T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 14898
+    "obs_count": 14898,
+    "lat": -27.3,
+    "lon": -54.2
   },
   {
     "seriesid": 63,
@@ -845,7 +949,9 @@
     "unit_nombre": "metros",
     "from_date": "1971-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 11773
+    "obs_count": 11773,
+    "lat": -27.572,
+    "lon": -54.678494
   },
   {
     "seriesid": 65,
@@ -861,7 +967,9 @@
     "unit_nombre": "metros",
     "from_date": "1923-10-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 37809
+    "obs_count": 37809,
+    "lat": -27.8833333333333,
+    "lon": -55.1333333333333
   },
   {
     "seriesid": 66,
@@ -877,7 +985,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-02T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7734
+    "obs_count": 7734,
+    "lat": -28.119193,
+    "lon": -55.581369
   },
   {
     "seriesid": 67,
@@ -893,7 +1003,9 @@
     "unit_nombre": "metros",
     "from_date": "1931-01-01T09:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 38498
+    "obs_count": 38498,
+    "lat": -28.1833333333333,
+    "lon": -55.65
   },
   {
     "seriesid": 68,
@@ -909,7 +1021,9 @@
     "unit_nombre": "metros",
     "from_date": "1907-12-02T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 42508
+    "obs_count": 42508,
+    "lat": -28.55,
+    "lon": -56.0333333333333
   },
   {
     "seriesid": 69,
@@ -925,7 +1039,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7717
+    "obs_count": 7717,
+    "lat": -29.1,
+    "lon": -56.55
   },
   {
     "seriesid": 70,
@@ -941,7 +1057,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 8298
+    "obs_count": 8298,
+    "lat": -29.18062,
+    "lon": -56.633977
   },
   {
     "seriesid": 71,
@@ -957,7 +1075,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 8501
+    "obs_count": 8501,
+    "lat": -29.470031,
+    "lon": -56.810674
   },
   {
     "seriesid": 72,
@@ -973,7 +1093,9 @@
     "unit_nombre": "metros",
     "from_date": "1908-03-08T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 44253
+    "obs_count": 44253,
+    "lat": -29.7166666666667,
+    "lon": -57.0833333333333
   },
   {
     "seriesid": 73,
@@ -989,7 +1111,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7992
+    "obs_count": 7992,
+    "lat": -29.872652,
+    "lon": -57.332887
   },
   {
     "seriesid": 74,
@@ -1005,7 +1129,9 @@
     "unit_nombre": "metros",
     "from_date": "1905-03-14T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 38803
+    "obs_count": 38803,
+    "lat": -30.25,
+    "lon": -57.6333333333333
   },
   {
     "seriesid": 75,
@@ -1021,7 +1147,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 8194
+    "obs_count": 8194,
+    "lat": -30.715682,
+    "lon": -57.81776
   },
   {
     "seriesid": 77,
@@ -1037,7 +1165,9 @@
     "unit_nombre": "metros",
     "from_date": "1995-05-01T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 12068
+    "obs_count": 12068,
+    "lat": -31.27547,
+    "lon": -57.936945
   },
   {
     "seriesid": 78,
@@ -1053,7 +1183,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 24752
+    "obs_count": 24752,
+    "lat": -31.27547,
+    "lon": -57.936945
   },
   {
     "seriesid": 79,
@@ -1069,7 +1201,9 @@
     "unit_nombre": "metros",
     "from_date": "1931-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 37352
+    "obs_count": 37352,
+    "lat": -31.4,
+    "lon": -58.0166666666667
   },
   {
     "seriesid": 80,
@@ -1085,7 +1219,9 @@
     "unit_nombre": "metros",
     "from_date": "1931-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 35277
+    "obs_count": 35277,
+    "lat": -32.2333333333333,
+    "lon": -58.1166666666667
   },
   {
     "seriesid": 81,
@@ -1101,7 +1237,9 @@
     "unit_nombre": "metros",
     "from_date": "1941-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 29789
+    "obs_count": 29789,
+    "lat": -32.4833333333333,
+    "lon": -58.2333333333333
   },
   {
     "seriesid": 82,
@@ -1117,7 +1255,9 @@
     "unit_nombre": "metros",
     "from_date": "1996-03-06T06:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 21430
+    "obs_count": 21430,
+    "lat": -32.70101,
+    "lon": -58.1834
   },
   {
     "seriesid": 84,
@@ -1133,7 +1273,9 @@
     "unit_nombre": "metros",
     "from_date": "1941-01-01T07:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 24847
+    "obs_count": 24847,
+    "lat": -33.0666666666667,
+    "lon": -58.4166666666667
   },
   {
     "seriesid": 85,
@@ -1149,7 +1291,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T10:45:00",
-    "obs_count": 63766
+    "obs_count": 63766,
+    "lat": -34.56108,
+    "lon": -58.399288
   },
   {
     "seriesid": 86,
@@ -1165,7 +1309,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 10409
+    "obs_count": 10409,
+    "lat": -34.824196,
+    "lon": -57.873546
   },
   {
     "seriesid": 99,
@@ -1181,7 +1327,9 @@
     "unit_nombre": "metros",
     "from_date": "2006-01-01T04:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 7735
+    "obs_count": 7735,
+    "lat": -33.0144444444444,
+    "lon": -58.5041666666667
   },
   {
     "seriesid": 151,
@@ -1197,7 +1345,9 @@
     "unit_nombre": "metros",
     "from_date": "2005-05-05T23:46:00",
     "to_date": "2025-08-26T11:45:10",
-    "obs_count": 79811
+    "obs_count": 79811,
+    "lat": -33.963072,
+    "lon": -59.205288
   },
   {
     "seriesid": 3278,
@@ -1213,7 +1363,9 @@
     "unit_nombre": "metros",
     "from_date": "2018-07-07T00:45:10",
     "to_date": "2025-08-26T08:45:10",
-    "obs_count": 52634
+    "obs_count": 52634,
+    "lat": -33.6580427638889,
+    "lon": -58.5811476
   },
   {
     "seriesid": 3279,
@@ -1229,7 +1381,9 @@
     "unit_nombre": "metros",
     "from_date": "2018-07-11T13:05:44",
     "to_date": "2025-08-26T11:45:11",
-    "obs_count": 44164
+    "obs_count": 44164,
+    "lat": -34.356202,
+    "lon": -58.633833
   },
   {
     "seriesid": 3280,
@@ -1245,7 +1399,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T00:30:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21900
+    "obs_count": 21900,
+    "lat": -33.878478,
+    "lon": -58.422029
   },
   {
     "seriesid": 3307,
@@ -1261,7 +1417,9 @@
     "unit_nombre": "metros",
     "from_date": "2018-07-01T00:00:10",
     "to_date": "2025-08-26T12:30:10",
-    "obs_count": 249110
+    "obs_count": 249110,
+    "lat": -33.0666666666667,
+    "lon": -58.4166666666667
   },
   {
     "seriesid": 3309,
@@ -1277,7 +1435,9 @@
     "unit_nombre": "metros",
     "from_date": "2012-02-12T18:45:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 62961
+    "obs_count": 62961,
+    "lat": -36.3544006347656,
+    "lon": -56.7153015136719
   },
   {
     "seriesid": 3312,
@@ -1293,7 +1453,9 @@
     "unit_nombre": "metros",
     "from_date": "2012-02-12T18:45:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 110924
+    "obs_count": 110924,
+    "lat": -35.0999984741211,
+    "lon": -57.13330078125
   },
   {
     "seriesid": 3314,
@@ -1309,7 +1471,9 @@
     "unit_nombre": "metros",
     "from_date": "2012-02-12T18:45:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 108129
+    "obs_count": 108129,
+    "lat": -34.8339004516602,
+    "lon": -57.8800010681152
   },
   {
     "seriesid": 3345,
@@ -1325,7 +1489,9 @@
     "unit_nombre": "metros",
     "from_date": "2012-02-12T18:45:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 9869
+    "obs_count": 9869,
+    "lat": -34.62625,
+    "lon": -57.927417
   },
   {
     "seriesid": 3347,
@@ -1341,7 +1507,9 @@
     "unit_nombre": "metros",
     "from_date": "2012-02-12T18:45:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 9999
+    "obs_count": 9999,
+    "lat": -38.035556,
+    "lon": -57.531111
   },
   {
     "seriesid": 3348,
@@ -1357,7 +1525,9 @@
     "unit_nombre": "metros",
     "from_date": "2018-04-06T09:14:20",
     "to_date": "2025-08-26T11:45:10",
-    "obs_count": 174393
+    "obs_count": 174393,
+    "lat": -34.7383417,
+    "lon": -58.3096056
   },
   {
     "seriesid": 3349,
@@ -1373,7 +1543,9 @@
     "unit_nombre": "metros",
     "from_date": "2018-04-17T09:36:37",
     "to_date": "2025-08-26T11:45:10",
-    "obs_count": 214351
+    "obs_count": 214351,
+    "lat": -34.7277556,
+    "lon": -58.3200389
   },
   {
     "seriesid": 6060,
@@ -1389,7 +1561,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.1624,
+    "lon": -58.3756
   },
   {
     "seriesid": 6061,
@@ -1405,7 +1579,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -33.8976,
+    "lon": -58.4588
   },
   {
     "seriesid": 6062,
@@ -1421,7 +1597,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.3764,
+    "lon": -58.4975
   },
   {
     "seriesid": 6063,
@@ -1437,7 +1615,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.1111,
+    "lon": -58.3678
   },
   {
     "seriesid": 6064,
@@ -1453,7 +1633,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.0047,
+    "lon": -58.421
   },
   {
     "seriesid": 6065,
@@ -1469,7 +1651,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.2114,
+    "lon": -58.3838
   },
   {
     "seriesid": 6066,
@@ -1485,7 +1669,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.4434,
+    "lon": -58.5257
   },
   {
     "seriesid": 6067,
@@ -1501,7 +1687,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.2289,
+    "lon": -58.404
   },
   {
     "seriesid": 6068,
@@ -1517,7 +1705,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.3814,
+    "lon": -58.4556
   },
   {
     "seriesid": 6069,
@@ -1533,7 +1723,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -34.4193,
+    "lon": -58.5091
   },
   {
     "seriesid": 6070,
@@ -1549,7 +1741,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -33.9453,
+    "lon": -58.4282
   },
   {
     "seriesid": 6071,
@@ -1565,7 +1759,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-04-21T01:00:00",
     "to_date": "2025-08-30T03:00:00",
-    "obs_count": 11368
+    "obs_count": 11368,
+    "lat": -33.9017,
+    "lon": -58.4268
   },
   {
     "seriesid": 6856,
@@ -1581,7 +1777,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-03-28T16:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 41143
+    "obs_count": 41143,
+    "lat": -32.0177777777778,
+    "lon": -60.9902777777778
   },
   {
     "seriesid": 6764,
@@ -1597,7 +1795,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-01-25T20:15:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 48097
+    "obs_count": 48097,
+    "lat": -27.4597222222222,
+    "lon": -58.8333333333333
   },
   {
     "seriesid": 6951,
@@ -1613,7 +1813,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-01-25T17:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 19168
+    "obs_count": 19168,
+    "lat": -26.1830555555556,
+    "lon": -58.1619444444444
   },
   {
     "seriesid": 6955,
@@ -1629,7 +1831,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-01-09T14:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 46398
+    "obs_count": 46398,
+    "lat": -31.0105555555556,
+    "lon": -62.7883333333333
   },
   {
     "seriesid": 6857,
@@ -1645,7 +1849,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-07T12:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 43355
+    "obs_count": 43355,
+    "lat": -32.3922222222222,
+    "lon": -60.9408333333333
   },
   {
     "seriesid": 6785,
@@ -1661,7 +1867,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6505
+    "obs_count": 6505,
+    "lat": -36.8425,
+    "lon": -66.9952777777778
   },
   {
     "seriesid": 6746,
@@ -1677,7 +1885,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6711
+    "obs_count": 6711,
+    "lat": -36.3977777777778,
+    "lon": -67.1402777777778
   },
   {
     "seriesid": 6846,
@@ -1693,7 +1903,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 20986
+    "obs_count": 20986,
+    "lat": -36.2911111111111,
+    "lon": -66.8291666666667
   },
   {
     "seriesid": 6745,
@@ -1709,7 +1921,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-03-20T10:45:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 103239
+    "obs_count": 103239,
+    "lat": -34.0866666666667,
+    "lon": -60.0072222222222
   },
   {
     "seriesid": 6711,
@@ -1725,7 +1939,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-03-19T18:30:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 39051
+    "obs_count": 39051,
+    "lat": -27.2663888888889,
+    "lon": -58.2444444444444
   },
   {
     "seriesid": 6950,
@@ -1741,7 +1957,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-26T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 9546
+    "obs_count": 9546,
+    "lat": -25.3719444444444,
+    "lon": -57.6502777777778
   },
   {
     "seriesid": 6929,
@@ -1757,7 +1975,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6786
+    "obs_count": 6786,
+    "lat": -31.8552777777778,
+    "lon": -69.6605555555556
   },
   {
     "seriesid": 6845,
@@ -1773,7 +1993,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6667
+    "obs_count": 6667,
+    "lat": -35.1975,
+    "lon": -69.7672222222222
   },
   {
     "seriesid": 6952,
@@ -1789,7 +2011,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6562
+    "obs_count": 6562,
+    "lat": -35.8711111111111,
+    "lon": -69.9502777777778
   },
   {
     "seriesid": 6755,
@@ -1805,7 +2029,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-04-10T20:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 39110
+    "obs_count": 39110,
+    "lat": -31.9741666666667,
+    "lon": -60.9138888888889
   },
   {
     "seriesid": 6731,
@@ -1821,7 +2047,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5611
+    "obs_count": 5611,
+    "lat": -51.8947222222222,
+    "lon": -71.5975
   },
   {
     "seriesid": 6692,
@@ -1837,7 +2065,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6340
+    "obs_count": 6340,
+    "lat": -51.9216666666667,
+    "lon": -71.4947222222222
   },
   {
     "seriesid": 6732,
@@ -1853,7 +2083,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-04-18T20:00:00",
     "to_date": "2025-08-26T01:00:00",
-    "obs_count": 18412
+    "obs_count": 18412,
+    "lat": -25.6766666666667,
+    "lon": -54.4213888888889
   },
   {
     "seriesid": 6897,
@@ -1869,7 +2101,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-06-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 10613
+    "obs_count": 10613,
+    "lat": -29.8458333333333,
+    "lon": -57.675
   },
   {
     "seriesid": 6903,
@@ -1885,7 +2119,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-04-18T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 11340
+    "obs_count": 11340,
+    "lat": -38.4625,
+    "lon": -58.7588888888889
   },
   {
     "seriesid": 6807,
@@ -1901,7 +2137,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-27T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 11577
+    "obs_count": 11577,
+    "lat": -30.9236111111111,
+    "lon": -59.5511111111111
   },
   {
     "seriesid": 6874,
@@ -1917,7 +2155,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6362
+    "obs_count": 6362,
+    "lat": -38.8216666666667,
+    "lon": -64.9813888888889
   },
   {
     "seriesid": 6870,
@@ -1933,7 +2173,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 3049
+    "obs_count": 3049,
+    "lat": -43.7,
+    "lon": -71.3044444444444
   },
   {
     "seriesid": 6821,
@@ -1949,7 +2191,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-21T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2713
+    "obs_count": 2713,
+    "lat": -49.7972222222222,
+    "lon": -72.0641666666667
   },
   {
     "seriesid": 6778,
@@ -1965,7 +2209,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6740
+    "obs_count": 6740,
+    "lat": -50.2522222222222,
+    "lon": -71.9077777777778
   },
   {
     "seriesid": 6896,
@@ -1981,7 +2227,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-08T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 9798
+    "obs_count": 9798,
+    "lat": -27.1008333333333,
+    "lon": -65.6361111111111
   },
   {
     "seriesid": 6865,
@@ -1997,7 +2245,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-31T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 11277
+    "obs_count": 11277,
+    "lat": -25.4136111111111,
+    "lon": -63.9761111111111
   },
   {
     "seriesid": 6794,
@@ -2013,7 +2263,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-05-24T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 10936
+    "obs_count": 10936,
+    "lat": -25.5905555555556,
+    "lon": -53.995
   },
   {
     "seriesid": 6789,
@@ -2029,7 +2281,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-22T12:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 5261
+    "obs_count": 5261,
+    "lat": -43.6716666666667,
+    "lon": -71.4016666666667
   },
   {
     "seriesid": 6876,
@@ -2045,7 +2299,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6523
+    "obs_count": 6523,
+    "lat": -35.1686111111111,
+    "lon": -66.4963888888889
   },
   {
     "seriesid": 6924,
@@ -2061,7 +2317,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 4993
+    "obs_count": 4993,
+    "lat": -43.6983333333333,
+    "lon": -66.475
   },
   {
     "seriesid": 6840,
@@ -2077,7 +2335,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6421
+    "obs_count": 6421,
+    "lat": -32.9152777777778,
+    "lon": -69.2377777777778
   },
   {
     "seriesid": 6695,
@@ -2093,7 +2353,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5104
+    "obs_count": 5104,
+    "lat": -41.9425,
+    "lon": -71.5605555555556
   },
   {
     "seriesid": 6705,
@@ -2109,7 +2371,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-06-19T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 8859
+    "obs_count": 8859,
+    "lat": -29.795,
+    "lon": -62.8061111111111
   },
   {
     "seriesid": 6697,
@@ -2125,7 +2389,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-15T01:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 12654
+    "obs_count": 12654,
+    "lat": -26.3341666666667,
+    "lon": -59.3625
   },
   {
     "seriesid": 6917,
@@ -2141,7 +2407,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-15T01:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 14724
+    "obs_count": 14724,
+    "lat": -25.6511111111111,
+    "lon": -60.1280555555556
   },
   {
     "seriesid": 6918,
@@ -2157,7 +2425,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-15T01:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 9758
+    "obs_count": 9758,
+    "lat": -26.6605555555556,
+    "lon": -58.6338888888889
   },
   {
     "seriesid": 6718,
@@ -2173,7 +2443,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-02T14:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 14338
+    "obs_count": 14338,
+    "lat": -27.9930555555556,
+    "lon": -67.6269444444444
   },
   {
     "seriesid": 6800,
@@ -2189,7 +2461,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-03T11:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 11115
+    "obs_count": 11115,
+    "lat": -29.1058333333333,
+    "lon": -62.5761111111111
   },
   {
     "seriesid": 6806,
@@ -2205,7 +2479,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-03T09:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 7717
+    "obs_count": 7717,
+    "lat": -29.0311111111111,
+    "lon": -58.7883333333333
   },
   {
     "seriesid": 6756,
@@ -2221,7 +2497,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-02T11:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 11052
+    "obs_count": 11052,
+    "lat": -29.7572222222222,
+    "lon": -59.2172222222222
   },
   {
     "seriesid": 6775,
@@ -2237,7 +2515,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-08-23T20:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 7140
+    "obs_count": 7140,
+    "lat": -27.2572222222222,
+    "lon": -54.2355555555556
   },
   {
     "seriesid": 6704,
@@ -2253,7 +2533,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-04T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 33860
+    "obs_count": 33860,
+    "lat": -33.1605555555556,
+    "lon": -64.26
   },
   {
     "seriesid": 6706,
@@ -2269,7 +2551,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-06T03:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 37460
+    "obs_count": 37460,
+    "lat": -32.3086111111111,
+    "lon": -59.0769444444445
   },
   {
     "seriesid": 6829,
@@ -2285,7 +2569,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-05T12:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 11466
+    "obs_count": 11466,
+    "lat": -32.6733333333333,
+    "lon": -60.8658333333333
   },
   {
     "seriesid": 6833,
@@ -2301,7 +2587,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-05T12:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 26706
+    "obs_count": 26706,
+    "lat": -31.8016666666667,
+    "lon": -59.1261111111111
   },
   {
     "seriesid": 6741,
@@ -2317,7 +2605,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 15210
+    "obs_count": 15210,
+    "lat": -50.4261111111111,
+    "lon": -72.7477777777778
   },
   {
     "seriesid": 6898,
@@ -2333,7 +2623,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 26960
+    "obs_count": 26960,
+    "lat": -38.5302777777778,
+    "lon": -69.4022222222222
   },
   {
     "seriesid": 6852,
@@ -2349,7 +2641,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-29T23:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 12504
+    "obs_count": 12504,
+    "lat": -34.3225,
+    "lon": -61.3513888888889
   },
   {
     "seriesid": 6811,
@@ -2365,7 +2659,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-24T09:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 15076
+    "obs_count": 15076,
+    "lat": -34.2580555555556,
+    "lon": -61.6386111111111
   },
   {
     "seriesid": 6866,
@@ -2381,7 +2677,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 5818
+    "obs_count": 5818,
+    "lat": -35.1844444444444,
+    "lon": -67.7269444444444
   },
   {
     "seriesid": 6744,
@@ -2397,7 +2695,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6223
+    "obs_count": 6223,
+    "lat": -35.9994444444444,
+    "lon": -67.1852777777778
   },
   {
     "seriesid": 6804,
@@ -2413,7 +2713,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-26T10:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 21432
+    "obs_count": 21432,
+    "lat": -27.9402777777778,
+    "lon": -63.4397222222222
   },
   {
     "seriesid": 6766,
@@ -2429,7 +2731,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-07-24T04:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 39866
+    "obs_count": 39866,
+    "lat": -35.9622222222222,
+    "lon": -57.8519444444444
   },
   {
     "seriesid": 6928,
@@ -2445,7 +2749,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T23:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 12230
+    "obs_count": 12230,
+    "lat": -49.3433333333333,
+    "lon": -72.8608333333333
   },
   {
     "seriesid": 6752,
@@ -2461,7 +2767,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 25745
+    "obs_count": 25745,
+    "lat": -42.0997222222222,
+    "lon": -71.17
   },
   {
     "seriesid": 7058,
@@ -2477,7 +2785,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-09-01T00:45:10",
     "to_date": "2025-08-26T11:45:10",
-    "obs_count": 14486
+    "obs_count": 14486,
+    "lat": -34.8074531496048,
+    "lon": -58.2301426802177
   },
   {
     "seriesid": 7355,
@@ -2493,7 +2803,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T23:00:00",
     "to_date": "2025-08-26T05:00:00",
-    "obs_count": 13042
+    "obs_count": 13042,
+    "lat": -44.9583333333333,
+    "lon": -71.3419444444444
   },
   {
     "seriesid": 8242,
@@ -2509,7 +2821,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6429
+    "obs_count": 6429,
+    "lat": -42.6513888888889,
+    "lon": -70.4355555555556
   },
   {
     "seriesid": 8230,
@@ -2525,7 +2839,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 9505
+    "obs_count": 9505,
+    "lat": -35.2641666666667,
+    "lon": -69.2497222222222
   },
   {
     "seriesid": 8233,
@@ -2541,7 +2857,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 7216
+    "obs_count": 7216,
+    "lat": -34.6686111111111,
+    "lon": -69.3163888888889
   },
   {
     "seriesid": 8312,
@@ -2557,7 +2875,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-21T01:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 13706
+    "obs_count": 13706,
+    "lat": -25.1608333333333,
+    "lon": -64.1058333333333
   },
   {
     "seriesid": 8314,
@@ -2573,7 +2893,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-21T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 24586
+    "obs_count": 24586,
+    "lat": -25.1613888888889,
+    "lon": -64.1061111111111
   },
   {
     "seriesid": 8313,
@@ -2589,7 +2911,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-27T14:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 40682
+    "obs_count": 40682,
+    "lat": -31.6611111111111,
+    "lon": -60.6019444444444
   },
   {
     "seriesid": 9018,
@@ -2605,7 +2929,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-16T00:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6472
+    "obs_count": 6472,
+    "lat": -28.4166666666667,
+    "lon": -56.5422222222222
   },
   {
     "seriesid": 9192,
@@ -2621,7 +2947,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6794
+    "obs_count": 6794,
+    "lat": -35.0986111111111,
+    "lon": -68.8747222222222
   },
   {
     "seriesid": 9549,
@@ -2637,7 +2965,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-01T04:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 10119
+    "obs_count": 10119,
+    "lat": -34.7627777777778,
+    "lon": -63.645
   },
   {
     "seriesid": 9553,
@@ -2653,7 +2983,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4551
+    "obs_count": 4551,
+    "lat": -49.3944444444444,
+    "lon": -72.8694444444444
   },
   {
     "seriesid": 9542,
@@ -2669,7 +3001,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-01T04:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 9727
+    "obs_count": 9727,
+    "lat": -28.9166666666667,
+    "lon": -57.2363888888889
   },
   {
     "seriesid": 9410,
@@ -2685,7 +3019,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 7759
+    "obs_count": 7759,
+    "lat": -25.2677777777778,
+    "lon": -65.2372222222222
   },
   {
     "seriesid": 9197,
@@ -2701,7 +3037,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 6758
+    "obs_count": 6758,
+    "lat": -35.3241666666667,
+    "lon": -70.3111111111111
   },
   {
     "seriesid": 9108,
@@ -2717,7 +3055,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-24T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 38727
+    "obs_count": 38727,
+    "lat": -28.9877777777778,
+    "lon": -59.0905555555556
   },
   {
     "seriesid": 8898,
@@ -2733,7 +3073,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-16T17:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 33454
+    "obs_count": 33454,
+    "lat": -30.5802777777778,
+    "lon": -59.9233333333333
   },
   {
     "seriesid": 9442,
@@ -2749,7 +3091,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-07T09:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 41665
+    "obs_count": 41665,
+    "lat": -33.8830555555556,
+    "lon": -58.9
   },
   {
     "seriesid": 9411,
@@ -2765,7 +3109,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 13537
+    "obs_count": 13537,
+    "lat": -45.3191666666667,
+    "lon": -69.9477777777778
   },
   {
     "seriesid": 9021,
@@ -2781,7 +3127,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-31T14:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 42653
+    "obs_count": 42653,
+    "lat": -28.995,
+    "lon": -58.5583333333333
   },
   {
     "seriesid": 9199,
@@ -2797,7 +3145,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-15T18:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 35867
+    "obs_count": 35867,
+    "lat": -31.4947222222222,
+    "lon": -60.425
   },
   {
     "seriesid": 9443,
@@ -2813,7 +3163,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-08-31T22:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 27245
+    "obs_count": 27245,
+    "lat": -42.2083333333333,
+    "lon": -71.4227777777778
   },
   {
     "seriesid": 9200,
@@ -2829,7 +3181,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-29T13:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 17848
+    "obs_count": 17848,
+    "lat": -30.2172222222222,
+    "lon": -59.3244444444444
   },
   {
     "seriesid": 9412,
@@ -2845,7 +3199,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-11-14T18:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 26077
+    "obs_count": 26077,
+    "lat": -32.3947222222222,
+    "lon": -59.7638888888889
   },
   {
     "seriesid": 9022,
@@ -2861,7 +3217,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-24T18:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 35327
+    "obs_count": 35327,
+    "lat": -35.4594444444445,
+    "lon": -59.5747222222222
   },
   {
     "seriesid": 9494,
@@ -2877,7 +3235,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-09-01T16:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 2270
+    "obs_count": 2270,
+    "lat": -47.3758333333333,
+    "lon": -71.9680555555556
   },
   {
     "seriesid": 32025,
@@ -2893,7 +3253,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4607
+    "obs_count": 4607,
+    "lat": -22.3775,
+    "lon": -62.5236111111111
   },
   {
     "seriesid": 9550,
@@ -2909,7 +3271,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-01T03:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 41383
+    "obs_count": 41383,
+    "lat": -33.1005555555556,
+    "lon": -59.2702777777778
   },
   {
     "seriesid": 9551,
@@ -2925,7 +3289,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-01T03:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 42180
+    "obs_count": 42180,
+    "lat": -27.5105555555556,
+    "lon": -58.5697222222222
   },
   {
     "seriesid": 9552,
@@ -2941,7 +3307,9 @@
     "unit_nombre": "metros",
     "from_date": "2019-10-01T03:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 37737
+    "obs_count": 37737,
+    "lat": -35.7263888888889,
+    "lon": -58.5363888888889
   },
   {
     "seriesid": 18621,
@@ -2957,7 +3325,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-08-05T16:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 33
+    "obs_count": 33,
+    "lat": -30.994853,
+    "lon": -57.899273
   },
   {
     "seriesid": 26201,
@@ -2973,7 +3343,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-11-18T19:45:10",
     "to_date": "2025-08-26T12:30:10",
-    "obs_count": 140366
+    "obs_count": 140366,
+    "lat": -34.783421,
+    "lon": -58.298648
   },
   {
     "seriesid": 26204,
@@ -2989,7 +3361,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-12-21T11:24:04",
     "to_date": "2025-08-26T12:30:10",
-    "obs_count": 135656
+    "obs_count": 135656,
+    "lat": -34.7650541,
+    "lon": -58.3234008
   },
   {
     "seriesid": 29435,
@@ -3005,7 +3379,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-07-10T12:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 35233
+    "obs_count": 35233,
+    "lat": -32.9513888888889,
+    "lon": -60.6255555555556
   },
   {
     "seriesid": 29438,
@@ -3021,7 +3397,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-06-05T19:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 18799
+    "obs_count": 18799,
+    "lat": -32.6316666666667,
+    "lon": -60.1652777777778
   },
   {
     "seriesid": 29439,
@@ -3037,7 +3415,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-11-25T15:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 33431
+    "obs_count": 33431,
+    "lat": -32.0577777777778,
+    "lon": -60.645
   },
   {
     "seriesid": 29440,
@@ -3053,7 +3433,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-10-26T13:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 30127
+    "obs_count": 30127,
+    "lat": -31.72,
+    "lon": -60.5175
   },
   {
     "seriesid": 29436,
@@ -3069,7 +3451,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-06-03T20:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 31050
+    "obs_count": 31050,
+    "lat": -33.2272222222222,
+    "lon": -60.32
   },
   {
     "seriesid": 29437,
@@ -3085,7 +3469,9 @@
     "unit_nombre": "metros",
     "from_date": "2020-06-01T14:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 38471
+    "obs_count": 38471,
+    "lat": -34.1019444444444,
+    "lon": -59.0088888888889
   },
   {
     "seriesid": 30125,
@@ -3101,7 +3487,9 @@
     "unit_nombre": "metros",
     "from_date": "2021-11-27T00:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 9883
+    "obs_count": 9883,
+    "lat": -32.7197222222222,
+    "lon": -60.7261111111111
   },
   {
     "seriesid": 32675,
@@ -3117,7 +3505,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 22305
+    "obs_count": 22305,
+    "lat": -30.9641666666667,
+    "lon": -62.9961111111111
   },
   {
     "seriesid": 32798,
@@ -3133,7 +3523,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-08T01:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 18880
+    "obs_count": 18880,
+    "lat": -43.2908333333333,
+    "lon": -65.5052777777778
   },
   {
     "seriesid": 32631,
@@ -3149,7 +3541,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 15091
+    "obs_count": 15091,
+    "lat": -30.7325,
+    "lon": -59.6386111111111
   },
   {
     "seriesid": 34340,
@@ -3165,7 +3559,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4091
+    "obs_count": 4091,
+    "lat": -29.2788888888889,
+    "lon": -59.7863888888889
   },
   {
     "seriesid": 34342,
@@ -3181,7 +3577,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 21405
+    "obs_count": 21405,
+    "lat": -33.0063888888889,
+    "lon": -61.7875
   },
   {
     "seriesid": 34344,
@@ -3197,7 +3595,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21189
+    "obs_count": 21189,
+    "lat": -32.9316666666667,
+    "lon": -62.3322222222222
   },
   {
     "seriesid": 34345,
@@ -3213,7 +3613,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 22312
+    "obs_count": 22312,
+    "lat": -32.1694444444444,
+    "lon": -64.2327777777778
   },
   {
     "seriesid": 34346,
@@ -3229,7 +3631,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 11800
+    "obs_count": 11800,
+    "lat": -38.9497222222222,
+    "lon": -68.0227777777778
   },
   {
     "seriesid": 32929,
@@ -3245,7 +3649,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22317
+    "obs_count": 22317,
+    "lat": -24.7316666666667,
+    "lon": -65.0288888888889
   },
   {
     "seriesid": 32597,
@@ -3261,7 +3667,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5378
+    "obs_count": 5378,
+    "lat": -34.2797222222222,
+    "lon": -59.5894444444444
   },
   {
     "seriesid": 33433,
@@ -3277,7 +3685,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5472
+    "obs_count": 5472,
+    "lat": -35.7925,
+    "lon": -70.1419444444444
   },
   {
     "seriesid": 33675,
@@ -3293,7 +3703,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5031
+    "obs_count": 5031,
+    "lat": -32.855,
+    "lon": -64.7672222222222
   },
   {
     "seriesid": 33676,
@@ -3309,7 +3721,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5526
+    "obs_count": 5526,
+    "lat": -43.4244444444444,
+    "lon": -69.1605555555556
   },
   {
     "seriesid": 33839,
@@ -3325,7 +3739,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5387
+    "obs_count": 5387,
+    "lat": -35.8716666666667,
+    "lon": -69.8919444444444
   },
   {
     "seriesid": 33256,
@@ -3341,7 +3757,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4582
+    "obs_count": 4582,
+    "lat": -32.8036111111111,
+    "lon": -64.7763888888889
   },
   {
     "seriesid": 32598,
@@ -3357,7 +3775,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5500
+    "obs_count": 5500,
+    "lat": -34.6533333333333,
+    "lon": -63.7230555555556
   },
   {
     "seriesid": 32016,
@@ -3373,7 +3793,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 16900
+    "obs_count": 16900,
+    "lat": -35.9875,
+    "lon": -60.0194444444444
   },
   {
     "seriesid": 33091,
@@ -3389,7 +3811,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22310
+    "obs_count": 22310,
+    "lat": -39.5247222222222,
+    "lon": -62.6755555555556
   },
   {
     "seriesid": 33257,
@@ -3405,7 +3829,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22245
+    "obs_count": 22245,
+    "lat": -33.5941666666667,
+    "lon": -59.8130555555556
   },
   {
     "seriesid": 33677,
@@ -3421,7 +3847,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21641
+    "obs_count": 21641,
+    "lat": -33.4075,
+    "lon": -63.2941666666667
   },
   {
     "seriesid": 31982,
@@ -3437,7 +3865,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 20028
+    "obs_count": 20028,
+    "lat": -33.9041666666667,
+    "lon": -60.5702777777778
   },
   {
     "seriesid": 31939,
@@ -3453,7 +3883,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22312
+    "obs_count": 22312,
+    "lat": -28.5052777777778,
+    "lon": -59.0497222222222
   },
   {
     "seriesid": 31956,
@@ -3469,7 +3901,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 22308
+    "obs_count": 22308,
+    "lat": -33.3505555555556,
+    "lon": -60.3230555555556
   },
   {
     "seriesid": 32926,
@@ -3485,7 +3919,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 21123
+    "obs_count": 21123,
+    "lat": -32.4775,
+    "lon": -58.2208333333333
   },
   {
     "seriesid": 31940,
@@ -3501,7 +3937,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 5035
+    "obs_count": 5035,
+    "lat": -35.3194444444444,
+    "lon": -70.2886111111111
   },
   {
     "seriesid": 32250,
@@ -3517,7 +3955,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-05-01T12:00:00",
     "to_date": "2025-08-25T16:00:00",
-    "obs_count": 1938
+    "obs_count": 1938,
+    "lat": -37.1438888888889,
+    "lon": -67.0725
   },
   {
     "seriesid": 32008,
@@ -3533,7 +3973,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5260
+    "obs_count": 5260,
+    "lat": -35.6361111111111,
+    "lon": -67.4261111111111
   },
   {
     "seriesid": 33259,
@@ -3549,7 +3991,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5337
+    "obs_count": 5337,
+    "lat": -30.1083333333333,
+    "lon": -58.0588888888889
   },
   {
     "seriesid": 32027,
@@ -3565,7 +4009,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5522
+    "obs_count": 5522,
+    "lat": -32.3058333333333,
+    "lon": -60.4261111111111
   },
   {
     "seriesid": 32741,
@@ -3581,7 +4027,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4402
+    "obs_count": 4402,
+    "lat": -32.9033333333333,
+    "lon": -64.7161111111111
   },
   {
     "seriesid": 31981,
@@ -3597,7 +4045,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5478
+    "obs_count": 5478,
+    "lat": -38.7608333333333,
+    "lon": -61.6969444444444
   },
   {
     "seriesid": 32742,
@@ -3613,7 +4063,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5549
+    "obs_count": 5549,
+    "lat": -37.0811111111111,
+    "lon": -59.5388888888889
   },
   {
     "seriesid": 32656,
@@ -3629,7 +4081,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5323
+    "obs_count": 5323,
+    "lat": -25.7166666666667,
+    "lon": -63.8916666666667
   },
   {
     "seriesid": 32645,
@@ -3645,7 +4099,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5326
+    "obs_count": 5326,
+    "lat": -31.3319444444444,
+    "lon": -69.4138888888889
   },
   {
     "seriesid": 32666,
@@ -3661,7 +4117,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T06:00:00",
-    "obs_count": 18161
+    "obs_count": 18161,
+    "lat": -39.3669444444444,
+    "lon": -63.2375
   },
   {
     "seriesid": 33681,
@@ -3677,7 +4135,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22312
+    "obs_count": 22312,
+    "lat": -27.2633333333333,
+    "lon": -59.1961111111111
   },
   {
     "seriesid": 32261,
@@ -3693,7 +4153,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-08-25T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2669
+    "obs_count": 2669,
+    "lat": -26.4858333333333,
+    "lon": -54.5883333333333
   },
   {
     "seriesid": 32868,
@@ -3709,7 +4171,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5082
+    "obs_count": 5082,
+    "lat": -26.355,
+    "lon": -54.4983333333333
   },
   {
     "seriesid": 34033,
@@ -3725,7 +4189,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 15439
+    "obs_count": 15439,
+    "lat": -33.6538888888889,
+    "lon": -65.5336111111111
   },
   {
     "seriesid": 32302,
@@ -3741,7 +4207,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22310
+    "obs_count": 22310,
+    "lat": -49.9986111111111,
+    "lon": -68.9269444444444
   },
   {
     "seriesid": 32301,
@@ -3757,7 +4225,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22148
+    "obs_count": 22148,
+    "lat": -33.1058333333333,
+    "lon": -66.0633333333333
   },
   {
     "seriesid": 34185,
@@ -3773,7 +4243,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21822
+    "obs_count": 21822,
+    "lat": -33.9186111111111,
+    "lon": -65.1516666666667
   },
   {
     "seriesid": 33099,
@@ -3789,7 +4261,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 10131
+    "obs_count": 10131,
+    "lat": -32.6894444444444,
+    "lon": -64.7202777777778
   },
   {
     "seriesid": 32299,
@@ -3805,7 +4279,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 19500
+    "obs_count": 19500,
+    "lat": -27.5033333333333,
+    "lon": -64.8558333333333
   },
   {
     "seriesid": 34035,
@@ -3821,7 +4297,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 18345
+    "obs_count": 18345,
+    "lat": -27.2891666666667,
+    "lon": -58.61
   },
   {
     "seriesid": 32633,
@@ -3837,7 +4315,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22296
+    "obs_count": 22296,
+    "lat": -27.4563888888889,
+    "lon": -58.8988888888889
   },
   {
     "seriesid": 33116,
@@ -3853,7 +4333,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5542
+    "obs_count": 5542,
+    "lat": -28.3291666666667,
+    "lon": -64.0066666666667
   },
   {
     "seriesid": 33461,
@@ -3869,7 +4351,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5528
+    "obs_count": 5528,
+    "lat": -25.7158333333333,
+    "lon": -63.8916666666667
   },
   {
     "seriesid": 33696,
@@ -3885,7 +4369,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-01T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2299
+    "obs_count": 2299,
+    "lat": -25.9166666666667,
+    "lon": -54.6205555555556
   },
   {
     "seriesid": 32024,
@@ -3901,7 +4387,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4749
+    "obs_count": 4749,
+    "lat": -25.7163888888889,
+    "lon": -63.8905555555556
   },
   {
     "seriesid": 32023,
@@ -3917,7 +4405,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5233
+    "obs_count": 5233,
+    "lat": -28.7766666666667,
+    "lon": -59.4738888888889
   },
   {
     "seriesid": 32777,
@@ -3933,7 +4423,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21627
+    "obs_count": 21627,
+    "lat": -24.2644444444444,
+    "lon": -64.8986111111111
   },
   {
     "seriesid": 32300,
@@ -3949,7 +4441,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 22299
+    "obs_count": 22299,
+    "lat": -31.5025,
+    "lon": -68.6425
   },
   {
     "seriesid": 33281,
@@ -3965,7 +4459,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 22279
+    "obs_count": 22279,
+    "lat": -29.3488888888889,
+    "lon": -68.2411111111111
   },
   {
     "seriesid": 33124,
@@ -3981,7 +4477,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 17406
+    "obs_count": 17406,
+    "lat": -26.0658333333333,
+    "lon": -65.3411111111111
   },
   {
     "seriesid": 32305,
@@ -3997,7 +4495,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 3994
+    "obs_count": 3994,
+    "lat": -27.6966666666667,
+    "lon": -63.9333333333333
   },
   {
     "seriesid": 33022,
@@ -4013,7 +4513,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5528
+    "obs_count": 5528,
+    "lat": -32.9019444444444,
+    "lon": -66.1055555555556
   },
   {
     "seriesid": 33357,
@@ -4029,7 +4531,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4086
+    "obs_count": 4086,
+    "lat": -34.0869444444444,
+    "lon": -66.71
   },
   {
     "seriesid": 32820,
@@ -4045,7 +4549,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-11T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1934
+    "obs_count": 1934,
+    "lat": -26.2188888888889,
+    "lon": -64.5119444444444
   },
   {
     "seriesid": 32679,
@@ -4061,7 +4567,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 9767
+    "obs_count": 9767,
+    "lat": -27.3361111111111,
+    "lon": -65.3175
   },
   {
     "seriesid": 33882,
@@ -4077,7 +4585,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 17010
+    "obs_count": 17010,
+    "lat": -27.5211111111111,
+    "lon": -65.2663888888889
   },
   {
     "seriesid": 33966,
@@ -4093,7 +4603,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 21915
+    "obs_count": 21915,
+    "lat": -26.7191666666667,
+    "lon": -65.1619444444444
   },
   {
     "seriesid": 32997,
@@ -4109,7 +4621,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-12T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 16182
+    "obs_count": 16182,
+    "lat": -37.4063888888889,
+    "lon": -70.2291666666667
   },
   {
     "seriesid": 32837,
@@ -4125,7 +4639,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22314
+    "obs_count": 22314,
+    "lat": -26.7916666666667,
+    "lon": -55.025
   },
   {
     "seriesid": 32998,
@@ -4141,7 +4657,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22305
+    "obs_count": 22305,
+    "lat": -27.1180555555556,
+    "lon": -58.6427777777778
   },
   {
     "seriesid": 32862,
@@ -4157,7 +4675,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5036
+    "obs_count": 5036,
+    "lat": -50.9961111111111,
+    "lon": -72.1063888888889
   },
   {
     "seriesid": 33968,
@@ -4173,7 +4693,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2485
+    "obs_count": 2485,
+    "lat": -36.2413888888889,
+    "lon": -67.1866666666667
   },
   {
     "seriesid": 33886,
@@ -4189,7 +4711,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 16435
+    "obs_count": 16435,
+    "lat": -40.1530555555556,
+    "lon": -71.3347222222222
   },
   {
     "seriesid": 33887,
@@ -4205,7 +4729,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 21904
+    "obs_count": 21904,
+    "lat": -40.1616666666667,
+    "lon": -71.3586111111111
   },
   {
     "seriesid": 33502,
@@ -4221,7 +4747,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5530
+    "obs_count": 5530,
+    "lat": -49.7769444444444,
+    "lon": -68.6405555555556
   },
   {
     "seriesid": 32708,
@@ -4237,7 +4765,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 1863
+    "obs_count": 1863,
+    "lat": -41.2016666666667,
+    "lon": -71.8333333333333
   },
   {
     "seriesid": 32704,
@@ -4253,7 +4783,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4910
+    "obs_count": 4910,
+    "lat": -28.6152777777778,
+    "lon": -62.7786111111111
   },
   {
     "seriesid": 32711,
@@ -4269,7 +4801,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5169
+    "obs_count": 5169,
+    "lat": -34.3519444444444,
+    "lon": -59.8169444444444
   },
   {
     "seriesid": 32851,
@@ -4285,7 +4819,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 14028
+    "obs_count": 14028,
+    "lat": -22.7263888888889,
+    "lon": -64.3691666666667
   },
   {
     "seriesid": 32882,
@@ -4301,7 +4837,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 22026
+    "obs_count": 22026,
+    "lat": -25.2497222222222,
+    "lon": -64.3902777777778
   },
   {
     "seriesid": 33230,
@@ -4317,7 +4855,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-09T01:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 17072
+    "obs_count": 17072,
+    "lat": -30.2516666666667,
+    "lon": -57.6216666666667
   },
   {
     "seriesid": 34065,
@@ -4333,7 +4873,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4286
+    "obs_count": 4286,
+    "lat": -24.4086111111111,
+    "lon": -60.3341666666667
   },
   {
     "seriesid": 33974,
@@ -4349,7 +4891,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5242
+    "obs_count": 5242,
+    "lat": -26.9955555555556,
+    "lon": -66.2175
   },
   {
     "seriesid": 32710,
@@ -4365,7 +4909,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-03-17T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 269
+    "obs_count": 269,
+    "lat": -29.165,
+    "lon": -59.3283333333333
   },
   {
     "seriesid": 33505,
@@ -4381,7 +4927,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7958
+    "obs_count": 7958,
+    "lat": -43.2761111111111,
+    "lon": -65.2733333333333
   },
   {
     "seriesid": 33188,
@@ -4397,7 +4945,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8290
+    "obs_count": 8290,
+    "lat": -25.5091666666667,
+    "lon": -65.5238888888889
   },
   {
     "seriesid": 33241,
@@ -4413,7 +4963,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-25T04:00:00",
-    "obs_count": 3725
+    "obs_count": 3725,
+    "lat": -27.2922222222222,
+    "lon": -54.1955555555556
   },
   {
     "seriesid": 34139,
@@ -4429,7 +4981,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1706
+    "obs_count": 1706,
+    "lat": -42.0405555555556,
+    "lon": -71.6063888888889
   },
   {
     "seriesid": 33062,
@@ -4445,7 +4999,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-08T08:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5058
+    "obs_count": 5058,
+    "lat": -45.9861111111111,
+    "lon": -69.475
   },
   {
     "seriesid": 33233,
@@ -4461,7 +5017,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4127
+    "obs_count": 4127,
+    "lat": -25.3933333333333,
+    "lon": -64.5922222222222
   },
   {
     "seriesid": 33189,
@@ -4477,7 +5035,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4016
+    "obs_count": 4016,
+    "lat": -28.545,
+    "lon": -56.0288888888889
   },
   {
     "seriesid": 32860,
@@ -4493,7 +5053,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 6039
+    "obs_count": 6039,
+    "lat": -27.8938888888889,
+    "lon": -55.1358333333333
   },
   {
     "seriesid": 32870,
@@ -4509,7 +5071,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-01-22T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1174
+    "obs_count": 1174,
+    "lat": -43.9194444444444,
+    "lon": -71.4283333333333
   },
   {
     "seriesid": 33192,
@@ -4525,7 +5089,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T16:01:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 3886
+    "obs_count": 3886,
+    "lat": -27.4405555555556,
+    "lon": -54.5766666666667
   },
   {
     "seriesid": 34145,
@@ -4541,7 +5107,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5368
+    "obs_count": 5368,
+    "lat": -34.4494444444444,
+    "lon": -62.4133333333333
   },
   {
     "seriesid": 33913,
@@ -4557,7 +5125,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1848
+    "obs_count": 1848,
+    "lat": -24.8422222222222,
+    "lon": -65.5933333333333
   },
   {
     "seriesid": 32876,
@@ -4573,7 +5143,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5157
+    "obs_count": 5157,
+    "lat": -34.2880555555556,
+    "lon": -59.7027777777778
   },
   {
     "seriesid": 33064,
@@ -4589,7 +5161,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 4952
+    "obs_count": 4952,
+    "lat": -43.8886111111111,
+    "lon": -68.3983333333333
   },
   {
     "seriesid": 33204,
@@ -4605,7 +5179,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 1728
+    "obs_count": 1728,
+    "lat": -41.6797222222222,
+    "lon": -71.5652777777778
   },
   {
     "seriesid": 33766,
@@ -4621,7 +5197,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-02-12T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1034
+    "obs_count": 1034,
+    "lat": -53.6738888888889,
+    "lon": -67.935
   },
   {
     "seriesid": 33231,
@@ -4637,7 +5215,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5213
+    "obs_count": 5213,
+    "lat": -28.1772222222222,
+    "lon": -55.6422222222222
   },
   {
     "seriesid": 33056,
@@ -4653,7 +5233,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2068
+    "obs_count": 2068,
+    "lat": -27.6155555555556,
+    "lon": -67.0163888888889
   },
   {
     "seriesid": 34080,
@@ -4669,7 +5251,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-01-15T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 818
+    "obs_count": 818,
+    "lat": -27.4011111111111,
+    "lon": -55.335
   },
   {
     "seriesid": 33988,
@@ -4685,7 +5269,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-11-01T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1774
+    "obs_count": 1774,
+    "lat": -29.7219444444444,
+    "lon": -57.0830555555556
   },
   {
     "seriesid": 37597,
@@ -4701,7 +5287,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-18T13:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 7471
+    "obs_count": 7471,
+    "lat": -34.2163888888889,
+    "lon": -64.3861111111111
   },
   {
     "seriesid": 37595,
@@ -4717,7 +5305,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-18T13:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 3225
+    "obs_count": 3225,
+    "lat": -33.9311111111111,
+    "lon": -64.3963888888889
   },
   {
     "seriesid": 33059,
@@ -4733,7 +5323,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1784
+    "obs_count": 1784,
+    "lat": -53.5480555555556,
+    "lon": -68.3769444444444
   },
   {
     "seriesid": 34086,
@@ -4749,7 +5341,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-21T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 736
+    "obs_count": 736,
+    "lat": -30.3511111111111,
+    "lon": -59.5147222222222
   },
   {
     "seriesid": 33517,
@@ -4765,7 +5359,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1866
+    "obs_count": 1866,
+    "lat": -34.2419444444444,
+    "lon": -62.1211111111111
   },
   {
     "seriesid": 33392,
@@ -4781,7 +5377,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2044
+    "obs_count": 2044,
+    "lat": -28.6491666666667,
+    "lon": -66.5491666666667
   },
   {
     "seriesid": 34147,
@@ -4797,7 +5395,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2057
+    "obs_count": 2057,
+    "lat": -28.5911111111111,
+    "lon": -65.2877777777778
   },
   {
     "seriesid": 33393,
@@ -4813,7 +5413,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2065
+    "obs_count": 2065,
+    "lat": -29.2580555555556,
+    "lon": -68.2525
   },
   {
     "seriesid": 33927,
@@ -4829,7 +5431,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2063
+    "obs_count": 2063,
+    "lat": -27.615,
+    "lon": -67.0163888888889
   },
   {
     "seriesid": 33058,
@@ -4845,7 +5449,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1863
+    "obs_count": 1863,
+    "lat": -53.8416666666667,
+    "lon": -68.5313888888889
   },
   {
     "seriesid": 33516,
@@ -4861,7 +5467,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2075
+    "obs_count": 2075,
+    "lat": -41.8419444444444,
+    "lon": -70.8913888888889
   },
   {
     "seriesid": 33519,
@@ -4877,7 +5485,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1668
+    "obs_count": 1668,
+    "lat": -52.8527777777778,
+    "lon": -68.5669444444444
   },
   {
     "seriesid": 33394,
@@ -4893,7 +5503,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 5036
+    "obs_count": 5036,
+    "lat": -42.0972222222222,
+    "lon": -71.6194444444444
   },
   {
     "seriesid": 33520,
@@ -4909,7 +5521,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 3547
+    "obs_count": 3547,
+    "lat": -27.1333333333333,
+    "lon": -65.3155555555555
   },
   {
     "seriesid": 34087,
@@ -4925,7 +5539,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5461
+    "obs_count": 5461,
+    "lat": -28.0144444444444,
+    "lon": -64.0980555555555
   },
   {
     "seriesid": 33427,
@@ -4941,7 +5557,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 5017
+    "obs_count": 5017,
+    "lat": -22.4311111111111,
+    "lon": -64.7372222222222
   },
   {
     "seriesid": 33395,
@@ -4957,7 +5575,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 1562
+    "obs_count": 1562,
+    "lat": -48.2061111111111,
+    "lon": -72.2838888888889
   },
   {
     "seriesid": 34000,
@@ -4973,7 +5593,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-15T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7319
+    "obs_count": 7319,
+    "lat": -36.8311111111111,
+    "lon": -59.8938888888889
   },
   {
     "seriesid": 34088,
@@ -4989,7 +5611,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-01-22T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1286
+    "obs_count": 1286,
+    "lat": -28.7436111111111,
+    "lon": -68.2205555555556
   },
   {
     "seriesid": 33061,
@@ -5005,7 +5629,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5460
+    "obs_count": 5460,
+    "lat": -26.4077777777778,
+    "lon": -58.3591666666667
   },
   {
     "seriesid": 33396,
@@ -5021,7 +5647,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-08T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 3480
+    "obs_count": 3480,
+    "lat": -24.7469444444444,
+    "lon": -59.4997222222222
   },
   {
     "seriesid": 33216,
@@ -5037,7 +5665,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-09T08:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4924
+    "obs_count": 4924,
+    "lat": -30.6275,
+    "lon": -57.9827777777778
   },
   {
     "seriesid": 33066,
@@ -5053,7 +5683,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2060
+    "obs_count": 2060,
+    "lat": -51.0297222222222,
+    "lon": -72.3111111111111
   },
   {
     "seriesid": 33531,
@@ -5069,7 +5701,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2059
+    "obs_count": 2059,
+    "lat": -31.1933333333333,
+    "lon": -60.1530555555556
   },
   {
     "seriesid": 34148,
@@ -5085,7 +5719,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2024
+    "obs_count": 2024,
+    "lat": -50.87,
+    "lon": -71.965
   },
   {
     "seriesid": 33067,
@@ -5101,7 +5737,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-02-13T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 754
+    "obs_count": 754,
+    "lat": -53.9288888888889,
+    "lon": -68.1177777777778
   },
   {
     "seriesid": 33399,
@@ -5117,7 +5755,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2035
+    "obs_count": 2035,
+    "lat": -22.1902777777778,
+    "lon": -64.6527777777778
   },
   {
     "seriesid": 33068,
@@ -5133,7 +5773,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2025
+    "obs_count": 2025,
+    "lat": -27.6669444444444,
+    "lon": -67.1658333333333
   },
   {
     "seriesid": 34150,
@@ -5149,7 +5791,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T15:30:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 16707
+    "obs_count": 16707,
+    "lat": -27.6125,
+    "lon": -67.1947222222222
   },
   {
     "seriesid": 34093,
@@ -5165,7 +5809,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8272
+    "obs_count": 8272,
+    "lat": -31.6302777777778,
+    "lon": -60.6777777777778
   },
   {
     "seriesid": 34115,
@@ -5181,7 +5827,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 5374
+    "obs_count": 5374,
+    "lat": -35.0880555555556,
+    "lon": -60.1088888888889
   },
   {
     "seriesid": 33400,
@@ -5197,7 +5845,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-02-07T18:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8120
+    "obs_count": 8120,
+    "lat": -46.5541666666667,
+    "lon": -71.6397222222222
   },
   {
     "seriesid": 33793,
@@ -5213,7 +5863,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7737
+    "obs_count": 7737,
+    "lat": -25.3441666666667,
+    "lon": -64.0461111111111
   },
   {
     "seriesid": 33250,
@@ -5229,7 +5881,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-22T01:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 4510
+    "obs_count": 4510,
+    "lat": -54.5269444444444,
+    "lon": -67.2327777777778
   },
   {
     "seriesid": 33424,
@@ -5245,7 +5899,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-02-13T19:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 3565
+    "obs_count": 3565,
+    "lat": -53.8297222222222,
+    "lon": -67.8422222222222
   },
   {
     "seriesid": 34010,
@@ -5261,7 +5917,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 6734
+    "obs_count": 6734,
+    "lat": -37.2083333333333,
+    "lon": -69.1138888888889
   },
   {
     "seriesid": 34219,
@@ -5277,7 +5935,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-12-22T13:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 5278
+    "obs_count": 5278,
+    "lat": -33.6680555555556,
+    "lon": -61.4722222222222
   },
   {
     "seriesid": 33251,
@@ -5293,7 +5953,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2061
+    "obs_count": 2061,
+    "lat": -32.4275,
+    "lon": -60.8158333333333
   },
   {
     "seriesid": 34121,
@@ -5309,7 +5971,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2061
+    "obs_count": 2061,
+    "lat": -29.2969444444444,
+    "lon": -57.5655555555556
   },
   {
     "seriesid": 33426,
@@ -5325,7 +5989,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1828
+    "obs_count": 1828,
+    "lat": -22.9008333333333,
+    "lon": -65.8494444444444
   },
   {
     "seriesid": 33811,
@@ -5341,7 +6007,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1985
+    "obs_count": 1985,
+    "lat": -45.6836111111111,
+    "lon": -70.2480555555556
   },
   {
     "seriesid": 33252,
@@ -5357,7 +6025,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-08-13T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 75
+    "obs_count": 75,
+    "lat": -42.4955555555556,
+    "lon": -71.5411111111111
   },
   {
     "seriesid": 33822,
@@ -5373,7 +6043,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2068
+    "obs_count": 2068,
+    "lat": -28.59,
+    "lon": -65.2883333333333
   },
   {
     "seriesid": 34179,
@@ -5389,7 +6061,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7395
+    "obs_count": 7395,
+    "lat": -29.1511111111111,
+    "lon": -67.49
   },
   {
     "seriesid": 33952,
@@ -5405,7 +6079,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-05-23T16:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 288
+    "obs_count": 288,
+    "lat": -27.4333333333333,
+    "lon": -65.9977777777778
   },
   {
     "seriesid": 33948,
@@ -5421,7 +6097,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7946
+    "obs_count": 7946,
+    "lat": -30.9702777777778,
+    "lon": -64.0911111111111
   },
   {
     "seriesid": 34178,
@@ -5437,7 +6115,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8078
+    "obs_count": 8078,
+    "lat": -31.9905555555556,
+    "lon": -62.1688888888889
   },
   {
     "seriesid": 34224,
@@ -5453,7 +6133,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8323
+    "obs_count": 8323,
+    "lat": -34.2405555555556,
+    "lon": -59.4994444444444
   },
   {
     "seriesid": 34314,
@@ -5469,7 +6151,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8322
+    "obs_count": 8322,
+    "lat": -34.3372222222222,
+    "lon": -62.3247222222222
   },
   {
     "seriesid": 33832,
@@ -5485,7 +6169,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2051
+    "obs_count": 2051,
+    "lat": -28.1202777777778,
+    "lon": -65.7980555555555
   },
   {
     "seriesid": 34851,
@@ -5501,7 +6187,9 @@
     "unit_nombre": "metros",
     "from_date": "2023-09-15T12:45:10",
     "to_date": "2025-08-26T11:45:10",
-    "obs_count": 16210
+    "obs_count": 16210,
+    "lat": -34.304489,
+    "lon": -58.543689
   },
   {
     "seriesid": 35405,
@@ -5517,7 +6205,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-07T09:45:00",
     "to_date": "2025-08-26T12:45:00",
-    "obs_count": 99717
+    "obs_count": 99717,
+    "lat": -34.786209,
+    "lon": -58.397766
   },
   {
     "seriesid": 35407,
@@ -5533,7 +6223,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-07T09:45:00",
     "to_date": "2025-08-26T12:35:00",
-    "obs_count": 117723
+    "obs_count": 117723,
+    "lat": -34.738069,
+    "lon": -58.30934
   },
   {
     "seriesid": 35409,
@@ -5549,7 +6241,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-07T09:45:00",
     "to_date": "2025-08-26T12:50:00",
-    "obs_count": 74777
+    "obs_count": 74777,
+    "lat": -34.728604,
+    "lon": -58.319435
   },
   {
     "seriesid": 35411,
@@ -5565,7 +6259,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-07T09:45:00",
     "to_date": "2025-08-26T13:00:00",
-    "obs_count": 118009
+    "obs_count": 118009,
+    "lat": -34.687629,
+    "lon": -58.323275
   },
   {
     "seriesid": 36690,
@@ -5581,7 +6277,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-18T13:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 6378
+    "obs_count": 6378,
+    "lat": -27.4788888888889,
+    "lon": -58.9208333333333
   },
   {
     "seriesid": 36691,
@@ -5597,7 +6295,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-07-01T00:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 10117
+    "obs_count": 10117,
+    "lat": -27.5272222222222,
+    "lon": -58.9427777777778
   },
   {
     "seriesid": 36693,
@@ -5613,7 +6313,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1655
+    "obs_count": 1655,
+    "lat": -28.57,
+    "lon": -58.7177777777778
   },
   {
     "seriesid": 36694,
@@ -5629,7 +6331,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8315
+    "obs_count": 8315,
+    "lat": -29.505,
+    "lon": -59.74
   },
   {
     "seriesid": 36723,
@@ -5645,7 +6349,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 1024
+    "obs_count": 1024,
+    "lat": -27.5672222222222,
+    "lon": -59.6588888888889
   },
   {
     "seriesid": 36724,
@@ -5661,7 +6367,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T09:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 972
+    "obs_count": 972,
+    "lat": -29.3880555555556,
+    "lon": -60.5469444444444
   },
   {
     "seriesid": 36726,
@@ -5677,7 +6385,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 1016
+    "obs_count": 1016,
+    "lat": -30.3375,
+    "lon": -60.6288888888889
   },
   {
     "seriesid": 36727,
@@ -5693,7 +6403,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 995
+    "obs_count": 995,
+    "lat": -28.0886111111111,
+    "lon": -61.3519444444444
   },
   {
     "seriesid": 36728,
@@ -5709,7 +6421,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T09:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 988
+    "obs_count": 988,
+    "lat": -28.9947222222222,
+    "lon": -60.5691666666667
   },
   {
     "seriesid": 36729,
@@ -5725,7 +6439,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 985
+    "obs_count": 985,
+    "lat": -27.9977777777778,
+    "lon": -60.7155555555556
   },
   {
     "seriesid": 36730,
@@ -5741,7 +6457,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 984
+    "obs_count": 984,
+    "lat": -28.2908333333333,
+    "lon": -61.1952777777778
   },
   {
     "seriesid": 36732,
@@ -5757,7 +6475,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 5780
+    "obs_count": 5780,
+    "lat": -28.1102777777778,
+    "lon": -59.9755555555556
   },
   {
     "seriesid": 36733,
@@ -5773,7 +6493,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 994
+    "obs_count": 994,
+    "lat": -29.1316666666667,
+    "lon": -61.9016666666667
   },
   {
     "seriesid": 36735,
@@ -5789,7 +6511,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T03:00:00",
     "to_date": "2025-08-26T09:00:00",
-    "obs_count": 984
+    "obs_count": 984,
+    "lat": -28.2744444444444,
+    "lon": -59.4216666666667
   },
   {
     "seriesid": 36786,
@@ -5805,7 +6529,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-14T09:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 4546
+    "obs_count": 4546,
+    "lat": -27.0722222222222,
+    "lon": -60.0758333333333
   },
   {
     "seriesid": 36827,
@@ -5821,7 +6547,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1192
+    "obs_count": 1192,
+    "lat": -27.8244444444444,
+    "lon": -56.2583333333333
   },
   {
     "seriesid": 36828,
@@ -5837,7 +6565,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 486
+    "obs_count": 486,
+    "lat": -31.6908333333333,
+    "lon": -64.5375
   },
   {
     "seriesid": 36829,
@@ -5853,7 +6583,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1817
+    "obs_count": 1817,
+    "lat": -31.2933333333333,
+    "lon": -60.9788888888889
   },
   {
     "seriesid": 36831,
@@ -5869,7 +6601,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8324
+    "obs_count": 8324,
+    "lat": -42.9583333333333,
+    "lon": -71.3844444444445
   },
   {
     "seriesid": 36832,
@@ -5885,7 +6619,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8316
+    "obs_count": 8316,
+    "lat": -30.3930555555556,
+    "lon": -58.7075
   },
   {
     "seriesid": 36833,
@@ -5901,7 +6637,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-12-17T17:01:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 5967
+    "obs_count": 5967,
+    "lat": -29.0655555555556,
+    "lon": -60.4969444444444
   },
   {
     "seriesid": 36835,
@@ -5917,7 +6655,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2046
+    "obs_count": 2046,
+    "lat": -28.5558333333333,
+    "lon": -59.3558333333333
   },
   {
     "seriesid": 36837,
@@ -5933,7 +6673,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T15:15:00",
     "to_date": "2025-08-26T11:45:00",
-    "obs_count": 32861
+    "obs_count": 32861,
+    "lat": -34.5611111111111,
+    "lon": -58.5077777777778
   },
   {
     "seriesid": 36838,
@@ -5949,7 +6691,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8313
+    "obs_count": 8313,
+    "lat": -33.36,
+    "lon": -60.5766666666667
   },
   {
     "seriesid": 36840,
@@ -5965,7 +6709,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2051
+    "obs_count": 2051,
+    "lat": -25.9844444444444,
+    "lon": -58.1625
   },
   {
     "seriesid": 36841,
@@ -5981,7 +6727,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 1898
+    "obs_count": 1898,
+    "lat": -30.8402777777778,
+    "lon": -60.4127777777778
   },
   {
     "seriesid": 36842,
@@ -5997,7 +6745,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2007
+    "obs_count": 2007,
+    "lat": -30.8547222222222,
+    "lon": -60.2822222222222
   },
   {
     "seriesid": 36844,
@@ -6013,7 +6763,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1790
+    "obs_count": 1790,
+    "lat": -36.8791666666667,
+    "lon": -60.3108333333333
   },
   {
     "seriesid": 36845,
@@ -6029,7 +6781,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2039
+    "obs_count": 2039,
+    "lat": -36.3711111111111,
+    "lon": -60.9555555555556
   },
   {
     "seriesid": 36848,
@@ -6045,7 +6799,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1879
+    "obs_count": 1879,
+    "lat": -41.9588888888889,
+    "lon": -71.5661111111111
   },
   {
     "seriesid": 36858,
@@ -6061,7 +6817,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-24T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1442
+    "obs_count": 1442,
+    "lat": -22.4925,
+    "lon": -64.4636111111111
   },
   {
     "seriesid": 36859,
@@ -6077,7 +6835,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2066
+    "obs_count": 2066,
+    "lat": -23.1438888888889,
+    "lon": -64.1947222222222
   },
   {
     "seriesid": 36860,
@@ -6093,7 +6853,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1924
+    "obs_count": 1924,
+    "lat": -22.2486111111111,
+    "lon": -64.9613888888889
   },
   {
     "seriesid": 36862,
@@ -6109,7 +6871,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2063
+    "obs_count": 2063,
+    "lat": -30.0505555555556,
+    "lon": -69.17
   },
   {
     "seriesid": 36870,
@@ -6125,7 +6889,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-10-17T13:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 1895
+    "obs_count": 1895,
+    "lat": -25.1205555555556,
+    "lon": -66.1588888888889
   },
   {
     "seriesid": 36871,
@@ -6141,7 +6907,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8319
+    "obs_count": 8319,
+    "lat": -36.2811111111111,
+    "lon": -57.7038888888889
   },
   {
     "seriesid": 36875,
@@ -6157,7 +6925,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-25T20:00:00",
-    "obs_count": 1747
+    "obs_count": 1747,
+    "lat": -43.5436111111111,
+    "lon": -71.4872222222222
   },
   {
     "seriesid": 36886,
@@ -6173,7 +6943,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8035
+    "obs_count": 8035,
+    "lat": -43.7233333333333,
+    "lon": -67.2866666666667
   },
   {
     "seriesid": 36888,
@@ -6189,7 +6961,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1904
+    "obs_count": 1904,
+    "lat": -42.7408333333333,
+    "lon": -69.5947222222222
   },
   {
     "seriesid": 36905,
@@ -6205,7 +6979,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 7308
+    "obs_count": 7308,
+    "lat": -34.5705555555556,
+    "lon": -67.865
   },
   {
     "seriesid": 36906,
@@ -6221,7 +6997,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T20:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1322
+    "obs_count": 1322,
+    "lat": -33.3336111111111,
+    "lon": -65.8669444444444
   },
   {
     "seriesid": 36917,
@@ -6237,7 +7015,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8323
+    "obs_count": 8323,
+    "lat": -27.6058333333333,
+    "lon": -64.4075
   },
   {
     "seriesid": 36918,
@@ -6253,7 +7033,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-12-20T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 97
+    "obs_count": 97,
+    "lat": -32.2158333333333,
+    "lon": -64.7658333333333
   },
   {
     "seriesid": 36920,
@@ -6269,7 +7051,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-10-07T12:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1786
+    "obs_count": 1786,
+    "lat": -27.8013888888889,
+    "lon": -58.5052777777778
   },
   {
     "seriesid": 36921,
@@ -6285,7 +7069,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-07-31T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 50
+    "obs_count": 50,
+    "lat": -42.1888888888889,
+    "lon": -71.4
   },
   {
     "seriesid": 36950,
@@ -6301,7 +7087,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 8078
+    "obs_count": 8078,
+    "lat": -32.2183333333333,
+    "lon": -64.7513888888889
   },
   {
     "seriesid": 36962,
@@ -6317,7 +7105,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1307
+    "obs_count": 1307,
+    "lat": -30.3463888888889,
+    "lon": -59.3005555555556
   },
   {
     "seriesid": 36963,
@@ -6333,7 +7123,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-08-20T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 27
+    "obs_count": 27,
+    "lat": -43.5166666666667,
+    "lon": -71.6091666666667
   },
   {
     "seriesid": 36964,
@@ -6349,7 +7141,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T15:30:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 15512
+    "obs_count": 15512,
+    "lat": -25.5933333333333,
+    "lon": -54.58
   },
   {
     "seriesid": 36968,
@@ -6365,7 +7159,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 1360
+    "obs_count": 1360,
+    "lat": -22.8641666666667,
+    "lon": -64.7052777777778
   },
   {
     "seriesid": 36996,
@@ -6381,7 +7177,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8206
+    "obs_count": 8206,
+    "lat": -33.6508333333333,
+    "lon": -61.4552777777778
   },
   {
     "seriesid": 37013,
@@ -6397,7 +7195,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2075
+    "obs_count": 2075,
+    "lat": -26.0119444444444,
+    "lon": -65.8230555555556
   },
   {
     "seriesid": 37019,
@@ -6413,7 +7213,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 2043
+    "obs_count": 2043,
+    "lat": -41.3533333333333,
+    "lon": -71.6413888888889
   },
   {
     "seriesid": 37029,
@@ -6429,7 +7231,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 3907
+    "obs_count": 3907,
+    "lat": -27.6572222222222,
+    "lon": -65.2447222222222
   },
   {
     "seriesid": 37038,
@@ -6445,7 +7249,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T18:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 3859
+    "obs_count": 3859,
+    "lat": -38.9961111111111,
+    "lon": -67.9733333333333
   },
   {
     "seriesid": 37040,
@@ -6461,7 +7267,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-07-17T17:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 948
+    "obs_count": 948,
+    "lat": -39.1125,
+    "lon": -67.6230555555556
   },
   {
     "seriesid": 37041,
@@ -6477,7 +7285,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-02-05T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1068
+    "obs_count": 1068,
+    "lat": -27.1741666666667,
+    "lon": -59.2613888888889
   },
   {
     "seriesid": 37042,
@@ -6493,7 +7303,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-19T04:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8186
+    "obs_count": 8186,
+    "lat": -27.4355555555556,
+    "lon": -58.9822222222222
   },
   {
     "seriesid": 37043,
@@ -6509,7 +7321,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1963
+    "obs_count": 1963,
+    "lat": -38.7247222222222,
+    "lon": -68.1705555555556
   },
   {
     "seriesid": 37055,
@@ -6525,7 +7339,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-10-08T16:00:00",
     "to_date": "2025-08-26T04:00:00",
-    "obs_count": 1480
+    "obs_count": 1480,
+    "lat": -32.8419444444444,
+    "lon": -59.8647222222222
   },
   {
     "seriesid": 37064,
@@ -6541,7 +7357,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 2281
+    "obs_count": 2281,
+    "lat": -31.5741666666667,
+    "lon": -60.2833333333333
   },
   {
     "seriesid": 37065,
@@ -6557,7 +7375,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T17:00:00",
     "to_date": "2025-08-26T10:00:00",
-    "obs_count": 14100
+    "obs_count": 14100,
+    "lat": -25.6047222222222,
+    "lon": -54.5941666666667
   },
   {
     "seriesid": 37076,
@@ -6573,7 +7393,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T20:00:00",
     "to_date": "2025-08-26T00:00:00",
-    "obs_count": 629
+    "obs_count": 629,
+    "lat": -44.2402777777778,
+    "lon": -71.66
   },
   {
     "seriesid": 37530,
@@ -6589,7 +7411,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 8309
+    "obs_count": 8309,
+    "lat": -27.3186111111111,
+    "lon": -65.2277777777778
   },
   {
     "seriesid": 37558,
@@ -6605,7 +7429,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 3854
+    "obs_count": 3854,
+    "lat": -33.2844444444444,
+    "lon": -64.3536111111111
   },
   {
     "seriesid": 37559,
@@ -6621,7 +7447,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-26T00:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1998
+    "obs_count": 1998,
+    "lat": -30.8491666666667,
+    "lon": -64.2738888888889
   },
   {
     "seriesid": 37574,
@@ -6637,7 +7465,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8297
+    "obs_count": 8297,
+    "lat": -31.8033333333333,
+    "lon": -64.3088888888889
   },
   {
     "seriesid": 37577,
@@ -6653,7 +7483,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 2009
+    "obs_count": 2009,
+    "lat": -43.3497222222222,
+    "lon": -70.8797222222222
   },
   {
     "seriesid": 37578,
@@ -6669,7 +7501,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 8114
+    "obs_count": 8114,
+    "lat": -32.4219444444444,
+    "lon": -63.2447222222222
   },
   {
     "seriesid": 37580,
@@ -6685,7 +7519,9 @@
     "unit_nombre": "metros",
     "from_date": "2025-06-12T16:00:00",
     "to_date": "2025-08-26T11:00:00",
-    "obs_count": 766
+    "obs_count": 766,
+    "lat": -41.9505555555556,
+    "lon": -71.3752777777778
   },
   {
     "seriesid": 37581,
@@ -6701,7 +7537,9 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-13T16:00:00",
     "to_date": "2025-08-26T12:00:00",
-    "obs_count": 1859
+    "obs_count": 1859,
+    "lat": -33.3072222222222,
+    "lon": -68.0613888888889
   },
   {
     "seriesid": 37594,
@@ -6717,6 +7555,8 @@
     "unit_nombre": "metros",
     "from_date": "2024-09-18T16:00:00",
     "to_date": "2025-08-26T08:00:00",
-    "obs_count": 1985
+    "obs_count": 1985,
+    "lat": -32.8469444444444,
+    "lon": -69.7625
   }
 ]

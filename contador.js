@@ -1,8 +1,12 @@
 import fs from "fs";
 
-let content = fs.readFileSync("lluvias.json","utf-8");
 
-content = JSON.parse(content);
 
-console.log(content);
-console.log(content.length);
+function contar(archivo){
+    let content = fs.readFileSync(archivo,"utf-8");
+    content = JSON.parse(content);
+    //console.log(content);
+    console.log(content.length);
+}
+
+contar("lluvias.json");
