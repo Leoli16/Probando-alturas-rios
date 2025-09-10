@@ -9,4 +9,4 @@ function contar(archivo){
     console.log(content.length);
 }
 
-contar("lluvias.json");
+contar("inundaciones.json");
