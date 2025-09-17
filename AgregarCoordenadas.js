@@ -3,7 +3,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED=0
 import fs from "fs"
 import fetch from 'node-fetch';
 
-let lista = fs.readFileSync("inundaciones.json");
+let lista = fs.readFileSync("caudales.json");
 lista = JSON.parse(lista);
 
 
