@@ -92,6 +92,12 @@ content = JSON.parse(content);
 let counter = 1;
 for (let i in content){
     // Ejecutamos la función.
-    await enviarSolicitudConFetch(i, counter, content.length);
+    if (i.length === 4){
+      await enviarSolicitudConFetch(`0${i}`, counter, content.length);
+    }
+    else{
+      await enviarSolicitudConFetch(i, counter, content.length);
+    }
+    
     counter+=1;
 }
