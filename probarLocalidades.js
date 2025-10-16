@@ -1,6 +1,7 @@
 process.env.NODE_TLS_REJECT_UNAUTHORIZED=0
 
 import fs from "fs"
+import fetch from "node-fetch";
 // No se necesita importar nada, fetch es global en Node.js v18+
 
 const url = 'https://unidades-territoriales.obraspublicas.gob.ar/departments/page';
@@ -75,7 +76,7 @@ async function enviarSolicitudConFetch(code, actual, total) {
     if(responseData.data.length === 0){
         console.log(`Mal Ahí bro - ${actual}/${total}`)
     }
-
+    console.log(code)
 
   } catch (error) {
     // Capturamos cualquier error, ya sea de red o el que lanzamos manualmente.
