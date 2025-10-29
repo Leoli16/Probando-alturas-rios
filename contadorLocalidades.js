@@ -16,8 +16,8 @@ function contar(archivo){
     const contenidoJSON = JSON.stringify(miObjeto, null, 2);
 
 try {
-    fs.writeFileSync('cantidadLocalidades.json', contenidoJSON);
-    console.log('✅ ¡Archivo "cantidadLocalidades.json" guardado con éxito!');
+    fs.writeFileSync('cantidadDeRegistrosPorLocalidad.json', contenidoJSON);
+    console.log('✅ ¡Archivo "cantidadDeRegistrosPorLocalidad.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
 }

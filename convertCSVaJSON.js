@@ -1,8 +1,8 @@
 import csv from 'csvtojson';
 import fs from 'fs';
 
-const inputCsvFile = 'inundaciones.csv'; // Cambia por tu archivo CSV
-const outputJsonFile = 'inundaciones.json';
+const inputCsvFile = 'localidades.csv'; // Cambia por tu archivo CSV
+const outputJsonFile = 'localidades.json';
 
 async function convertirCsvAJson() {
   try {

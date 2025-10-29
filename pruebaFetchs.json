@@ -1,0 +1,14 @@
+{
+  "draw": 6,
+  "recordsTotal": 530,
+  "recordsFiltered": 1,
+  "data": [
+    {
+      "id": "02d43492-e7da-4f38-9f43-bda145d2a66c",
+      "name": "COMUNA 8",
+      "utaCode2020": "02008",
+      "province": "CIUDAD DE BUENOS AIRES",
+      "provinceId": "b53cc9e5-921d-4081-9a07-35c85ec11f88"
+    }
+  ]
+}
