@@ -32,7 +32,7 @@ let lista = inundaciones
 const contenidoJSON = JSON.stringify(lista, null, 2);
 
 try {
-    fs.writeFileSync('pruebaFetchs.json', contenidoJSON);
+    fs.writeFileSync('inundaciones.json', contenidoJSON);
     console.log('✅ ¡Archivo "pruebaFetchs.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
