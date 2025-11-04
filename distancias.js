@@ -53,8 +53,8 @@ for (let i in inundaciones){
 
 let contenidoJSON = JSON.stringify(inundaciones, null, 2);
 try {
-    fs.writeFileSync('pruebaFetchs.json', contenidoJSON);
-    console.log('✅ ¡Archivo "pruebaFetchs.json" guardado con éxito!');
+    fs.writeFileSync('inundaciones.json', contenidoJSON);
+    console.log('✅ ¡Archivo "inundaciones.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
 }
