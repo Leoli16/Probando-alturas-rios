@@ -73,7 +73,7 @@ for (let i in inundaciones){
     
     let code = seriesid+"-"+sitecode;
     let fechaArmada = `${año}-${mes}-${dia}`;
-    let fechaTrucha = `2024-${mes}-${dia}`
+    let fechaTrucha = `2025-${mes}-${dia}`
     let encontrado = false;
     for (let dato in datosDeRios){
         if (dato === code){
@@ -116,7 +116,7 @@ for (let i in inundaciones){
                     break;
                 }
             }
-            console.log(`${dato}: ${dia}/${mes}/${año}`)
+            // console.log(`${dato}: ${dia}/${mes}/${año}`)
         }
     }
 }
@@ -124,4 +124,13 @@ for (let i in inundaciones){
 console.log(`Registros que tenemos datos completos: ${conseguidos}/${inundaciones.length}`);
 console.log(`Registros medio truchos: ${truchados}/${inundaciones.length}`);
 console.log(`Total que tenemos: ${conseguidos+truchados}/${inundaciones.length}`);
+console.log("No tenemos: " + sinCodigo);
 console.log(`Total real: ${conseguidos+truchados}/${inundaciones.length-sinCodigo}`)
+
+const contenidoJSON = JSON.stringify(registros, null, 2);
+try {
+    fs.writeFileSync('datasetReal.json', contenidoJSON);
+    console.log('✅ ¡Archivo "datasetReal.json" guardado con éxito!');
+  } catch (error) {
+    console.error('❌ Error al guardar el archivo:', error);
+}
