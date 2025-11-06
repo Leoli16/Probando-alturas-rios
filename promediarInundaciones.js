@@ -20,6 +20,7 @@ for (let i in datosDeRios){
                 }
                 dataset[i].push({valor: sumador/valoresIguales.length, timestart: fecha})
             }else{
+                valoresIguales.push(x.valor)
                 primeraVez= false
             }
 
