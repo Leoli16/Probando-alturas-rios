@@ -88,7 +88,7 @@ for (let i in inundaciones){
                     let estacion = calcularEstacion(mes, dia);
                     valores.estacion = estacion;
                     valores.se_inunda = 1;
-                    // registros.push(valores);
+                    registros.push(valores);
                     // console.log(`${i}/${inundaciones.length}`)
                     conseguidos+=1;
                     break;
@@ -116,7 +116,7 @@ for (let i in inundaciones){
                     break;
                 }
             }
-            // console.log(`${dato}: ${dia}/${mes}/${año}`)
+            console.log(`${dato}: ${dia}/${mes}/${año}`)
         }
     }
 }
