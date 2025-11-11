@@ -1,0 +1,421 @@
+seriesid,sitecode,estacion_nombre,estacion_tabla,red_nombre,varid,var_nombre,procid,proc_nombre,unitid,unit_nombre,from_date,to_date,obs_count,lat,lon
+8,8,Andresito,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1984-01-01T06:00:00,2025-08-26T00:00:00,15671,-25.5833333333333,-53.9833333333333
+9,9,Puerto Iguazú,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1966-01-01T07:00:00,2025-08-26T00:00:00,19656,-25.5833333333333,-54.5666666666667
+10,10,Libertad,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1931-01-01T07:00:00,2025-08-26T00:00:00,27073,-25.916679,-54.621134
+11,11,El Dorado,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1931-03-01T07:00:00,2025-08-26T00:00:00,23967,-26.3833333333333,-54.7
+12,12,Libertador,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1956-03-01T07:00:00,2025-08-26T00:00:00,22434,-26.8,-55.0333333333333
+13,13,Santa Ana,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,6871,-27.33509,-55.588412
+14,14,Posadas,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1901-01-02T07:00:00,2025-08-26T00:00:00,46160,-27.3666666666667,-55.8833333333333
+15,15,Ituzaingó,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1910-03-16T07:00:00,2025-08-26T00:00:00,42058,-27.5833333333333,-56.7
+16,16,Itá Ibaté,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1912-01-02T07:00:00,2025-08-26T00:00:00,40143,-27.42336098,-57.33326783
+17,17,Itatí,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1912-01-02T07:00:00,2025-08-26T00:00:00,40895,-27.26677773,-58.24407387
+18,18,Paso de la Patria,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1956-01-01T07:00:00,2025-08-26T00:00:00,26407,-27.3333333333333,-58.5833333333333
+19,19,Corrientes,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1901-01-02T07:00:00,2025-08-26T00:00:00,47551,-27.46364349,-58.8388696
+20,20,Barranqueras,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1906-03-02T07:00:00,2025-08-26T00:00:00,45273,-27.4833333333333,-58.9333333333333
+21,21,Empedrado,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1912-01-02T07:00:00,2025-08-26T00:00:00,31444,-27.95412346,-58.81852419
+22,22,Bella Vista,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1906-01-02T07:00:00,2025-08-26T00:00:00,43877,-28.51840072,-59.05931723
+23,23,Goya,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1903-06-17T07:00:00,2025-08-26T00:00:00,46251,-29.14376844,-59.27303952
+24,24,Reconquista,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1908-04-26T07:00:00,2025-08-26T00:00:00,43400,-29.23756092,-59.58115833
+25,25,Esquina,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1903-09-04T07:00:00,2025-08-26T00:00:00,45772,-30.01924089,-59.53663483
+26,26,La Paz,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1903-05-16T07:00:00,2025-08-26T00:00:00,44987,-30.73419972,-59.6381167
+27,27,Santa Elena,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1912-01-02T07:00:00,2025-08-26T00:00:00,39797,-30.95,-59.7833333333333
+28,28,Hernandarias,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1912-01-02T07:00:00,2025-08-26T00:00:00,40083,-31.22650904,-59.99193936
+29,29,Paraná,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1902-02-22T07:00:00,2025-08-26T00:00:00,46609,-31.7182378629681,-60.5225697750899
+30,30,Santa Fe,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1925-01-02T07:00:00,2025-08-26T00:00:00,38734,-31.6514772196376,-60.7002319185745
+31,31,Diamante,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1902-04-25T07:00:00,2025-08-26T00:00:00,47027,-32.0715615377843,-60.6432219715378
+32,32,Victoria,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1964-01-01T09:00:00,2025-08-26T00:00:00,24131,-32.6558456373673,-60.2195849446607
+33,33,San Lorenzo (San Martín),alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1909-01-02T07:00:00,2025-08-26T00:00:00,43659,-32.7336256031375,-60.7256705696322
+34,34,Rosario,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1884-01-02T07:00:00,2025-08-26T00:00:00,53309,-32.9432699442268,-60.6308206029857
+35,35,Villa Constitución,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1974-01-01T07:00:00,2025-08-26T00:00:00,18208,-33.2354221667103,-60.3091044341421
+36,36,San Nicolás,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1904-01-02T07:00:00,2025-08-26T00:00:00,45356,-33.3420008188866,-60.1895279977149
+37,37,Ramallo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1904-01-02T07:00:00,2025-08-26T00:00:00,45282,-33.4780656197056,-59.9957013181522
+38,38,San Pedro,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1901-01-02T07:00:00,2025-08-26T00:00:00,46807,-33.6745267329027,-59.6497183332918
+39,39,Baradero,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1976-01-01T07:00:00,2025-08-26T00:00:00,16711,-33.8006916108445,-59.4955962110789
+40,40,Zárate,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1978-01-01T07:00:00,2025-08-26T00:00:00,15505,-34.0987818311696,-59.0108657589595
+41,41,Campana,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1977-10-24T07:00:00,2025-08-26T00:00:00,15556,-34.1555854281116,-58.9581750062675
+42,42,Escobar,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7514,-34.3,-58.7333333333
+43,43,Villa Paranacito,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1983-01-01T06:00:00,2025-08-26T00:00:00,17398,-33.7,-58.65
+44,44,Canal Nuevo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,8039,-33.8627031166646,-58.6604197120006
+45,45,Ibicuy,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1983-01-01T06:00:00,2025-08-26T00:00:00,14886,-33.7619777376355,-59.1800594404244
+46,46,Puerto Ruiz,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2003-01-01T08:00:00,2025-08-26T00:00:00,11095,-33.2166666667,-59.3666666667
+48,48,Guazucito,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7782,-34.0166666667,-58.4
+49,49,Tigre,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7736,-34.4159316389634,-58.5779747237367
+50,50,Dique Luján,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7734,-34.351576,-58.686115
+51,51,Chaná Miní,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7809,-34.2,-58.4833333333
+52,52,San Fernando,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T10:45:00,119376,-34.4333333333,-58.55
+53,53,San Isidro,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7860,-34.457166,-58.507163
+54,54,Olivos,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1999-01-01T04:00:00,2025-08-26T00:00:00,9544,-34.506666,-58.475863
+55,55,Puerto Pilcomayo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1910-01-02T12:00:00,2025-08-26T00:00:00,40574,-25.3666666666667,-57.65
+57,57,Puerto Formosa,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7929,-26.1833333333333,-58.1833333333333
+58,58,Bermejo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1957-02-16T07:00:00,2025-08-26T00:00:00,19479,-26.92629,-58.506205
+59,59,Isla del Cerrito,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-06-11T04:00:00,2025-08-26T00:00:00,2900,-27.3166666666667,-58.6166666666667
+60,60,Pepirí Miní,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1984-01-03T06:00:00,2025-08-26T00:00:00,8127,-27.153744,-53.933149
+61,61,El Soberbio,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1980-04-25T07:00:00,2025-08-26T00:00:00,14898,-27.3,-54.2
+63,63,Alba Posse,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1971-01-01T07:00:00,2025-08-26T00:00:00,11773,-27.572,-54.678494
+65,65,San Javier,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1923-10-02T07:00:00,2025-08-26T00:00:00,37809,-27.8833333333333,-55.1333333333333
+66,66,Puerto Concepción,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-02T04:00:00,2025-08-26T00:00:00,7734,-28.119193,-55.581369
+67,67,Garruchos,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1931-01-01T09:00:00,2025-08-26T00:00:00,38498,-28.1833333333333,-55.65
+68,68,Santo Tomé,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1907-12-02T07:00:00,2025-08-26T00:00:00,42508,-28.55,-56.0333333333333
+69,69,Alvear,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7717,-29.1,-56.55
+70,70,La Cruz,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,8298,-29.18062,-56.633977
+71,71,Yapeyú,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,8501,-29.470031,-56.810674
+72,72,Paso de los Libres,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1908-03-08T07:00:00,2025-08-26T00:00:00,44253,-29.7166666666667,-57.0833333333333
+73,73,Bompland,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7992,-29.872652,-57.332887
+74,74,Monte Caseros,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1905-03-14T07:00:00,2025-08-26T00:00:00,38803,-30.25,-57.6333333333333
+75,75,Mocoretá,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,8194,-30.715682,-57.81776
+77,77,Salto Grande Arriba,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1995-05-01T06:00:00,2025-08-26T00:00:00,12068,-31.27547,-57.936945
+78,78,Salto Grande Abajo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,24752,-31.27547,-57.936945
+79,79,Concordia,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1931-01-01T07:00:00,2025-08-26T00:00:00,37352,-31.4,-58.0166666666667
+80,80,Colón,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1931-01-01T07:00:00,2025-08-26T00:00:00,35277,-32.2333333333333,-58.1166666666667
+81,81,Concepción del Uruguay,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1941-01-01T07:00:00,2025-08-26T00:00:00,29789,-32.4833333333333,-58.2333333333333
+82,82,Campichuelo,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1996-03-06T06:00:00,2025-08-26T00:00:00,21430,-32.70101,-58.1834
+84,84,Boca Gualeguaychú,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,1941-01-01T07:00:00,2025-08-26T00:00:00,24847,-33.0666666666667,-58.4166666666667
+85,85,Buenos Aires,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T10:45:00,63766,-34.56108,-58.399288
+86,86,La Plata,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,10409,-34.824196,-57.873546
+99,99,Gualeguaychú,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2006-01-01T04:00:00,2025-08-26T00:00:00,7735,-33.0144444444444,-58.5041666666667
+151,151,Atucha,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2005-05-05T23:46:00,2025-08-26T11:45:10,79811,-33.963072,-59.205288
+3278,1696,Arroyo Martínez (Villa Paranacito),ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2018-07-07T00:45:10,2025-08-26T08:45:10,52634,-33.6580427638889,-58.5811476
+3279,1698,Arroyo Carapachay,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2018-07-11T13:05:44,2025-08-26T11:45:11,44164,-34.356202,-58.633833
+3280,1699,Nueva Palmira,alturas_varios,Otras redes hidrológicas,2,Altura hidrométrica,1,medición directa,11,metros,2024-04-21T00:30:00,2025-08-26T12:00:00,21900,-33.878478,-58.422029
+3307,1701,Gualeguaychú FdX,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2018-07-01T00:00:10,2025-08-26T12:30:10,249110,-33.0666666666667,-58.4166666666667
+3309,1703,San Clemente,estaciones_pvnymm,Estaciones mareográficas - PVNyMM,2,Altura hidrométrica,1,medición directa,11,metros,2012-02-12T18:45:00,2025-08-26T11:45:00,62961,-36.3544006347656,-56.7153015136719
+3312,1706,Oyarvide,estaciones_pvnymm,Estaciones mareográficas - PVNyMM,2,Altura hidrométrica,1,medición directa,11,metros,2012-02-12T18:45:00,2025-08-26T11:45:00,110924,-35.0999984741211,-57.13330078125
+3314,1708,La Plata,estaciones_pvnymm,Estaciones mareográficas - PVNyMM,2,Altura hidrométrica,1,medición directa,11,metros,2012-02-12T18:45:00,2025-08-26T11:45:00,108129,-34.8339004516602,-57.8800010681152
+3345,1740,Pilote Norden,estaciones_shn,Mareógrafos SHN,2,Altura hidrométrica,1,medición directa,11,metros,2012-02-12T18:45:00,2025-08-26T11:45:00,9869,-34.62625,-57.927417
+3347,1742,Mar del Plata,estaciones_shn,Mareógrafos SHN,2,Altura hidrométrica,1,medición directa,11,metros,2012-02-12T18:45:00,2025-08-26T11:45:00,9999,-38.035556,-57.531111
+3348,1743,Arroyo Las Piedras - Rep. del Líbano,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2018-04-06T09:14:20,2025-08-26T11:45:10,174393,-34.7383417,-58.3096056
+3349,1744,Arroyo San Francisco,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2018-04-17T09:36:37,2025-08-26T11:45:10,214351,-34.7277556,-58.3200389
+6060,1831,BarcaGrande,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.1624,-58.3756
+6061,1832,Bravo,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-33.8976,-58.4588
+6062,1833,CanaldelEste,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.3764,-58.4975
+6063,1834,Correntoso,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.1111,-58.3678
+6064,1835,Guazu,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.0047,-58.421
+6065,1837,LaBarquita,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.2114,-58.3838
+6066,1838,Lujan,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.4434,-58.5257
+6067,1839,Mini,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.2289,-58.404
+6068,1840,Palmas,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.3814,-58.4556
+6069,1841,SanAntonio,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-34.4193,-58.5091
+6070,1842,Sauce,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-33.9453,-58.4282
+6071,1843,Uruguay,puntos_FDelta,puntos del frente del Delta del Paraná/Uruguay,2,Altura hidrométrica,4,Simulado,11,metros,2024-04-21T01:00:00,2025-08-30T03:00:00,11368,-33.9017,-58.4268
+6856,2113,Aº Colastiné - Autopista - A01,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-03-28T16:00:00,2025-08-26T10:00:00,41143,-32.0177777777778,-60.9902777777778
+6764,2115,Paraná - Corrientes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-01-25T20:15:00,2025-08-26T12:00:00,48097,-27.4597222222222,-58.8333333333333
+6951,2116,Paraguay - Pto. Formosa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-01-25T17:00:00,2025-08-26T08:00:00,19168,-26.1830555555556,-58.1619444444444
+6955,2119,Segundo (Plujunta) - RP Nº 17,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-01-09T14:00:00,2025-08-26T12:00:00,46398,-31.0105555555556,-62.7883333333333
+6857,2121,Aº El Monje - Autopista A01,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-07T12:00:00,2025-08-26T10:00:00,43355,-32.3922222222222,-60.9408333333333
+6785,2122,Atuel - Paso Maroma,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6505,-36.8425,-66.9952777777778
+6746,2123,Atuel - Algarrobo del Águila,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6711,-36.3977777777778,-67.1402777777778
+6846,2127,Salado - Santa Isabel,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T11:00:00,20986,-36.2911111111111,-66.8291666666667
+6745,2129,Arrecifes - Arrecifes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-03-20T10:45:00,2025-08-26T12:00:00,103239,-34.0866666666667,-60.0072222222222
+6711,2131,Paraná - Itatí,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-03-19T18:30:00,2025-08-26T12:00:00,39051,-27.2663888888889,-58.2444444444444
+6950,2133,Paraguay - Pto. Pilcomayo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-26T20:00:00,2025-08-26T08:00:00,9546,-25.3719444444444,-57.6502777777778
+6929,2135,De los Patos - La Plateada,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6786,-31.8552777777778,-69.6605555555556
+6845,2136,Salado - Cañada Ancha,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6667,-35.1975,-69.7672222222222
+6952,2137,Poti Malal - Gendarmería,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6562,-35.8711111111111,-69.9502777777778
+6755,2139,Coronda - Coronda,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-04-10T20:00:00,2025-08-26T11:00:00,39110,-31.9741666666667,-60.9138888888889
+6731,2146,Gallegos - Pte. Blanco,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,5611,-51.8947222222222,-71.5975
+6692,2147,Penitente - Rincón de los Morr,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6340,-51.9216666666667,-71.4947222222222
+6732,2149,Iguazú - Perfil Tipo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-04-18T20:00:00,2025-08-26T01:00:00,18412,-25.6766666666667,-54.4213888888889
+6897,2150,Miriñay - Paso Ledesma,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-06-01T00:00:00,2025-08-26T08:00:00,10613,-29.8458333333333,-57.675
+6903,2151,Quequen Grande - Necochea,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-04-18T20:00:00,2025-08-26T08:00:00,11340,-38.4625,-58.7588888888889
+6807,2158,Aº Feliciano - Paso Medina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-27T12:00:00,2025-08-26T08:00:00,11577,-30.9236111111111,-59.5511111111111
+6874,2160,Colorado - Pichi Mahuida,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6362,-38.8216666666667,-64.9813888888889
+6870,2162,Carrenleufú - La Elena,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-25T20:00:00,3049,-43.7,-71.3044444444444
+6821,2164,La Leona,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-21T20:00:00,2025-08-26T08:00:00,2713,-49.7972222222222,-72.0641666666667
+6778,2165,Charles Fhur,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6740,-50.2522222222222,-71.9077777777778
+6896,2166,Los Sosa - RP30 km19,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-08T16:00:00,2025-08-26T08:00:00,9798,-27.1008333333333,-65.6361111111111
+6865,2175,Canal Macapillo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-31T20:00:00,2025-08-26T08:00:00,11277,-25.4136111111111,-63.9761111111111
+6794,2178,Iguazú - Puerto Andresito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-05-24T20:00:00,2025-08-26T08:00:00,10936,-25.5905555555556,-53.995
+6789,2179,Carrenleufú - Poncho Moro,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-22T12:00:00,2025-08-25T20:00:00,5261,-43.6716666666667,-71.4016666666667
+6876,2180,Desaguadero - Canalejas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6523,-35.1686111111111,-66.4963888888889
+6924,2181,Chubut - Ameghino,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T00:00:00,4993,-43.6983333333333,-66.475
+6840,2183,Mendoza - Guido,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6421,-32.9152777777778,-69.2377777777778
+6695,2184,Azul - El Azul,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,5104,-41.9425,-71.5605555555556
+6705,2185,Dulce - Paso de la Cina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-06-19T12:00:00,2025-08-26T08:00:00,8859,-29.795,-62.8061111111111
+6697,2188,Bermejo - El Colorado,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-15T01:00:00,2025-08-26T09:00:00,12654,-26.3341666666667,-59.3625
+6917,2193,Bermejo - Puerto Lavalle,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-15T01:00:00,2025-08-26T08:00:00,14724,-25.6511111111111,-60.1280555555556
+6918,2194,Bermejo - Puerto Velaz,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-15T01:00:00,2025-08-26T09:00:00,9758,-26.6605555555556,-58.6338888888889
+6718,2196,Abaucán - Tinogasta,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-02T14:00:00,2025-08-26T10:00:00,14338,-27.9930555555556,-67.6269444444444
+6800,2197,Salado - Pinto,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-03T11:00:00,2025-08-26T08:00:00,11115,-29.1058333333333,-62.5761111111111
+6806,2198,Aº Batel - Paso Cerrito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-03T09:00:00,2025-08-26T08:00:00,7717,-29.0311111111111,-58.7883333333333
+6756,2199,Corrientes - Los Laureles,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-02T11:00:00,2025-08-26T08:00:00,11052,-29.7572222222222,-59.2172222222222
+6775,2201,A° El Soberbio - Pje La Lechuz,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-08-23T20:00:00,2025-08-25T20:00:00,7140,-27.2572222222222,-54.2355555555556
+6704,2202,Cuarto - RN Nº 8,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-04T17:00:00,2025-08-26T12:00:00,33860,-33.1605555555556,-64.26
+6706,2203,Gualeguay - Rosario del Tala,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-06T03:00:00,2025-08-26T12:00:00,37460,-32.3086111111111,-59.0769444444445
+6829,2204,Carcarañá - Pueblo Andino,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-05T12:00:00,2025-08-26T12:00:00,11466,-32.6733333333333,-60.8658333333333
+6833,2205,Gualeguay - Villaguay,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-05T12:00:00,2025-08-26T11:00:00,26706,-31.8016666666667,-59.1261111111111
+6741,2208,PN - Los Glaciares,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T11:00:00,15210,-50.4261111111111,-72.7477777777778
+6898,2210,Neuquen - Paso de Indios,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T10:00:00,26960,-38.5302777777778,-69.4022222222222
+6852,2211,Salado - RP Nº50,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-29T23:00:00,2025-08-26T09:00:00,12504,-34.3225,-61.3513888888889
+6811,2213,Canal Regulador N°4 - La Pantanosa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-24T09:00:00,2025-08-26T09:00:00,15076,-34.2580555555556,-61.6386111111111
+6866,2220,Atuel - Carmensa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T04:00:00,5818,-35.1844444444444,-67.7269444444444
+6744,2221,Atuel - Puesto Ugalde,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6223,-35.9994444444444,-67.1852777777778
+6804,2223,Salado - Suncho Corral,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-26T10:00:00,2025-08-26T08:00:00,21432,-27.9402777777778,-63.4397222222222
+6766,2227,Salado - RN Nº02,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-07-24T04:00:00,2025-08-26T11:00:00,39866,-35.9622222222222,-57.8519444444444
+6928,2228,De las Vueltas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T23:00:00,2025-08-26T09:00:00,12230,-49.3433333333333,-72.8608333333333
+6752,2229,Chubut - El Maitén,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T11:00:00,25745,-42.0997222222222,-71.17
+7058,2230,Arroyo San Juan - MeteoVARELA,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2019-09-01T00:45:10,2025-08-26T11:45:10,14486,-34.8074531496048,-58.2301426802177
+7355,2355,Senguerr - Nacimiento,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T23:00:00,2025-08-26T05:00:00,13042,-44.9583333333333,-71.3419444444444
+8242,2606,Gualjaina - Gualjaina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6429,-42.6513888888889,-70.4355555555556
+8230,2607,Atuel - Loma Negra,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T09:00:00,9505,-35.2641666666667,-69.2497222222222
+8233,2608,Diamante - La Jaula,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T09:00:00,7216,-34.6686111111111,-69.3163888888889
+8312,2671,Canal Finca Agropecuaria,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-21T01:00:00,2025-08-26T08:00:00,13706,-25.1608333333333,-64.1058333333333
+8314,2672,Juramento - Finca Agropecuari,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-21T00:00:00,2025-08-26T08:00:00,24586,-25.1613888888889,-64.1061111111111
+8313,2673,Colastiné - RN N° 168,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-27T14:00:00,2025-08-26T11:00:00,40682,-31.6611111111111,-60.6019444444444
+9018,2731,Aguapey - La Sirena,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-16T00:01:00,2025-08-26T08:00:00,6472,-28.4166666666667,-56.5422222222222
+9192,2732,Atuel - La Angostura,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6794,-35.0986111111111,-68.8747222222222
+9549,2809,Quinto - RP Nº26,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-01T04:00:00,2025-08-26T08:00:00,10119,-34.7627777777778,-63.645
+9553,2812,Lago Viedma - Lago Viedma,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,4551,-49.3944444444444,-72.8694444444444
+9542,2813,Miriñay - Paso Mesa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-01T04:00:00,2025-08-26T08:00:00,9727,-28.9166666666667,-57.2363888888889
+9410,2823,Juramento - Cabra Corral,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-13T16:00:00,2025-08-26T08:00:00,7759,-25.2677777777778,-65.2372222222222
+9197,2824,Valenzuela - Valle Noble,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T00:00:00,2025-08-26T08:00:00,6758,-35.3241666666667,-70.3111111111111
+9108,2825,Santa Lucia - Santa Lucia,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-24T17:00:00,2025-08-26T12:00:00,38727,-28.9877777777778,-59.0905555555556
+8898,2829,San Javier - San Javier,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-16T17:00:00,2025-08-26T10:00:00,33454,-30.5802777777778,-59.9233333333333
+9442,2830,Paraná Guazú - Brazo Largo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-07T09:00:00,2025-08-26T11:00:00,41665,-33.8830555555556,-58.9
+9411,2831,Senguerr - Facundo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T12:00:00,13537,-45.3191666666667,-69.9477777777778
+9021,2832,Corriente - Paso Lucero,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-31T14:00:00,2025-08-26T12:00:00,42653,-28.995,-58.5583333333333
+9199,2833,Aº Leyes - RP Nº 1,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-15T18:00:00,2025-08-26T12:00:00,35867,-31.4947222222222,-60.425
+9443,2834,Lago Epuyen - Muelle,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-08-31T22:00:00,2025-08-26T11:00:00,27245,-42.2083333333333,-71.4227777777778
+9200,2836,Aº Barrancas - Paso La Llana,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-29T13:00:00,2025-08-26T08:00:00,17848,-30.2172222222222,-59.3244444444444
+9412,2837,Nogoya - RN Nº12,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-11-14T18:00:00,2025-08-26T12:00:00,26077,-32.3947222222222,-59.7638888888889
+9022,2838,Aº Saladillo - RN Nº205,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-24T18:00:00,2025-08-26T12:00:00,35327,-35.4594444444445,-59.5747222222222
+9494,2844,Lago Pueyrredón - Pueyrredón,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-09-01T16:00:00,2025-08-26T04:00:00,2270,-47.3758333333333,-71.9680555555556
+32025,2846,Pilcomayo - Misión La Paz,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4607,-22.3775,-62.5236111111111
+9550,2853,Gualeguay - Paso Alonso,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-01T03:00:00,2025-08-26T11:00:00,41383,-33.1005555555556,-59.2702777777778
+9551,2854,Aº Riachuelo - RP Nº5,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-01T03:00:00,2025-08-26T11:00:00,42180,-27.5105555555556,-58.5697222222222
+9552,2855,Salado - RP Nº 41,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2019-10-01T03:00:00,2025-08-26T12:00:00,37737,-35.7263888888889,-58.5363888888889
+18621,5430,Federación Embalse,alturas_prefe,escalas Prefectura Nacional,2,Altura hidrométrica,1,medición directa,11,metros,2020-08-05T16:00:00,2025-08-26T00:00:00,33,-30.994853,-57.899273
+26201,5873,Arroyo Las Piedras - Gob. Monteverde,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2020-11-18T19:45:10,2025-08-26T12:30:10,140366,-34.783421,-58.298648
+26204,5874,Arroyo San Francisco - Dr. Torre,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2020-12-21T11:24:04,2025-08-26T12:30:10,135656,-34.7650541,-58.3234008
+29435,5893,Paraná - Rosario,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-07-10T12:00:00,2025-08-26T12:00:00,35233,-32.9513888888889,-60.6255555555556
+29438,5894,Riacho Victoria - Victoria,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-06-05T19:00:00,2025-08-26T11:00:00,18799,-32.6316666666667,-60.1652777777778
+29439,5900,Paraná - Diamante,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-11-25T15:00:00,2025-08-26T12:00:00,33431,-32.0577777777778,-60.645
+29440,5901,Paraná - Túnel subfluvial,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-10-26T13:00:00,2025-08-26T12:00:00,30127,-31.72,-60.5175
+29436,5905,Paraná - Villa Constitución,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-06-03T20:00:00,2025-08-26T11:00:00,31050,-33.2272222222222,-60.32
+29437,5907,Paraná Las Palmas - Zárate,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2020-06-01T14:00:00,2025-08-26T11:00:00,38471,-34.1019444444444,-59.0088888888889
+30125,5912,Paraná - Timbúes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2021-11-27T00:00:00,2025-08-26T12:00:00,9883,-32.7197222222222,-60.7261111111111
+32675,6263,Primero (Suquía) Camino Secund,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,22305,-30.9641666666667,-62.9961111111111
+32798,6301,Chubut - Valle Inferior,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-08T01:00:00,2025-08-26T12:00:00,18880,-43.2908333333333,-65.5052777777778
+32631,6354,Paraná - La Paz,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,15091,-30.7325,-59.6386111111111
+34340,6356,Aº Malabrigo - RN Nº11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4091,-29.2788888888889,-59.7863888888889
+34342,6357,Carcarañá - Cruz Alta,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T11:00:00,21405,-33.0063888888889,-61.7875
+34344,6360,Saladillo - Dique Aforador,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,21189,-32.9316666666667,-62.3322222222222
+34345,6361,Tercero - Piedras Moras,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,22312,-32.1694444444444,-64.2327777777778
+34346,6362,Neuquén - Neuquén,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,11800,-38.9497222222222,-68.0227777777778
+32929,6365,Mojotoro - Güemes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22317,-24.7316666666667,-65.0288888888889
+32597,6380,Aº De las Chañaritas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5378,-34.2797222222222,-59.5894444444444
+33433,6382,Chico - Las Loicas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5472,-35.7925,-70.1419444444444
+33675,6383,De Las Cañitas - La Tapa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5031,-32.855,-64.7672222222222
+33676,6386,Chubut - Cerro Condor,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5526,-43.4244444444444,-69.1605555555556
+33839,6388,Grande - La Gotera,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5387,-35.8716666666667,-69.8919444444444
+33256,6389,Las Tapias - Las Tapias,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,4582,-32.8036111111111,-64.7763888888889
+32598,6391,Laguna La Margarita,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,5500,-34.6533333333333,-63.7230555555556
+32016,6393,Aº Las Flores - Gral. Alvear,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,16900,-35.9875,-60.0194444444444
+33091,6394,Colorado - Pedro Luro,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22310,-39.5247222222222,-62.6755555555556
+33257,6395,Paraná - Vuelta de Obligado,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T12:00:00,22245,-33.5941666666667,-59.8130555555556
+33677,6396,Cuarto - La Carlota LIM,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T12:00:00,21641,-33.4075,-63.2941666666667
+31982,6397,Aº Pergamino - Pergamino,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,20028,-33.9041666666667,-60.5702777777778
+31939,6400,Paraná - Bella Vista,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22312,-28.5052777777778,-59.0497222222222
+31956,6401,Aº Del Medio - Motomel,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,22308,-33.3505555555556,-60.3230555555556
+32926,6405,Uruguay - Concep. del Uruguay,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,21123,-32.4775,-58.2208333333333
+31940,6406,Grande - La Estrechura,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T00:00:00,5035,-35.3194444444444,-70.2886111111111
+32250,6418,Arroyo Potrol - La Pampa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-05-01T12:00:00,2025-08-25T16:00:00,1938,-37.1438888888889,-67.0725
+32008,6421,Atuel - Paso de Loro,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5260,-35.6361111111111,-67.4261111111111
+33259,6422,Mocoretá - RN Nº 127,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5337,-30.1083333333333,-58.0588888888889
+32027,6423,Aº Del Doll - RN 11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5522,-32.3058333333333,-60.4261111111111
+32741,6424,Cuarto - Tincunaco,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4402,-32.9033333333333,-64.7161111111111
+31981,6426,Sauce Grande - RN Nº3,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5478,-38.7608333333333,-61.6969444444444
+32742,6427,Aº De los Huesos - RN 226,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5549,-37.0811111111111,-59.5388888888889
+32656,6428,Salado -A.Ab. Azud Cruz Bajada,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,5323,-25.7166666666667,-63.8916666666667
+32645,6429,Blanco - Calingasta - RP 142,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5326,-31.3319444444444,-69.4138888888889
+32666,6430,Colorado - Paso Alsina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T06:00:00,18161,-39.3669444444444,-63.2375
+33681,6432,Negro - Laguna Blanca,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22312,-27.2633333333333,-59.1961111111111
+32261,6435,Piray Guazú - R. Nac. 12 Vieja,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-08-25T16:00:00,2025-08-26T08:00:00,2669,-26.4858333333333,-54.5883333333333
+32868,6439,Piray Mini - Valle Hermoso,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5082,-26.355,-54.4983333333333
+34033,6441,Quinto - Dique Villa Mercedes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T11:00:00,15439,-33.6538888888889,-65.5336111111111
+32302,6442,Sta. Cruz-Cmte Piedrabuena MET,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22310,-49.9986111111111,-68.9269444444444
+32301,6444,Trapiche - Hosteria El Trapich,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22148,-33.1058333333333,-66.0633333333333
+34185,6445,Quinto - Justo Daract,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,21822,-33.9186111111111,-65.1516666666667
+33099,6446,De Las Barrancas-A.Corral RP23,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,10131,-32.6894444444444,-64.7202777777778
+32299,6447,Dulce - La Escuela - Río Hondo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,19500,-27.5033333333333,-64.8558333333333
+34035,6449,Paraguay - Isla del Cerrito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,18345,-27.2891666666667,-58.61
+32633,6454,Negro-Obra de Ctrl. Agua Abajo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22296,-27.4563888888889,-58.8988888888889
+33116,6456,Dulce - Villa San Martín,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5542,-28.3291666666667,-64.0066666666667
+33461,6457,Embalse Cruz Bajada,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,5528,-25.7158333333333,-63.8916666666667
+33696,6458,Paraná - Puerto Libertad,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-01T12:00:00,2025-08-26T08:00:00,2299,-25.9166666666667,-54.6205555555556
+32024,6459,Canal de Dios - Cruz Bajada,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,4749,-25.7163888888889,-63.8905555555556
+32023,6461,Aº Las Garzas - RN Nº 11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5233,-28.7766666666667,-59.4738888888889
+32777,6464,San Pedro - Ledesma - RN 34,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,21627,-24.2644444444444,-64.8986111111111
+32300,6465,San Juan - Dique de la Rosa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T11:00:00,22299,-31.5025,-68.6425
+33281,6466,Vinchina - Los Palacios -RN 40,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T11:00:00,22279,-29.3488888888889,-68.2411111111111
+33124,6479,El Tala - El Brete,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:01:00,2025-08-26T12:00:00,17406,-26.0658333333333,-65.3411111111111
+32305,6480,Canal - Jume Esquina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,3994,-27.6966666666667,-63.9333333333333
+33022,6481,Grande - Ruta Provincia Nº 9,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5528,-32.9019444444444,-66.1055555555556
+33357,6483,Desaguadero - Salto de la Tosc,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4086,-34.0869444444444,-66.71
+32820,6498,Urueña -7 de Abril - RN34,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-11T16:00:00,2025-08-26T08:00:00,1934,-26.2188888888889,-64.5119444444444
+32679,6504,Seco - RN Nº 157,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,9767,-27.3361111111111,-65.3175
+33882,6505,Chico - RN Nº157 Monteagudo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,17010,-27.5211111111111,-65.2663888888889
+33966,6506,Salí - Alta Gracia,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T12:00:00,21915,-26.7191666666667,-65.1619444444444
+32997,6507,Neuquén - Chos Malal -RN40,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-12T17:00:00,2025-08-26T12:00:00,16182,-37.4063888888889,-70.2291666666667
+32837,6508,Paraná - Puerto Rico,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22314,-26.7916666666667,-55.025
+32998,6511,Paraguay - Las Palmas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22305,-27.1180555555556,-58.6427777777778
+32862,6516,Vizcachas - Cerro Palique,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5036,-50.9961111111111,-72.1063888888889
+33968,6518,Atuel - La Puntilla,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,2485,-36.2413888888889,-67.1866666666667
+33886,6519,Aº Trabunco -S.M. de Los Andes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T11:00:00,16435,-40.1530555555556,-71.3347222222222
+33887,6529,L. Lacar - S.M. de Los Andes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T11:00:00,21904,-40.1616666666667,-71.3586111111111
+33502,6535,Chico - Ruta Nac. Nº 3,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5530,-49.7769444444444,-68.6405555555556
+32708,6539,Ventisquero Negro - Lago Manso,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T04:00:00,1863,-41.2016666666667,-71.8333333333333
+32704,6540,Salado - Icaño,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,4910,-28.6152777777778,-62.7786111111111
+32711,6544,Areco - Carmen de Areco,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5169,-34.3519444444444,-59.8169444444444
+32851,6548,Bermejo - Aguas Blancas LIM,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T08:00:00,14028,-22.7263888888889,-64.3691666666667
+32882,6549,Juramento - El Tunal,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T17:00:00,2025-08-26T12:00:00,22026,-25.2497222222222,-64.3902777777778
+33230,6551,Uruguay - Monte Caseros,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-09T01:01:00,2025-08-26T12:00:00,17072,-30.2516666666667,-57.6216666666667
+34065,6553,Bañado La Estrella - RP Nº28,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4286,-24.4086111111111,-60.3341666666667
+33974,6555,Santa Maria - Pie de Medano,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5242,-26.9955555555556,-66.2175
+32710,6569,Paraná - Goya,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-03-17T00:00:00,2025-08-26T08:00:00,269,-29.165,-59.3283333333333
+33505,6570,Chubut - Trelew,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,7958,-43.2761111111111,-65.2733333333333
+33188,6577,Las Conchas - Coropampa,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8290,-25.5091666666667,-65.5238888888889
+33241,6578,Uruguay - El Soberbio,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-25T04:00:00,3725,-27.2922222222222,-54.1955555555556
+34139,6581,Azul - Puesto 2,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1706,-42.0405555555556,-71.6063888888889
+33062,6582,Senguerr - Los Molinos,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-08T08:00:00,2025-08-26T08:00:00,5058,-45.9861111111111,-69.475
+33233,6586,Metán - Desembocadura,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4127,-25.3933333333333,-64.5922222222222
+33189,6587,Uruguay - Santo Tomé,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,4016,-28.545,-56.0288888888889
+32860,6588,Uruguay-S.Javier-P.de la Barca,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T12:00:00,6039,-27.8938888888889,-55.1358333333333
+32870,6591,Lago Vinter - Vinter,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-01-22T00:00:00,2025-08-26T08:00:00,1174,-43.9194444444444,-71.4283333333333
+33192,6592,A° Saltito - El Saltito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T16:01:00,2025-08-26T08:00:00,3886,-27.4405555555556,-54.5766666666667
+34145,6595,Lag. La Picasa-Inter. Can. A22,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5368,-34.4494444444444,-62.4133333333333
+33913,6597,Arenales - El Encon,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1848,-24.8422222222222,-65.5933333333333
+32876,6604,Areco - Puente Quemado,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5157,-34.2880555555556,-59.7027777777778
+33064,6608,Chubut - Los Altares,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T04:00:00,4952,-43.8886111111111,-68.3983333333333
+33204,6610,Escondido - El Foyel,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T04:00:00,1728,-41.6797222222222,-71.5652777777778
+33766,6611,Chico - Las Violetas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-02-12T16:00:00,2025-08-26T08:00:00,1034,-53.6738888888889,-67.935
+33231,6615,Uruguay - Garruchos,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5213,-28.1772222222222,-55.6422222222222
+33056,6616,Dique Belén - Aguas Abajo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2068,-27.6155555555556,-67.0163888888889
+34080,6618,Yabebiry - Colonia Martires,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-01-15T16:00:00,2025-08-26T08:00:00,818,-27.4011111111111,-55.335
+33988,6621,Uruguay - Paso de los Libres,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-11-01T20:00:00,2025-08-26T08:00:00,1774,-29.7219444444444,-57.0830555555556
+37597,6622,Quinto - R.N. 35,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-18T13:00:00,2025-08-26T08:00:00,7471,-34.2163888888889,-64.3861111111111
+37595,6624,Aº El Aji - RN Nº35 y RN Nº7,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-18T13:00:00,2025-08-26T12:00:00,3225,-33.9311111111111,-64.3963888888889
+33059,6625,Chico - Chico 2,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1784,-53.5480555555556,-68.3769444444444
+34086,6626,Guayquiraró - RN 12 - A°Curupí,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-21T12:00:00,2025-08-26T08:00:00,736,-30.3511111111111,-59.5147222222222
+33517,6627,Compuerta Alternativa Norte AD,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1866,-34.2419444444444,-62.1211111111111
+33392,6628,Colorado - Villa de Mazán,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2044,-28.6491666666667,-66.5491666666667
+34147,6631,Dique Sotomayor - Aguas abajo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2057,-28.5911111111111,-65.2877777777778
+33393,6637,Bermejo - Azud los Colorados,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2065,-29.2580555555556,-68.2525
+33927,6638,Dique Belén - Embalse,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2063,-27.615,-67.0163888888889
+33058,6639,Afluente Río Grande       ,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1863,-53.8416666666667,-68.5313888888889
+33516,6640,Ñorquinco - Ñorquinco,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2075,-41.8419444444444,-70.8913888888889
+33519,6648,Cullén - Cullén 1,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1668,-52.8527777777778,-68.5669444444444
+33394,6649,Lago Puelo - Lago Puelo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,5036,-42.0972222222222,-71.6194444444444
+33520,6650,Salí - RP Nº323,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,3547,-27.1333333333333,-65.3155555555555
+34087,6651,Dulce - Tuhama,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5461,-28.0144444444444,-64.0980555555555
+33427,6652,Lipeo - Puente Colgante,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T00:00:00,5017,-22.4311111111111,-64.7372222222222
+33395,6654,Carreras - Frontera,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-25T20:00:00,1562,-48.2061111111111,-72.2838888888889
+34000,6655,Aº Azul - Seminario Diocesano,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-15T16:00:00,2025-08-26T12:00:00,7319,-36.8311111111111,-59.8938888888889
+34088,6657,Vinchina - Vinchina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-01-22T16:00:00,2025-08-26T08:00:00,1286,-28.7436111111111,-68.2205555555556
+33061,6659,Riacho Salado - Tatané - RN 11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5460,-26.4077777777778,-58.3591666666667
+33396,6660,Pilcomayo - Villa Gral. Güemes,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-08T16:00:00,2025-08-26T08:00:00,3480,-24.7469444444444,-59.4997222222222
+33216,6664,Aº Mocoretá - RN Nº 14,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-09T08:00:00,2025-08-26T08:00:00,4924,-30.6275,-57.9827777777778
+33066,6667,Vizcachas - Limite con Chile,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2060,-51.0297222222222,-72.3111111111111
+33531,6669,San Javier - Cayastá,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2059,-31.1933333333333,-60.1530555555556
+34148,6671,Vizcachas - Nacimiento,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2024,-50.87,-71.965
+33067,6672,Ona - Ona - RP B,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-02-13T20:00:00,2025-08-26T08:00:00,754,-53.9288888888889,-68.1177777777778
+33399,6678,Bermejo - Alarache,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2035,-22.1902777777778,-64.6527777777778
+33068,6681,Rio Hondo - HID - Sitio 2,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2025,-27.6669444444444,-67.1658333333333
+34150,6684,Piedra Larga - HID - Sitio 1,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T15:30:00,2025-08-26T10:00:00,16707,-27.6125,-67.1947222222222
+34093,6685,Sis. Setúbal-Sta. Fé-La Guard.,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8272,-31.6302777777778,-60.6777777777778
+34115,6698,Salado RP Nº 51 - Achupallas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T20:00:00,2025-08-26T08:00:00,5374,-35.0880555555556,-60.1088888888889
+33400,6706,Los Antiguos - Los Antiguos,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2023-02-07T18:00:00,2025-08-26T11:00:00,8120,-46.5541666666667,-71.6397222222222
+33793,6707,Juramento - El Quebrachal,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,7737,-25.3441666666667,-64.0461111111111
+33250,6718,Lago Fagnano – Puerto Tolhuin ,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-22T01:00:00,2025-08-26T12:00:00,4510,-54.5269444444444,-67.2327777777778
+33424,6719,Grande - Planta Potabilizadora,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-02-13T19:00:00,2025-08-26T12:00:00,3565,-53.8297222222222,-67.8422222222222
+34010,6721,Colorado - Pata Mora,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,6734,-37.2083333333333,-69.1138888888889
+34219,6722,Laguna Melincué - RP Nº 90,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-12-22T13:00:00,2025-08-26T12:00:00,5278,-33.6680555555556,-61.4722222222222
+33251,6730,Coronda - Puerto Gaboto,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2061,-32.4275,-60.8158333333333
+34121,6735,Miriñay - San Roquito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2061,-29.2969444444444,-57.5655555555556
+33426,6738,Miraflores - Sayate,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1828,-22.9008333333333,-65.8494444444444
+33811,6739,Mayo - Paso Río Mayo - HID,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1985,-45.6836111111111,-70.2480555555556
+33252,6740,Carrileufú - Cholila,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-08-13T20:00:00,2025-08-26T08:00:00,75,-42.4955555555556,-71.5411111111111
+33822,6742,Dique Sotomayor - Embalse,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2068,-28.59,-65.2883333333333
+34179,6743,Durazno - Chilecito,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,7395,-29.1511111111111,-67.49
+33952,6744,Del Campo - Cabo San Miguel,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-05-23T16:00:00,2025-08-26T04:00:00,288,-27.4333333333333,-65.9977777777778
+33948,6745,Guanasacate - Jesús Maria,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,7946,-30.9702777777778,-64.0911111111111
+34178,6746,Canal San Antonio- RP Nº66,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,8078,-31.9905555555556,-62.1688888888889
+34224,6747,Areco - San Antonio de Areco,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8323,-34.2405555555556,-59.4994444444444
+34314,6748,Lag. La Picasa - Escollera FFC,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,8322,-34.3372222222222,-62.3247222222222
+33832,6763,Del Valle - Huaycama,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2051,-28.1202777777778,-65.7980555555555
+34851,6832,Palmas,ina_delta,red INA Delta y AMBA,2,Altura hidrométrica,1,medición directa,11,metros,2023-09-15T12:45:10,2025-08-26T11:45:10,16210,-34.304489,-58.543689
+35405,6949,Finky,prevenir,prevenir,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-07T09:45:00,2025-08-26T12:45:00,99717,-34.786209,-58.397766
+35407,6950,LP_Libano,prevenir,prevenir,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-07T09:45:00,2025-08-26T12:35:00,117723,-34.738069,-58.30934
+35409,6951,SF_Montevideo,prevenir,prevenir,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-07T09:45:00,2025-08-26T12:50:00,74777,-34.728604,-58.319435
+35411,6952,SD_Olmos,prevenir,prevenir,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-07T09:45:00,2025-08-26T13:00:00,118009,-34.687629,-58.323275
+36690,7163,Laguna Maria Cristina,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-18T13:00:00,2025-08-26T12:00:00,6378,-27.4788888888889,-58.9208333333333
+36691,7164,Canal Soberanía - Obra Control,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-07-01T00:00:00,2025-08-26T12:00:00,10117,-27.5272222222222,-58.9427777777778
+36693,7166,Santa Lucia - San Roque,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1655,-28.57,-58.7177777777778
+36694,7167,San Javier - Romang,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8315,-29.505,-59.74
+36723,7184,CIRHBAS - LIM  Aº TAPENAGA - ESTANCIA TAPENAGA,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,1024,-27.5672222222222,-59.6588888888889
+36724,7185,CIRHBAS - LIM  LAGUNA EL BONETE - ARROYO GOLONDRIN,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T09:00:00,2025-08-26T09:00:00,972,-29.3880555555556,-60.5469444444444
+36726,7187,CIRHBAS - LIM Aº RETOBADO - CRESPO,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,1016,-30.3375,-60.6288888888889
+36727,7188,CIRHBAS - LIM BAJO CHOROTIS-RN 95,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,995,-28.0886111111111,-61.3519444444444
+36728,7189,CIRHBAS - LIM CANAL INTERLAGOS-CANAL INTERLAGOS,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T09:00:00,2025-08-26T09:00:00,988,-28.9947222222222,-60.5691666666667
+36729,7190,CIRHBAS - LIM CANAL LINEA PARANA TRAMO IV,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,985,-27.9977777777778,-60.7155555555556
+36730,7191,CIRHBAS - LIM LAGUNAS SALADAS- RP 77,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,984,-28.2908333333333,-61.1952777777778
+36732,7193,CIRHBAS - LIM LOS AMORES - CAN,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,5780,-28.1102777777778,-59.9755555555556
+36733,7194,CIRHBAS - LIM MOJON DE FIERRO-CANAL INTERPROVINCIA,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,994,-29.1316666666667,-61.9016666666667
+36735,7196,CIRHBAS - LIM VILLA GUILLERMINA-ARROYO LOS AMORES,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T03:00:00,2025-08-26T09:00:00,984,-28.2744444444444,-59.4216666666667
+36786,7204,CIRHBAS - PF EL AGUARA,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-14T09:00:00,2025-08-26T08:00:00,4546,-27.0722222222222,-60.0758333333333
+36827,7230,Aguapey - Caá Caraí,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1192,-27.8244444444444,-56.2583333333333
+36828,7231,Anizacate - Santa Ana,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T00:00:00,486,-31.6908333333333,-64.5375
+36829,7232,Aº Cululú - Grutly,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1817,-31.2933333333333,-60.9788888888889
+36831,7233,Aº Esquel - Ea El Principio,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,8324,-42.9583333333333,-71.3844444444445
+36832,7234,Aº Feliciano - Paso Correa RP2,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8316,-30.3930555555556,-58.7075
+36833,7235,Aº Golondrina - Fortín Olmos,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-12-17T17:01:00,2025-08-26T12:00:00,5967,-29.0655555555556,-60.4969444444444
+36835,7236,Aº Los Amores - RN Nº11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2046,-28.5558333333333,-59.3558333333333
+36837,7237,Aº Medrano Reser. - Tecnópolis,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T15:15:00,2025-08-26T11:45:00,32861,-34.5611111111111,-58.5077777777778
+36838,7238,Aº Pavón - Cnel. Bogado,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8313,-33.36,-60.5766666666667
+36840,7239,Aº Pilagá - RN Nº11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2051,-25.9844444444444,-58.1625
+36841,7240,Aº Saladillo Amargo - RP Nº 81,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-25T20:00:00,1898,-30.8402777777778,-60.4127777777778
+36842,7241,Aº Saladillo Dulce - RP Nº 81,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2007,-30.8547222222222,-60.2822222222222
+36844,7242,Aº Tapalqué - Av de los Trabaj,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1790,-36.8791666666667,-60.3108333333333
+36845,7243,Aº Vallimanca - RN 226,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2039,-36.3711111111111,-60.9555555555556
+36848,7245,Azul - Puesto 1,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1879,-41.9588888888889,-71.5661111111111
+36858,7247,Bermejo - Balapuca MET,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-24T16:00:00,2025-08-26T08:00:00,1442,-22.4925,-64.4636111111111
+36859,7248,Bermejo - P. Sarmiento,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2066,-23.1438888888889,-64.1947222222222
+36860,7249,Bermejo - Santa Victoria Oeste,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1924,-22.2486111111111,-64.9613888888889
+36862,7250,Blanco - Angualasto,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2063,-30.0505555555556,-69.17
+36870,7251,Calchaquí - Cachi,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-10-17T13:00:00,2025-08-26T12:00:00,1895,-25.1205555555556,-66.1588888888889
+36871,7252,Canal 9 - Autovia 2,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8319,-36.2811111111111,-57.7038888888889
+36875,7255,Carrenleufú - Puente de Hierro,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-25T20:00:00,1747,-43.5436111111111,-71.4872222222222
+36886,7258,Chubut - Las Plumas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8035,-43.7233333333333,-67.2866666666667
+36888,7259,Chubut - Paso del Sapo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1904,-42.7408333333333,-69.5947222222222
+36905,7260,Diamante - Monte Comán,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,7308,-34.5705555555556,-67.865
+36906,7261,Dique Paso de Las Carretas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T20:00:00,2025-08-26T08:00:00,1322,-33.3336111111111,-65.8669444444444
+36917,7264,Dulce III – Los Quiroga,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,8323,-27.6058333333333,-64.4075
+36918,7265,Durazno - La Florida,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-12-20T12:00:00,2025-08-26T08:00:00,97,-32.2158333333333,-64.7658333333333
+36920,7266,Empedrado-Ruta Provincial Nº6,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-10-07T12:00:00,2025-08-26T08:00:00,1786,-27.8013888888889,-58.5052777777778
+36921,7267,Epuyén - La Angostura,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-07-31T00:00:00,2025-08-26T08:00:00,50,-42.1888888888889,-71.4
+36950,7270,Grande - Ume Pay,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T10:00:00,8078,-32.2183333333333,-64.7513888888889
+36962,7275,Guayquiraró - La Grela,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1307,-30.3463888888889,-59.3005555555556
+36963,7276,Hielo - Confluencia,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-08-20T16:00:00,2025-08-26T08:00:00,27,-43.5166666666667,-71.6091666666667
+36964,7277,Iguazú - Pto. Iguazú,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T15:30:00,2025-08-26T10:00:00,15512,-25.5933333333333,-54.58
+36968,7279,Iruya - San José,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,1360,-22.8641666666667,-64.7052777777778
+36996,7283,Laguna Melincué - Melincué,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8206,-33.6508333333333,-61.4552777777778
+37013,7286,Las Conchas - La Punilla RP44,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2075,-26.0119444444444,-65.8230555555556
+37019,7288,Manso - Los Moscos,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,2043,-41.3533333333333,-71.6413888888889
+37029,7291,Marapa - RN Nº 157 Lamadrid,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,3907,-27.6572222222222,-65.2447222222222
+37038,7293,Negro - Isla Jordán,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T18:00:00,2025-08-26T12:00:00,3859,-38.9961111111111,-67.9733333333333
+37040,7294,Negro - Paso Cordova,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-07-17T17:00:00,2025-08-26T12:00:00,948,-39.1125,-67.6230555555556
+37041,7295,Negro - Philipon,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-02-05T00:00:00,2025-08-26T08:00:00,1068,-27.1741666666667,-59.2613888888889
+37042,7296,Negro - San Fernando,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-19T04:00:00,2025-08-26T12:00:00,8186,-27.4355555555556,-58.9822222222222
+37043,7297,Neuquén - Dique Ballester,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T08:00:00,1963,-38.7247222222222,-68.1705555555556
+37055,7301,Nogoya - RP Nº 11,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-10-08T16:00:00,2025-08-26T04:00:00,1480,-32.8419444444444,-59.8647222222222
+37064,7302,Paraná - HID Chapetón,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,2281,-31.5741666666667,-60.2833333333333
+37065,7303,Paraná - Ita Cajón,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T17:00:00,2025-08-26T10:00:00,14100,-25.6047222222222,-54.5941666666667
+37076,7306,Pico - Frontera,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T20:00:00,2025-08-26T00:00:00,629,-44.2402777777778,-71.66
+37530,7378,Salí - Simoca,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T11:00:00,8309,-27.3186111111111,-65.2277777777778
+37558,7381,Santa Catalina - Catalina 630,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,3854,-33.2844444444444,-64.3536111111111
+37559,7382,Santa Catalina - Colonia Hogar,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-26T00:00:00,2025-08-26T08:00:00,1998,-30.8491666666667,-64.2738888888889
+37574,7384,Segundo - Despeñaderos RN Nº 3,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8297,-31.8033333333333,-64.3088888888889
+37577,7385,Tecka - Estancia Niedo,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,2009,-43.3497222222222,-70.8797222222222
+37578,7386,Tercero - Villa María,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,8114,-32.4219444444444,-63.2447222222222
+37580,7387,Ternero - Cuesta del Ternero,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2025-06-12T16:00:00,2025-08-26T11:00:00,766,-41.9505555555556,-71.3752777777778
+37581,7388,Tunuyán - Las Catitas,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-13T16:00:00,2025-08-26T12:00:00,1859,-33.3072222222222,-68.0613888888889
+37594,7392,Vacas - Punta de Vacas  ,sat2,RHN - SAT,2,Altura hidrométrica,1,medición directa,11,metros,2024-09-18T16:00:00,2025-08-26T08:00:00,1985,-32.8469444444444,-69.7625
