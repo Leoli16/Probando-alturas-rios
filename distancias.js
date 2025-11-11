@@ -1,7 +1,7 @@
 import fs from "fs";
 let inundaciones = fs.readFileSync("inundaciones.json");
 inundaciones = JSON.parse(inundaciones);
-let rios = fs.readFileSync("alturasHidrometricasConDatos.json");
+let rios = fs.readFileSync("alturasHidrometricas.json");
 rios = JSON.parse(rios);
 
 function calcularDistancia(localidad, rio) {
@@ -53,12 +53,12 @@ for (let i in inundaciones){
     rio2.code = codes[1]
 
     inundaciones[i].rio1 = rio1;
-    inundaciones[i].rio2 = rio2;
+    //inundaciones[i].rio2 = rio2;
 }
 
 let contenidoJSON = JSON.stringify(inundaciones, null, 2);
 try {
-    fs.writeFileSync('inundacionesConDatos.json', contenidoJSON);
+    fs.writeFileSync('inundaciones.json', contenidoJSON);
     console.log('✅ ¡Archivo "inundaciones.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
