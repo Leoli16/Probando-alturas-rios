@@ -1,7 +1,7 @@
 import fs from "fs";
 let inundaciones = fs.readFileSync("inundaciones.json");
 inundaciones = JSON.parse(inundaciones);
-let rios = fs.readFileSync("alturasHidrometricas.json");
+let rios = fs.readFileSync("alturasHidrometricasConDatos.json");
 rios = JSON.parse(rios);
 
 function calcularDistancia(localidad, rio) {
