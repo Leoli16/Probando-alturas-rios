@@ -1,7 +1,7 @@
 import fs from "fs";
 let inundaciones = fs.readFileSync("inundaciones.json");
 inundaciones = JSON.parse(inundaciones);
-let rios = fs.readFileSync("alturasHidrometricas.json");
+let rios = fs.readFileSync("alturasHidrometricasConDatos.json");
 rios = JSON.parse(rios);
 
 function calcularDistancia(localidad, rio) {
@@ -46,10 +46,10 @@ for (let i in inundaciones){
         }
     }
     rio1.nombre = nombres[0]
-    rio1.distancia = distancias[0]
+    rio1.distancia = parseInt(distancias[0]*100)/100
     rio1.code = codes[0]
     rio2.nombre = nombres[1]
-    rio2.distancia = distancias[1]
+    rio2.distancia = parseInt(distancias[1]*100)/100
     rio2.code = codes[1]
 
     inundaciones[i].rio1 = rio1;
