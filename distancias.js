@@ -31,6 +31,7 @@ console.log(calcularDistancia([-54.0054, 34.2355], [-54.5903, 33.2355]));
 for (let i in inundaciones){
     let distancias = [100000000]
     let nombres = ["nombre random"]
+    let codes = ["id random"];
     let rio1 = {}
     let rio2 = {}
     for (let l of rios){
@@ -40,12 +41,16 @@ for (let i in inundaciones){
         if (distancia < distancias[0]){
             distancias.unshift(distancia);
             nombres.unshift(l.estacion_nombre)
+            let code = `${l.seriesid}-${l.sitecode}`
+            codes.unshift(code)
         }
     }
     rio1.nombre = nombres[0]
     rio1.distancia = distancias[0]
+    rio1.code = codes[0]
     rio2.nombre = nombres[1]
     rio2.distancia = distancias[1]
+    rio2.code = codes[1]
 
     inundaciones[i].rio1 = rio1;
     inundaciones[i].rio2 = rio2;
