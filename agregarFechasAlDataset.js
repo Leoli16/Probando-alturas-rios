@@ -55,21 +55,30 @@ for (let i in inundaciones){
 
     if (dia.length === 1){dia = "0"+dia}
     if (mes.length === 1){mes = "0"+mes}
+
+    let fechaFormateada = `${año}-${mes}-${dia}`
     let diaSemanal = obtenerDiaSemana(año, mes, dia)
     diaSemanal = numerosDeDias[diaSemanal]
     
     let diaDeInicio = modificarFecha(año, mes, dia, -diaSemanal)
-    console.log(diaDeInicio)
     
     let listaDeDias = []
     for  (let n = 0; n<7; n++){
         listaDeDias.push(diaDeInicio)
         let nuevaFecha = diaDeInicio.split("-")
-        console.log(nuevaFecha)
         let nuevoAño = parseInt(nuevaFecha[0])
         let nuevoMes = parseInt(nuevaFecha[1])
         let nuevoDia = parseInt(nuevaFecha[2])
-        diaDeInicio = modificarFecha(nuevoAño, nuevoMes, nuevoDia)
+        diaDeInicio = modificarFecha(nuevoAño, nuevoMes, nuevoDia, 1)
     }
-    console.log(listaDeDias)
+    inundaciones[i].fechas = listaDeDias;
+}
+
+const contenidoJSON = JSON.stringify(inundaciones, null, 2);
+
+try {
+    fs.writeFileSync('inundaciones.json', contenidoJSON);
+    console.log('✅ ¡Archivo "inundaciones.json" guardado con éxito!');
+  } catch (error) {
+    console.error('❌ Error al guardar el archivo:', error);
 }
