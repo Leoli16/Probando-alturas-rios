@@ -4,7 +4,7 @@ let inundaciones = JSON.parse(fs.readFileSync("inundaciones.json"));
 
 let contador = 0;
 for (let i in inundaciones){
-    if (inundaciones[i].rio1.distancia <= 15){
+    if (inundaciones[i].distanciaRio <= 15){
         contador+=1;
         inundaciones[i].hayRioCercano = true;
     }

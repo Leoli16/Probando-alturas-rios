@@ -7,7 +7,9 @@ let inundaciones = JSON.parse(fs.readFileSync(archivo))
 let lista = [];
 
 for (let i of inundaciones){
-    delete i.rio2
+    i.distanciaRio = i.rio1.distancia;
+    i.codeRio = i.rio1.code;
+    delete i["rio1"]
     lista.push(i)
 }
 
