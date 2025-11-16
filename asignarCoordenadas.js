@@ -3,7 +3,7 @@ import fs from "fs"
 
 let localidades = fs.readFileSync("localidades.json");
 localidades = JSON.parse(localidades)
-let inundaciones = fs.readFileSync("registrosNegativos.json");
+let inundaciones = fs.readFileSync("inundaciones.json");
 inundaciones = JSON.parse(inundaciones)
 
 for (let i in inundaciones){
@@ -32,8 +32,8 @@ let lista = inundaciones
 const contenidoJSON = JSON.stringify(lista, null, 2);
 
 try {
-    fs.writeFileSync('registrosNegativos.json', contenidoJSON);
-    console.log('✅ ¡Archivo "registrosNegativos.json" guardado con éxito!');
+    fs.writeFileSync('inundaciones.json', contenidoJSON);
+    console.log('✅ ¡Archivo "inundaciones.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
 }

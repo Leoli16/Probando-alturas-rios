@@ -1,0 +1,2110 @@
+[
+  {
+    "NAM": "CONCORDIA, ENTRE RÍOS",
+    "IN1": "30015"
+  },
+  {
+    "NAM": "FEDERAL, ENTRE RÍOS",
+    "IN1": "30035"
+  },
+  {
+    "NAM": "GUALEGUAYCHU, ENTRE RÍOS",
+    "IN1": "30056"
+  },
+  {
+    "NAM": "ISLAS DEL IBICUY, ENTRE RÍOS",
+    "IN1": "30063"
+  },
+  {
+    "NAM": "VICTORIA, ENTRE RÍOS",
+    "IN1": "30105"
+  },
+  {
+    "NAM": "DIAMANTE, ENTRE RÍOS",
+    "IN1": "30021"
+  },
+  {
+    "NAM": "URUGUAY, ENTRE RÍOS",
+    "IN1": "30098"
+  },
+  {
+    "NAM": "PARANA, ENTRE RÍOS",
+    "IN1": "30084"
+  },
+  {
+    "NAM": "SALADILLO, BUENOS AIRES",
+    "IN1": "06707"
+  },
+  {
+    "NAM": "LAS FLORES, BUENOS AIRES",
+    "IN1": "06455"
+  },
+  {
+    "NAM": "ROJAS, BUENOS AIRES",
+    "IN1": "06686"
+  },
+  {
+    "NAM": "ESCOBAR, BUENOS AIRES",
+    "IN1": "06252"
+  },
+  {
+    "NAM": "JOSE C PAZ, BUENOS AIRES",
+    "IN1": "06412"
+  },
+  {
+    "NAM": "SAN ANTONIO DE ARECO, BUENOS AIRES",
+    "IN1": "06735"
+  },
+  {
+    "NAM": "MAIPU, BUENOS AIRES",
+    "IN1": "06511"
+  },
+  {
+    "NAM": "O HIGGINS, CHACO",
+    "IN1": "22112"
+  },
+  {
+    "NAM": "MORENO, BUENOS AIRES",
+    "IN1": "06560"
+  },
+  {
+    "NAM": "LA MATANZA, BUENOS AIRES",
+    "IN1": "06427"
+  },
+  {
+    "NAM": "GENERAL PAZ, BUENOS AIRES",
+    "IN1": "06343"
+  },
+  {
+    "NAM": "GENERAL GUIDO, BUENOS AIRES",
+    "IN1": "06308"
+  },
+  {
+    "NAM": "GENERAL JUAN MADARIAGA, BUENOS AIRES",
+    "IN1": "06315"
+  },
+  {
+    "NAM": "TANDIL, BUENOS AIRES",
+    "IN1": "06791"
+  },
+  {
+    "NAM": "CORONEL SUAREZ, BUENOS AIRES",
+    "IN1": "06203"
+  },
+  {
+    "NAM": "ADOLFO GONZALES CHAVES, BUENOS AIRES",
+    "IN1": "06014"
+  },
+  {
+    "NAM": "BAHÍA BLANCA, BUENOS AIRES",
+    "IN1": "06056"
+  },
+  {
+    "NAM": "GENERAL ALVARADO, BUENOS AIRES",
+    "IN1": "06280"
+  },
+  {
+    "NAM": "GENERAL PUEYRREDON, BUENOS AIRES",
+    "IN1": "06357"
+  },
+  {
+    "NAM": "MAR CHIQUITA, BUENOS AIRES",
+    "IN1": "06518"
+  },
+  {
+    "NAM": "VILLA GESELL, BUENOS AIRES",
+    "IN1": "06868"
+  },
+  {
+    "NAM": "PINAMAR, BUENOS AIRES",
+    "IN1": "06644"
+  },
+  {
+    "NAM": "GENERAL LAVALLE, BUENOS AIRES",
+    "IN1": "06336"
+  },
+  {
+    "NAM": "LA COSTA, BUENOS AIRES",
+    "IN1": "06420"
+  },
+  {
+    "NAM": "MAGDALENA, BUENOS AIRES",
+    "IN1": "06505"
+  },
+  {
+    "NAM": "VICENTE LOPEZ, BUENOS AIRES",
+    "IN1": "06861"
+  },
+  {
+    "NAM": "ALBERDI, SANTIAGO DEL ESTERO",
+    "IN1": "86014"
+  },
+  {
+    "NAM": "JUAN F IBARRA, SANTIAGO DEL ESTERO",
+    "IN1": "86098"
+  },
+  {
+    "NAM": "GENERAL TABOADA, SANTIAGO DEL ESTERO",
+    "IN1": "86077"
+  },
+  {
+    "NAM": "RIVADAVIA, SANTIAGO DEL ESTERO",
+    "IN1": "86154"
+  },
+  {
+    "NAM": "OJO DE AGUA, SANTIAGO DEL ESTERO",
+    "IN1": "86126"
+  },
+  {
+    "NAM": "CHOYA, SANTIAGO DEL ESTERO",
+    "IN1": "86063"
+  },
+  {
+    "NAM": "GOBERNADOR DUPUY, SAN LUIS",
+    "IN1": "74042"
+  },
+  {
+    "NAM": "CACHI, SALTA",
+    "IN1": "66014"
+  },
+  {
+    "NAM": "CHICOANA, SALTA",
+    "IN1": "66042"
+  },
+  {
+    "NAM": "LA VIÑA, SALTA",
+    "IN1": "66098"
+  },
+  {
+    "NAM": "RAUCH, BUENOS AIRES",
+    "IN1": "06672"
+  },
+  {
+    "NAM": "METAN, SALTA",
+    "IN1": "66112"
+  },
+  {
+    "NAM": "MOLINOS, SALTA",
+    "IN1": "66119"
+  },
+  {
+    "NAM": "SALLIQUELO, BUENOS AIRES",
+    "IN1": "06721"
+  },
+  {
+    "NAM": "BERAZATEGUI, BUENOS AIRES",
+    "IN1": "06091"
+  },
+  {
+    "NAM": "GENERAL GUEMES, SALTA",
+    "IN1": "66049"
+  },
+  {
+    "NAM": "SAN CARLOS, SALTA",
+    "IN1": "66154"
+  },
+  {
+    "NAM": "SANTA ROSA, MENDOZA",
+    "IN1": "50112"
+  },
+  {
+    "NAM": "RIVADAVIA, MENDOZA",
+    "IN1": "50084"
+  },
+  {
+    "NAM": "TORNQUIST, BUENOS AIRES",
+    "IN1": "06819"
+  },
+  {
+    "NAM": "LA PAZ, MENDOZA",
+    "IN1": "50042"
+  },
+  {
+    "NAM": "CORONEL PRINGLES, BUENOS AIRES",
+    "IN1": "06196"
+  },
+  {
+    "NAM": "TIGRE, BUENOS AIRES",
+    "IN1": "06805"
+  },
+  {
+    "NAM": "GENERAL PINTO, BUENOS AIRES",
+    "IN1": "06351"
+  },
+  {
+    "NAM": "SAN CAYETANO, BUENOS AIRES",
+    "IN1": "06742"
+  },
+  {
+    "NAM": "TRES ARROYOS, BUENOS AIRES",
+    "IN1": "06833"
+  },
+  {
+    "NAM": "CORONEL DORREGO, BUENOS AIRES",
+    "IN1": "06189"
+  },
+  {
+    "NAM": "NECOCHEA, BUENOS AIRES",
+    "IN1": "06581"
+  },
+  {
+    "NAM": "INDEPENDENCIA, LA RIOJA",
+    "IN1": "46105"
+  },
+  {
+    "NAM": "GENERAL OCAMPO, LA RIOJA",
+    "IN1": "46084"
+  },
+  {
+    "NAM": "CHAMICAL, LA RIOJA",
+    "IN1": "46035"
+  },
+  {
+    "NAM": "ARAUCO, LA RIOJA",
+    "IN1": "46007"
+  },
+  {
+    "NAM": "LEZAMA, BUENOS AIRES",
+    "IN1": "06466"
+  },
+  {
+    "NAM": "CHASCOMUS, BUENOS AIRES",
+    "IN1": "06217"
+  },
+  {
+    "NAM": "PUNTA INDIO, BUENOS AIRES",
+    "IN1": "06655"
+  },
+  {
+    "NAM": "EL CARMEN, JUJUY",
+    "IN1": "38014"
+  },
+  {
+    "NAM": "SANTA MARIA, CATAMARCA",
+    "IN1": "10091"
+  },
+  {
+    "NAM": "CAMPANA, BUENOS AIRES",
+    "IN1": "06126"
+  },
+  {
+    "NAM": "SANTA ROSA, CATAMARCA",
+    "IN1": "10098"
+  },
+  {
+    "NAM": "LA PAZ, CATAMARCA",
+    "IN1": "10070"
+  },
+  {
+    "NAM": "MAGALLANES, SANTA CRUZ",
+    "IN1": "78042"
+  },
+  {
+    "NAM": "CORPEN AIKE, SANTA CRUZ",
+    "IN1": "78007"
+  },
+  {
+    "NAM": "CONESA, RÍO NEGRO",
+    "IN1": "62028"
+  },
+  {
+    "NAM": "GAIMAN, CHUBUT",
+    "IN1": "26042"
+  },
+  {
+    "NAM": "RAWSON, CHUBUT",
+    "IN1": "26077"
+  },
+  {
+    "NAM": "GENERAL LAMADRID, LA RIOJA",
+    "IN1": "46077"
+  },
+  {
+    "NAM": "AYACUCHO, SAN LUIS",
+    "IN1": "74007"
+  },
+  {
+    "NAM": "COMUNA 6, CIUDAD DE BUENOS AIRES",
+    "IN1": "02006"
+  },
+  {
+    "NAM": "12 DE OCTUBRE, CHACO",
+    "IN1": "22036"
+  },
+  {
+    "NAM": "TULUMBA, CÓRDOBA",
+    "IN1": "14175"
+  },
+  {
+    "NAM": "CRUZ DEL EJE, CÓRDOBA",
+    "IN1": "14028"
+  },
+  {
+    "NAM": "PUNILLA, CÓRDOBA",
+    "IN1": "14091"
+  },
+  {
+    "NAM": "SANTA MARÍA, CÓRDOBA",
+    "IN1": "14147"
+  },
+  {
+    "NAM": "MINAS, CÓRDOBA",
+    "IN1": "14070"
+  },
+  {
+    "NAM": "POCHO, CÓRDOBA",
+    "IN1": "14077"
+  },
+  {
+    "NAM": "SAN ALBERTO, CÓRDOBA",
+    "IN1": "14126"
+  },
+  {
+    "NAM": "RIO SEGUNDO, CÓRDOBA",
+    "IN1": "14119"
+  },
+  {
+    "NAM": "SAN JUSTO, CÓRDOBA",
+    "IN1": "14140"
+  },
+  {
+    "NAM": "UNION, CÓRDOBA",
+    "IN1": "14182"
+  },
+  {
+    "NAM": "TERCERO ARRIBA, CÓRDOBA",
+    "IN1": "14161"
+  },
+  {
+    "NAM": "CERRILLOS, SALTA",
+    "IN1": "66035"
+  },
+  {
+    "NAM": "RIO CUARTO, CÓRDOBA",
+    "IN1": "14098"
+  },
+  {
+    "NAM": "TUPUNGATO, MENDOZA",
+    "IN1": "50126"
+  },
+  {
+    "NAM": "PILAGAS, FORMOSA",
+    "IN1": "34042"
+  },
+  {
+    "NAM": "LAISHI, FORMOSA",
+    "IN1": "34021"
+  },
+  {
+    "NAM": "PIRANE, FORMOSA",
+    "IN1": "34056"
+  },
+  {
+    "NAM": "GENERAL GUEMES, CHACO",
+    "IN1": "22063"
+  },
+  {
+    "NAM": "VALCHETA, RÍO NEGRO",
+    "IN1": "62084"
+  },
+  {
+    "NAM": "SAN ANTONIO, RÍO NEGRO",
+    "IN1": "62077"
+  },
+  {
+    "NAM": "9 DE JULIO, RÍO NEGRO",
+    "IN1": "62049"
+  },
+  {
+    "NAM": "ÑORQUINCO, RÍO NEGRO",
+    "IN1": "62056"
+  },
+  {
+    "NAM": "25 DE MAYO, RÍO NEGRO",
+    "IN1": "62091"
+  },
+  {
+    "NAM": "TELSEN, CHUBUT",
+    "IN1": "26105"
+  },
+  {
+    "NAM": "PILCANIYEU, RÍO NEGRO",
+    "IN1": "62070"
+  },
+  {
+    "NAM": "ADOLFO ALSINA, BUENOS AIRES",
+    "IN1": "06007"
+  },
+  {
+    "NAM": "PELLEGRINI, BUENOS AIRES",
+    "IN1": "06616"
+  },
+  {
+    "NAM": "PUAN, BUENOS AIRES",
+    "IN1": "06651"
+  },
+  {
+    "NAM": "VILLARINO, BUENOS AIRES",
+    "IN1": "06875"
+  },
+  {
+    "NAM": "PRESIDENTE ROQUE SAENZ PEÑA, CÓRDOBA",
+    "IN1": "14084"
+  },
+  {
+    "NAM": "GENERAL VILLEGAS, BUENOS AIRES",
+    "IN1": "06392"
+  },
+  {
+    "NAM": "GENERAL ROCA, CÓRDOBA",
+    "IN1": "14035"
+  },
+  {
+    "NAM": "GENERAL ALVEAR, MENDOZA",
+    "IN1": "50014"
+  },
+  {
+    "NAM": "LA CALDERA, SALTA",
+    "IN1": "66077"
+  },
+  {
+    "NAM": "SAN RAFAEL, MENDOZA",
+    "IN1": "50105"
+  },
+  {
+    "NAM": "ANTA, SALTA",
+    "IN1": "66007"
+  },
+  {
+    "NAM": "PICUN LEUFU, NEUQUÉN",
+    "IN1": "58098"
+  },
+  {
+    "NAM": "ZAPALA, NEUQUÉN",
+    "IN1": "58112"
+  },
+  {
+    "NAM": "ALUMINE, NEUQUÉN",
+    "IN1": "58007"
+  },
+  {
+    "NAM": "SARMIENTO, CHUBUT",
+    "IN1": "26091"
+  },
+  {
+    "NAM": "COMUNA 1, CIUDAD DE BUENOS AIRES",
+    "IN1": "02001"
+  },
+  {
+    "NAM": "COMUNA 4, CIUDAD DE BUENOS AIRES",
+    "IN1": "02004"
+  },
+  {
+    "NAM": "COMUNA 5, CIUDAD DE BUENOS AIRES",
+    "IN1": "02005"
+  },
+  {
+    "NAM": "COMUNA 7, CIUDAD DE BUENOS AIRES",
+    "IN1": "02007"
+  },
+  {
+    "NAM": "COMUNA 10, CIUDAD DE BUENOS AIRES",
+    "IN1": "02010"
+  },
+  {
+    "NAM": "COMUNA 11, CIUDAD DE BUENOS AIRES",
+    "IN1": "02011"
+  },
+  {
+    "NAM": "COMUNA 12, CIUDAD DE BUENOS AIRES",
+    "IN1": "02012"
+  },
+  {
+    "NAM": "FRAY MAMERTO ESQUIU, CATAMARCA",
+    "IN1": "10063"
+  },
+  {
+    "NAM": "SAN MARTIN, SANTIAGO DEL ESTERO",
+    "IN1": "86175"
+  },
+  {
+    "NAM": "YAVI, JUJUY",
+    "IN1": "38112"
+  },
+  {
+    "NAM": "SANTA CATALINA, JUJUY",
+    "IN1": "38077"
+  },
+  {
+    "NAM": "SAN PEDRO, JUJUY",
+    "IN1": "38063"
+  },
+  {
+    "NAM": "VALLE GRANDE, JUJUY",
+    "IN1": "38105"
+  },
+  {
+    "NAM": "PATIÑO, FORMOSA",
+    "IN1": "34035"
+  },
+  {
+    "NAM": "BERMEJO, FORMOSA",
+    "IN1": "34007"
+  },
+  {
+    "NAM": "SUSQUES, JUJUY",
+    "IN1": "38084"
+  },
+  {
+    "NAM": "IRUYA, SALTA",
+    "IN1": "66070"
+  },
+  {
+    "NAM": "MATACOS, FORMOSA",
+    "IN1": "34028"
+  },
+  {
+    "NAM": "LOS ANDES, SALTA",
+    "IN1": "66105"
+  },
+  {
+    "NAM": "TILCARA, JUJUY",
+    "IN1": "38094"
+  },
+  {
+    "NAM": "PALPALA, JUJUY",
+    "IN1": "38042"
+  },
+  {
+    "NAM": "LOVENTUE, LA PAMPA",
+    "IN1": "42098"
+  },
+  {
+    "NAM": "HUCAL, LA PAMPA",
+    "IN1": "42077"
+  },
+  {
+    "NAM": "CALEU CALEU, LA PAMPA",
+    "IN1": "42014"
+  },
+  {
+    "NAM": "LIHUEL CALEL, LA PAMPA",
+    "IN1": "42084"
+  },
+  {
+    "NAM": "CURACO, LA PAMPA",
+    "IN1": "42042"
+  },
+  {
+    "NAM": "LIMAY MAHUIDA, LA PAMPA",
+    "IN1": "42091"
+  },
+  {
+    "NAM": "PUELEN, LA PAMPA",
+    "IN1": "42112"
+  },
+  {
+    "NAM": "CHALILEO, LA PAMPA",
+    "IN1": "42049"
+  },
+  {
+    "NAM": "CHICAL CO, LA PAMPA",
+    "IN1": "42063"
+  },
+  {
+    "NAM": "QUEBRACHOS, SANTIAGO DEL ESTERO",
+    "IN1": "86140"
+  },
+  {
+    "NAM": "MONTE CASEROS, CORRIENTES",
+    "IN1": "18112"
+  },
+  {
+    "NAM": "ESQUINA, CORRIENTES",
+    "IN1": "18049"
+  },
+  {
+    "NAM": "MONTECARLO, MISIONES",
+    "IN1": "54084"
+  },
+  {
+    "NAM": "ELDORADO, MISIONES",
+    "IN1": "54042"
+  },
+  {
+    "NAM": "SAN PEDRO, MISIONES",
+    "IN1": "54112"
+  },
+  {
+    "NAM": "TAPENAGA, CHACO",
+    "IN1": "22161"
+  },
+  {
+    "NAM": "QUITILIPI, CHACO",
+    "IN1": "22133"
+  },
+  {
+    "NAM": "PRESIDENCIA DE LA PLAZA, CHACO",
+    "IN1": "22119"
+  },
+  {
+    "NAM": "PERGAMINO, BUENOS AIRES",
+    "IN1": "06623"
+  },
+  {
+    "NAM": "SARGENTO CABRAL, CHACO",
+    "IN1": "22154"
+  },
+  {
+    "NAM": "INDEPENDENCIA, CHACO",
+    "IN1": "22070"
+  },
+  {
+    "NAM": "MAYOR LUIS J FONTANA, CHACO",
+    "IN1": "22098"
+  },
+  {
+    "NAM": "FRAY JUSTO SANTA MARÍA DE ORO, CHACO",
+    "IN1": "22043"
+  },
+  {
+    "NAM": "GENERAL BELGRANO, LA RIOJA",
+    "IN1": "46063"
+  },
+  {
+    "NAM": "LAS COLONIAS, SANTA FE",
+    "IN1": "82070"
+  },
+  {
+    "NAM": "SAN JUSTO, SANTA FE",
+    "IN1": "82112"
+  },
+  {
+    "NAM": "SAN CRISTOBAL, SANTA FE",
+    "IN1": "82091"
+  },
+  {
+    "NAM": "SAN JAVIER, SANTA FE",
+    "IN1": "82098"
+  },
+  {
+    "NAM": "GENERAL OBLIGADO, SANTA FE",
+    "IN1": "82049"
+  },
+  {
+    "NAM": "VERA, SANTA FE",
+    "IN1": "82133"
+  },
+  {
+    "NAM": "9 DE JULIO, SANTA FE",
+    "IN1": "82077"
+  },
+  {
+    "NAM": "CHAPALEUFU, LA PAMPA",
+    "IN1": "42056"
+  },
+  {
+    "NAM": "REALICO, LA PAMPA",
+    "IN1": "42133"
+  },
+  {
+    "NAM": "MARACO, LA PAMPA",
+    "IN1": "42105"
+  },
+  {
+    "NAM": "TRENEL, LA PAMPA",
+    "IN1": "42147"
+  },
+  {
+    "NAM": "COPO, SANTIAGO DEL ESTERO",
+    "IN1": "86056"
+  },
+  {
+    "NAM": "RIO HONDO, SANTIAGO DEL ESTERO",
+    "IN1": "86147"
+  },
+  {
+    "NAM": "VINCHINA, LA RIOJA",
+    "IN1": "46098"
+  },
+  {
+    "NAM": "CAPITAL, LA RIOJA",
+    "IN1": "46014"
+  },
+  {
+    "NAM": "RIO SECO, CÓRDOBA",
+    "IN1": "14112"
+  },
+  {
+    "NAM": "AVELLANEDA, RÍO NEGRO",
+    "IN1": "62014"
+  },
+  {
+    "NAM": "GENERAL ROCA, RÍO NEGRO",
+    "IN1": "62042"
+  },
+  {
+    "NAM": "BELGRANO, SAN LUIS",
+    "IN1": "74014"
+  },
+  {
+    "NAM": "LOS LAGOS, NEUQUÉN",
+    "IN1": "58070"
+  },
+  {
+    "NAM": "LACAR, NEUQUÉN",
+    "IN1": "58056"
+  },
+  {
+    "NAM": "BELEN, CATAMARCA",
+    "IN1": "10035"
+  },
+  {
+    "NAM": "CONFLUENCIA, NEUQUÉN",
+    "IN1": "58035"
+  },
+  {
+    "NAM": "PICUNCHES, NEUQUÉN",
+    "IN1": "58105"
+  },
+  {
+    "NAM": "AÑELO, NEUQUÉN",
+    "IN1": "58014"
+  },
+  {
+    "NAM": "LONCOPUE, NEUQUÉN",
+    "IN1": "58063"
+  },
+  {
+    "NAM": "ÑORQUIN, NEUQUÉN",
+    "IN1": "58084"
+  },
+  {
+    "NAM": "CAPITAL, CATAMARCA",
+    "IN1": "10049"
+  },
+  {
+    "NAM": "ANCASTI, CATAMARCA",
+    "IN1": "10014"
+  },
+  {
+    "NAM": "PEHUENCHES, NEUQUÉN",
+    "IN1": "58091"
+  },
+  {
+    "NAM": "MINAS, NEUQUÉN",
+    "IN1": "58077"
+  },
+  {
+    "NAM": "CHOS MALAL, NEUQUÉN",
+    "IN1": "58042"
+  },
+  {
+    "NAM": "CUSHAMEN, CHUBUT",
+    "IN1": "26014"
+  },
+  {
+    "NAM": "LAGO BUENOS AIRES, SANTA CRUZ",
+    "IN1": "78035"
+  },
+  {
+    "NAM": "COMUNA 2, CIUDAD DE BUENOS AIRES",
+    "IN1": "02002"
+  },
+  {
+    "NAM": "COMUNA 8, CIUDAD DE BUENOS AIRES",
+    "IN1": "02008"
+  },
+  {
+    "NAM": "POMAN, CATAMARCA",
+    "IN1": "10084"
+  },
+  {
+    "NAM": "SOBREMONTE, CÓRDOBA",
+    "IN1": "14154"
+  },
+  {
+    "NAM": "USHUAIA, TIERRA DEL FUEGO",
+    "IN1": "94014"
+  },
+  {
+    "NAM": "RIO GRANDE, TIERRA DEL FUEGO",
+    "IN1": "94007"
+  },
+  {
+    "NAM": "COMUNA 13, CIUDAD DE BUENOS AIRES",
+    "IN1": "02013"
+  },
+  {
+    "NAM": "GUER AIKE, SANTA CRUZ",
+    "IN1": "78021"
+  },
+  {
+    "NAM": "BANDA, SANTIAGO DEL ESTERO",
+    "IN1": "86035"
+  },
+  {
+    "NAM": "PASO DE INDIOS, CHUBUT",
+    "IN1": "26070"
+  },
+  {
+    "NAM": "MARTIRES, CHUBUT",
+    "IN1": "26063"
+  },
+  {
+    "NAM": "SARMIENTO, SANTIAGO DEL ESTERO",
+    "IN1": "86182"
+  },
+  {
+    "NAM": "DESEADO, SANTA CRUZ",
+    "IN1": "78014"
+  },
+  {
+    "NAM": "LANGUIÑEO, CHUBUT",
+    "IN1": "26056"
+  },
+  {
+    "NAM": "BELGRANO, SANTIAGO DEL ESTERO",
+    "IN1": "86042"
+  },
+  {
+    "NAM": "AGUIRRE, SANTIAGO DEL ESTERO",
+    "IN1": "86007"
+  },
+  {
+    "NAM": "MAIPU, CHACO",
+    "IN1": "22091"
+  },
+  {
+    "NAM": "GUASAYAN, SANTIAGO DEL ESTERO",
+    "IN1": "86084"
+  },
+  {
+    "NAM": "CAPITAL, CÓRDOBA",
+    "IN1": "14014"
+  },
+  {
+    "NAM": "ANTOFAGASTA DE LA SIERRA, CATAMARCA",
+    "IN1": "10028"
+  },
+  {
+    "NAM": "SAN CARLOS, MENDOZA",
+    "IN1": "50091"
+  },
+  {
+    "NAM": "TUNUYAN, MENDOZA",
+    "IN1": "50119"
+  },
+  {
+    "NAM": "LUJAN DE CUYO, MENDOZA",
+    "IN1": "50063"
+  },
+  {
+    "NAM": "FUTALEUFU, CHUBUT",
+    "IN1": "26035"
+  },
+  {
+    "NAM": "RÍO CHICO, SANTA CRUZ",
+    "IN1": "78049"
+  },
+  {
+    "NAM": "LAGO ARGENTINO, SANTA CRUZ",
+    "IN1": "78028"
+  },
+  {
+    "NAM": "EL CUY, RÍO NEGRO",
+    "IN1": "62035"
+  },
+  {
+    "NAM": "LAS HERAS, MENDOZA",
+    "IN1": "50049"
+  },
+  {
+    "NAM": "LAVALLE, MENDOZA",
+    "IN1": "50056"
+  },
+  {
+    "NAM": "MALARGUE, MENDOZA",
+    "IN1": "50077"
+  },
+  {
+    "NAM": "PICHI MAHUIDA, RÍO NEGRO",
+    "IN1": "62063"
+  },
+  {
+    "NAM": "ADOLFO ALSINA, RÍO NEGRO",
+    "IN1": "62007"
+  },
+  {
+    "NAM": "RIO SENGUER, CHUBUT",
+    "IN1": "26084"
+  },
+  {
+    "NAM": "BARILOCHE, RÍO NEGRO",
+    "IN1": "62021"
+  },
+  {
+    "NAM": "HUILICHES, NEUQUÉN",
+    "IN1": "58049"
+  },
+  {
+    "NAM": "CATAN LIL, NEUQUÉN",
+    "IN1": "58021"
+  },
+  {
+    "NAM": "ALMIRANTE BROWN, CHACO",
+    "IN1": "22007"
+  },
+  {
+    "NAM": "ROSARIO DE LA FRONTERA, SALTA",
+    "IN1": "66140"
+  },
+  {
+    "NAM": "COLLON CURA, NEUQUÉN",
+    "IN1": "58028"
+  },
+  {
+    "NAM": "COMUNA 3, CIUDAD DE BUENOS AIRES",
+    "IN1": "02003"
+  },
+  {
+    "NAM": "ROBLES, SANTIAGO DEL ESTERO",
+    "IN1": "86161"
+  },
+  {
+    "NAM": "CAPITAL, SANTIAGO DEL ESTERO",
+    "IN1": "86049"
+  },
+  {
+    "NAM": "COMUNA 14, CIUDAD DE BUENOS AIRES",
+    "IN1": "02014"
+  },
+  {
+    "NAM": "LORETO, SANTIAGO DEL ESTERO",
+    "IN1": "86105"
+  },
+  {
+    "NAM": "COLON, ENTRE RÍOS",
+    "IN1": "30008"
+  },
+  {
+    "NAM": "VILLAGUAY, ENTRE RÍOS",
+    "IN1": "30113"
+  },
+  {
+    "NAM": "CASTELLI, BUENOS AIRES",
+    "IN1": "06168"
+  },
+  {
+    "NAM": "SAN SALVADOR, ENTRE RÍOS",
+    "IN1": "30088"
+  },
+  {
+    "NAM": "ALMIRANTE BROWN, BUENOS AIRES",
+    "IN1": "06028"
+  },
+  {
+    "NAM": "NOGOYA, ENTRE RÍOS",
+    "IN1": "30077"
+  },
+  {
+    "NAM": "TALA, ENTRE RÍOS",
+    "IN1": "30091"
+  },
+  {
+    "NAM": "GUALEGUAY, ENTRE RÍOS",
+    "IN1": "30049"
+  },
+  {
+    "NAM": "FEDERACION, ENTRE RÍOS",
+    "IN1": "30028"
+  },
+  {
+    "NAM": "LA PAZ, ENTRE RÍOS",
+    "IN1": "30070"
+  },
+  {
+    "NAM": "FELICIANO, ENTRE RÍOS",
+    "IN1": "30042"
+  },
+  {
+    "NAM": "PRESIDENTE PERON, BUENOS AIRES",
+    "IN1": "06648"
+  },
+  {
+    "NAM": "BRANDSEN, BUENOS AIRES",
+    "IN1": "06119"
+  },
+  {
+    "NAM": "CARLOS CASARES, BUENOS AIRES",
+    "IN1": "06147"
+  },
+  {
+    "NAM": "CARLOS TEJEDOR, BUENOS AIRES",
+    "IN1": "06154"
+  },
+  {
+    "NAM": "25 DE MAYO, BUENOS AIRES",
+    "IN1": "06854"
+  },
+  {
+    "NAM": "9 DE JULIO, BUENOS AIRES",
+    "IN1": "06588"
+  },
+  {
+    "NAM": "PEHUAJO, BUENOS AIRES",
+    "IN1": "06609"
+  },
+  {
+    "NAM": "TRENQUE LAUQUEN, BUENOS AIRES",
+    "IN1": "06826"
+  },
+  {
+    "NAM": "GENERAL BELGRANO, BUENOS AIRES",
+    "IN1": "06301"
+  },
+  {
+    "NAM": "CAPAYAN, CATAMARCA",
+    "IN1": "10042"
+  },
+  {
+    "NAM": "MONTE, BUENOS AIRES",
+    "IN1": "06547"
+  },
+  {
+    "NAM": "ROQUE PEREZ, BUENOS AIRES",
+    "IN1": "06693"
+  },
+  {
+    "NAM": "OLAVARRIA, BUENOS AIRES",
+    "IN1": "06595"
+  },
+  {
+    "NAM": "MERLO, BUENOS AIRES",
+    "IN1": "06539"
+  },
+  {
+    "NAM": "ESTEBAN ECHEVERRIA, BUENOS AIRES",
+    "IN1": "06260"
+  },
+  {
+    "NAM": "ARRECIFES, BUENOS AIRES",
+    "IN1": "06077"
+  },
+  {
+    "NAM": "CAPITAN SARMIENTO, BUENOS AIRES",
+    "IN1": "06140"
+  },
+  {
+    "NAM": "CARMEN DE ARECO, BUENOS AIRES",
+    "IN1": "06161"
+  },
+  {
+    "NAM": "SALTO, BUENOS AIRES",
+    "IN1": "06714"
+  },
+  {
+    "NAM": "EXALTACIÓN DE LA CRUZ, BUENOS AIRES",
+    "IN1": "06266"
+  },
+  {
+    "NAM": "SAN MIGUEL, BUENOS AIRES",
+    "IN1": "06760"
+  },
+  {
+    "NAM": "SAN ANDRES DE GILES, BUENOS AIRES",
+    "IN1": "06728"
+  },
+  {
+    "NAM": "JUNIN, BUENOS AIRES",
+    "IN1": "06413"
+  },
+  {
+    "NAM": "MERCEDES, BUENOS AIRES",
+    "IN1": "06532"
+  },
+  {
+    "NAM": "PILAR, BUENOS AIRES",
+    "IN1": "06638"
+  },
+  {
+    "NAM": "LUJAN, BUENOS AIRES",
+    "IN1": "06497"
+  },
+  {
+    "NAM": "HURLINGHAM, BUENOS AIRES",
+    "IN1": "06408"
+  },
+  {
+    "NAM": "MORON, BUENOS AIRES",
+    "IN1": "06568"
+  },
+  {
+    "NAM": "CHACABUCO, BUENOS AIRES",
+    "IN1": "06210"
+  },
+  {
+    "NAM": "MALVINAS ARGENTINAS, BUENOS AIRES",
+    "IN1": "06515"
+  },
+  {
+    "NAM": "GENERAL SAN MARTIN, BUENOS AIRES",
+    "IN1": "06371"
+  },
+  {
+    "NAM": "LINCOLN, BUENOS AIRES",
+    "IN1": "06469"
+  },
+  {
+    "NAM": "ITUZAINGO, BUENOS AIRES",
+    "IN1": "06410"
+  },
+  {
+    "NAM": "GENERAL RODRIGUEZ, BUENOS AIRES",
+    "IN1": "06364"
+  },
+  {
+    "NAM": "SUIPACHA, BUENOS AIRES",
+    "IN1": "06784"
+  },
+  {
+    "NAM": "TRES DE FEBRERO, BUENOS AIRES",
+    "IN1": "06840"
+  },
+  {
+    "NAM": "CORONEL FELIPE VARELA, LA RIOJA",
+    "IN1": "46028"
+  },
+  {
+    "NAM": "CHIVILCOY, BUENOS AIRES",
+    "IN1": "06224"
+  },
+  {
+    "NAM": "ALBERTI, BUENOS AIRES",
+    "IN1": "06021"
+  },
+  {
+    "NAM": "BRAGADO, BUENOS AIRES",
+    "IN1": "06112"
+  },
+  {
+    "NAM": "GENERAL LAS HERAS, BUENOS AIRES",
+    "IN1": "06329"
+  },
+  {
+    "NAM": "MARCOS PAZ, BUENOS AIRES",
+    "IN1": "06525"
+  },
+  {
+    "NAM": "GENERAL VIAMONTE, BUENOS AIRES",
+    "IN1": "06385"
+  },
+  {
+    "NAM": "EZEIZA, BUENOS AIRES",
+    "IN1": "06270"
+  },
+  {
+    "NAM": "FLORENCIO VARELA, BUENOS AIRES",
+    "IN1": "06274"
+  },
+  {
+    "NAM": "NAVARRO, BUENOS AIRES",
+    "IN1": "06574"
+  },
+  {
+    "NAM": "CAÑUELAS, BUENOS AIRES",
+    "IN1": "06134"
+  },
+  {
+    "NAM": "SAN VICENTE, BUENOS AIRES",
+    "IN1": "06778"
+  },
+  {
+    "NAM": "LOBOS, BUENOS AIRES",
+    "IN1": "06483"
+  },
+  {
+    "NAM": "GENERAL ALVEAR, BUENOS AIRES",
+    "IN1": "06287"
+  },
+  {
+    "NAM": "QUILMES, BUENOS AIRES",
+    "IN1": "06658"
+  },
+  {
+    "NAM": "PILA, BUENOS AIRES",
+    "IN1": "06630"
+  },
+  {
+    "NAM": "GENERAL LA MADRID, BUENOS AIRES",
+    "IN1": "06322"
+  },
+  {
+    "NAM": "BOLIVAR, BUENOS AIRES",
+    "IN1": "06105"
+  },
+  {
+    "NAM": "BALCARCE, BUENOS AIRES",
+    "IN1": "06063"
+  },
+  {
+    "NAM": "TAPALQUE, BUENOS AIRES",
+    "IN1": "06798"
+  },
+  {
+    "NAM": "HIPOLITO YRIGOYEN, BUENOS AIRES",
+    "IN1": "06406"
+  },
+  {
+    "NAM": "DOLORES, BUENOS AIRES",
+    "IN1": "06238"
+  },
+  {
+    "NAM": "AZUL, BUENOS AIRES",
+    "IN1": "06049"
+  },
+  {
+    "NAM": "DAIREAUX, BUENOS AIRES",
+    "IN1": "06231"
+  },
+  {
+    "NAM": "TRES LOMAS, BUENOS AIRES",
+    "IN1": "06847"
+  },
+  {
+    "NAM": "AYACUCHO, BUENOS AIRES",
+    "IN1": "06042"
+  },
+  {
+    "NAM": "GUAMINI, BUENOS AIRES",
+    "IN1": "06399"
+  },
+  {
+    "NAM": "ENSENADA, BUENOS AIRES",
+    "IN1": "06245"
+  },
+  {
+    "NAM": "LAPRIDA, BUENOS AIRES",
+    "IN1": "06448"
+  },
+  {
+    "NAM": "SAN ISIDRO, BUENOS AIRES",
+    "IN1": "06756"
+  },
+  {
+    "NAM": "BENITO JUAREZ, BUENOS AIRES",
+    "IN1": "06084"
+  },
+  {
+    "NAM": "COLON, BUENOS AIRES",
+    "IN1": "06175"
+  },
+  {
+    "NAM": "FIGUEROA, SANTIAGO DEL ESTERO",
+    "IN1": "86070"
+  },
+  {
+    "NAM": "SAAVEDRA, BUENOS AIRES",
+    "IN1": "06700"
+  },
+  {
+    "NAM": "MONTE HERMOSO, BUENOS AIRES",
+    "IN1": "06553"
+  },
+  {
+    "NAM": "LOBERIA, BUENOS AIRES",
+    "IN1": "06476"
+  },
+  {
+    "NAM": "BERISSO, BUENOS AIRES",
+    "IN1": "06098"
+  },
+  {
+    "NAM": "TORDILLO, BUENOS AIRES",
+    "IN1": "06812"
+  },
+  {
+    "NAM": "SAN FERNANDO, BUENOS AIRES",
+    "IN1": "06749"
+  },
+  {
+    "NAM": "ZARATE, BUENOS AIRES",
+    "IN1": "06882"
+  },
+  {
+    "NAM": "RAMALLO, BUENOS AIRES",
+    "IN1": "06665"
+  },
+  {
+    "NAM": "SAN NICOLAS, BUENOS AIRES",
+    "IN1": "06763"
+  },
+  {
+    "NAM": "SALAVINA, SANTIAGO DEL ESTERO",
+    "IN1": "86168"
+  },
+  {
+    "NAM": "PELLEGRINI, SANTIAGO DEL ESTERO",
+    "IN1": "86133"
+  },
+  {
+    "NAM": "AVELLANEDA, SANTIAGO DEL ESTERO",
+    "IN1": "86028"
+  },
+  {
+    "NAM": "MORENO, SANTIAGO DEL ESTERO",
+    "IN1": "86119"
+  },
+  {
+    "NAM": "CHACABUCO, CHACO",
+    "IN1": "22028"
+  },
+  {
+    "NAM": "GUAYMALLEN, MENDOZA",
+    "IN1": "50028"
+  },
+  {
+    "NAM": "JUAREZ CELMAN, CÓRDOBA",
+    "IN1": "14056"
+  },
+  {
+    "NAM": "CAPITAL, SALTA",
+    "IN1": "66028"
+  },
+  {
+    "NAM": "SILIPICA, SANTIAGO DEL ESTERO",
+    "IN1": "86189"
+  },
+  {
+    "NAM": "LA CANDELARIA, SALTA",
+    "IN1": "66084"
+  },
+  {
+    "NAM": "MAIPU, MENDOZA",
+    "IN1": "50070"
+  },
+  {
+    "NAM": "GUACHIPAS, SALTA",
+    "IN1": "66063"
+  },
+  {
+    "NAM": "CAPITAL, MENDOZA",
+    "IN1": "50007"
+  },
+  {
+    "NAM": "GODOY CRUZ, MENDOZA",
+    "IN1": "50021"
+  },
+  {
+    "NAM": "CAFAYATE, SALTA",
+    "IN1": "66021"
+  },
+  {
+    "NAM": "SAN MARTIN, MENDOZA",
+    "IN1": "50098"
+  },
+  {
+    "NAM": "JUNIN, MENDOZA",
+    "IN1": "50035"
+  },
+  {
+    "NAM": "CASTRO BARROS, LA RIOJA",
+    "IN1": "46021"
+  },
+  {
+    "NAM": "SANAGASTA, LA RIOJA",
+    "IN1": "46126"
+  },
+  {
+    "NAM": "CHILECITO, LA RIOJA",
+    "IN1": "46042"
+  },
+  {
+    "NAM": "GENERAL ÁNGEL VERA PEÑALOZA, LA RIOJA",
+    "IN1": "46056"
+  },
+  {
+    "NAM": "COLON, CÓRDOBA",
+    "IN1": "14021"
+  },
+  {
+    "NAM": "GENERAL JUAN F QUIROGA, LA RIOJA",
+    "IN1": "46070"
+  },
+  {
+    "NAM": "ROSARIO VERA PEÑALOZA, LA RIOJA",
+    "IN1": "46112"
+  },
+  {
+    "NAM": "GENERAL SAN MARTÍN, LA RIOJA",
+    "IN1": "46091"
+  },
+  {
+    "NAM": "FAMATINA, LA RIOJA",
+    "IN1": "46049"
+  },
+  {
+    "NAM": "SAN BLAS DE LOS SAUCES, LA RIOJA",
+    "IN1": "46119"
+  },
+  {
+    "NAM": "SAN ANTONIO, JUJUY",
+    "IN1": "38056"
+  },
+  {
+    "NAM": "FORMOSA, FORMOSA",
+    "IN1": "34014"
+  },
+  {
+    "NAM": "ANDALGALÁ, CATAMARCA",
+    "IN1": "10021"
+  },
+  {
+    "NAM": "AMBATO, CATAMARCA",
+    "IN1": "10007"
+  },
+  {
+    "NAM": "PACLIN, CATAMARCA",
+    "IN1": "10077"
+  },
+  {
+    "NAM": "PILCOMAYO, FORMOSA",
+    "IN1": "34049"
+  },
+  {
+    "NAM": "EL ALTO, CATAMARCA",
+    "IN1": "10056"
+  },
+  {
+    "NAM": "TEHUELCHES, CHUBUT",
+    "IN1": "26098"
+  },
+  {
+    "NAM": "ESCALANTE, CHUBUT",
+    "IN1": "26021"
+  },
+  {
+    "NAM": "ISCHILIN, CÓRDOBA",
+    "IN1": "14049"
+  },
+  {
+    "NAM": "TOTORAL, CÓRDOBA",
+    "IN1": "14168"
+  },
+  {
+    "NAM": "GENERAL SAN MARTIN, CÓRDOBA",
+    "IN1": "14042"
+  },
+  {
+    "NAM": "SAN JAVIER, CÓRDOBA",
+    "IN1": "14133"
+  },
+  {
+    "NAM": "RIO PRIMERO, CÓRDOBA",
+    "IN1": "14105"
+  },
+  {
+    "NAM": "TINOGASTA, CATAMARCA",
+    "IN1": "10105"
+  },
+  {
+    "NAM": "MARCOS JUAREZ, CÓRDOBA",
+    "IN1": "14063"
+  },
+  {
+    "NAM": "LEANDRO N ALEM, BUENOS AIRES",
+    "IN1": "06462"
+  },
+  {
+    "NAM": "LIBERTADOR GENERAL SAN MARTÍN, CHACO",
+    "IN1": "22084"
+  },
+  {
+    "NAM": "GASTRE, CHUBUT",
+    "IN1": "26049"
+  },
+  {
+    "NAM": "GENERAL ARENALES, BUENOS AIRES",
+    "IN1": "06294"
+  },
+  {
+    "NAM": "BERMEJO, CHACO",
+    "IN1": "22014"
+  },
+  {
+    "NAM": "CALAMUCHITA, CÓRDOBA",
+    "IN1": "14007"
+  },
+  {
+    "NAM": "RIVADAVIA, BUENOS AIRES",
+    "IN1": "06679"
+  },
+  {
+    "NAM": "PATAGONES, BUENOS AIRES",
+    "IN1": "06602"
+  },
+  {
+    "NAM": "JUAN MARTÍN DE PUEYRREDÓN, SAN LUIS",
+    "IN1": "74056"
+  },
+  {
+    "NAM": "GENERAL PEDERNERA, SAN LUIS",
+    "IN1": "74035"
+  },
+  {
+    "NAM": "COMUNA 9, CIUDAD DE BUENOS AIRES",
+    "IN1": "02009"
+  },
+  {
+    "NAM": "JUNIN, SAN LUIS",
+    "IN1": "74049"
+  },
+  {
+    "NAM": "MITRE, SANTIAGO DEL ESTERO",
+    "IN1": "86112"
+  },
+  {
+    "NAM": "ATAMISQUI, SANTIAGO DEL ESTERO",
+    "IN1": "86021"
+  },
+  {
+    "NAM": "JIMENEZ, SANTIAGO DEL ESTERO",
+    "IN1": "86091"
+  },
+  {
+    "NAM": "CORONEL DE MARINA L ROSALES, BUENOS AIRES",
+    "IN1": "06182"
+  },
+  {
+    "NAM": "BARADERO, BUENOS AIRES",
+    "IN1": "06070"
+  },
+  {
+    "NAM": "SAN PEDRO, BUENOS AIRES",
+    "IN1": "06770"
+  },
+  {
+    "NAM": "SANTA VICTORIA, SALTA",
+    "IN1": "66161"
+  },
+  {
+    "NAM": "GENERAL JOSE DE SAN MARTÍN, SALTA",
+    "IN1": "66056"
+  },
+  {
+    "NAM": "RIVADAVIA, SALTA",
+    "IN1": "66133"
+  },
+  {
+    "NAM": "ROSARIO DE LERMA, SALTA",
+    "IN1": "66147"
+  },
+  {
+    "NAM": "LEDESMA, JUJUY",
+    "IN1": "38035"
+  },
+  {
+    "NAM": "HUMAHUACA, JUJUY",
+    "IN1": "38028"
+  },
+  {
+    "NAM": "COCHINOCA, JUJUY",
+    "IN1": "38007"
+  },
+  {
+    "NAM": "TUMBAYA, JUJUY",
+    "IN1": "38098"
+  },
+  {
+    "NAM": "DOCTOR MANUEL BELGRANO, JUJUY",
+    "IN1": "38021"
+  },
+  {
+    "NAM": "RINCONADA, JUJUY",
+    "IN1": "38049"
+  },
+  {
+    "NAM": "RAMON LISTA, FORMOSA",
+    "IN1": "34063"
+  },
+  {
+    "NAM": "LA POMA, SALTA",
+    "IN1": "66091"
+  },
+  {
+    "NAM": "BIEDMA, CHUBUT",
+    "IN1": "26007"
+  },
+  {
+    "NAM": "FLORENTINO AMEGHINO, BUENOS AIRES",
+    "IN1": "06277"
+  },
+  {
+    "NAM": "FLORENTINO AMEGHINO, CHUBUT",
+    "IN1": "26028"
+  },
+  {
+    "NAM": "LA COCHA, TUCUMÁN",
+    "IN1": "90049"
+  },
+  {
+    "NAM": "GRANEROS, TUCUMÁN",
+    "IN1": "90035"
+  },
+  {
+    "NAM": "JUAN B ALBERDI, TUCUMÁN",
+    "IN1": "90042"
+  },
+  {
+    "NAM": "RIO CHICO, TUCUMÁN",
+    "IN1": "90077"
+  },
+  {
+    "NAM": "SIMOCA, TUCUMÁN",
+    "IN1": "90091"
+  },
+  {
+    "NAM": "CHICLIGASTA, TUCUMÁN",
+    "IN1": "90021"
+  },
+  {
+    "NAM": "MONTEROS, TUCUMÁN",
+    "IN1": "90070"
+  },
+  {
+    "NAM": "LEALES, TUCUMÁN",
+    "IN1": "90056"
+  },
+  {
+    "NAM": "FAMAILLA, TUCUMÁN",
+    "IN1": "90028"
+  },
+  {
+    "NAM": "CAPITAL, TUCUMÁN",
+    "IN1": "90084"
+  },
+  {
+    "NAM": "CRUZ ALTA, TUCUMÁN",
+    "IN1": "90014"
+  },
+  {
+    "NAM": "LULES, TUCUMÁN",
+    "IN1": "90063"
+  },
+  {
+    "NAM": "YERBA BUENA, TUCUMÁN",
+    "IN1": "90119"
+  },
+  {
+    "NAM": "TAFI VIEJO, TUCUMÁN",
+    "IN1": "90105"
+  },
+  {
+    "NAM": "BURRUYACU, TUCUMÁN",
+    "IN1": "90007"
+  },
+  {
+    "NAM": "TRANCAS, TUCUMÁN",
+    "IN1": "90112"
+  },
+  {
+    "NAM": "TAFI DEL VALLE, TUCUMÁN",
+    "IN1": "90098"
+  },
+  {
+    "NAM": "GENERAL LOPEZ, SANTA FE",
+    "IN1": "82042"
+  },
+  {
+    "NAM": "CONSTITUCION, SANTA FE",
+    "IN1": "82028"
+  },
+  {
+    "NAM": "CASEROS, SANTA FE",
+    "IN1": "82014"
+  },
+  {
+    "NAM": "ROSARIO, SANTA FE",
+    "IN1": "82084"
+  },
+  {
+    "NAM": "SAN LORENZO, SANTA FE",
+    "IN1": "82119"
+  },
+  {
+    "NAM": "IRIONDO, SANTA FE",
+    "IN1": "82056"
+  },
+  {
+    "NAM": "BELGRANO, SANTA FE",
+    "IN1": "82007"
+  },
+  {
+    "NAM": "SAN JERONIMO, SANTA FE",
+    "IN1": "82105"
+  },
+  {
+    "NAM": "SAN MARTIN, SANTA FE",
+    "IN1": "82126"
+  },
+  {
+    "NAM": "LA CAPITAL, SANTA FE",
+    "IN1": "82063"
+  },
+  {
+    "NAM": "CASTELLANOS, SANTA FE",
+    "IN1": "82021"
+  },
+  {
+    "NAM": "GARAY, SANTA FE",
+    "IN1": "82035"
+  },
+  {
+    "NAM": "QUEMU QUEMU, LA PAMPA",
+    "IN1": "42119"
+  },
+  {
+    "NAM": "RANCUL, LA PAMPA",
+    "IN1": "42126"
+  },
+  {
+    "NAM": "CONHELO, LA PAMPA",
+    "IN1": "42035"
+  },
+  {
+    "NAM": "CAPITAL, LA PAMPA",
+    "IN1": "42021"
+  },
+  {
+    "NAM": "CATRILO, LA PAMPA",
+    "IN1": "42028"
+  },
+  {
+    "NAM": "ATREUCO, LA PAMPA",
+    "IN1": "42007"
+  },
+  {
+    "NAM": "GUATRACHE, LA PAMPA",
+    "IN1": "42070"
+  },
+  {
+    "NAM": "TOAY, LA PAMPA",
+    "IN1": "42140"
+  },
+  {
+    "NAM": "UTRACAN, LA PAMPA",
+    "IN1": "42154"
+  },
+  {
+    "NAM": "SAUCE, CORRIENTES",
+    "IN1": "18175"
+  },
+  {
+    "NAM": "CURUZU CUATIA, CORRIENTES",
+    "IN1": "18035"
+  },
+  {
+    "NAM": "SAN MARTIN, CORRIENTES",
+    "IN1": "18147"
+  },
+  {
+    "NAM": "PASO DE LOS LIBRES, CORRIENTES",
+    "IN1": "18119"
+  },
+  {
+    "NAM": "GOYA, CORRIENTES",
+    "IN1": "18070"
+  },
+  {
+    "NAM": "LAVALLE, CORRIENTES",
+    "IN1": "18091"
+  },
+  {
+    "NAM": "SAN ROQUE, CORRIENTES",
+    "IN1": "18161"
+  },
+  {
+    "NAM": "GENERAL ALVEAR, CORRIENTES",
+    "IN1": "18056"
+  },
+  {
+    "NAM": "CONCEPCION, CORRIENTES",
+    "IN1": "18028"
+  },
+  {
+    "NAM": "BELLA VISTA, CORRIENTES",
+    "IN1": "18007"
+  },
+  {
+    "NAM": "SANTO TOME, CORRIENTES",
+    "IN1": "18168"
+  },
+  {
+    "NAM": "SALADAS, CORRIENTES",
+    "IN1": "18126"
+  },
+  {
+    "NAM": "GENERAL PAZ, CORRIENTES",
+    "IN1": "18063"
+  },
+  {
+    "NAM": "MBURUCUYA, CORRIENTES",
+    "IN1": "18098"
+  },
+  {
+    "NAM": "SAN MIGUEL, CORRIENTES",
+    "IN1": "18154"
+  },
+  {
+    "NAM": "EMPEDRADO, CORRIENTES",
+    "IN1": "18042"
+  },
+  {
+    "NAM": "ITUZAINGO, CORRIENTES",
+    "IN1": "18084"
+  },
+  {
+    "NAM": "CAPITAL, CORRIENTES",
+    "IN1": "18021"
+  },
+  {
+    "NAM": "SAN LUIS DEL PALMAR, CORRIENTES",
+    "IN1": "18140"
+  },
+  {
+    "NAM": "SAN COSME, CORRIENTES",
+    "IN1": "18133"
+  },
+  {
+    "NAM": "ITATI, CORRIENTES",
+    "IN1": "18077"
+  },
+  {
+    "NAM": "BERON DE ASTRADA, CORRIENTES",
+    "IN1": "18014"
+  },
+  {
+    "NAM": "TOLHUIN, TIERRA DEL FUEGO",
+    "IN1": "94035"
+  },
+  {
+    "NAM": "CAPITAL, MISIONES",
+    "IN1": "54028"
+  },
+  {
+    "NAM": "CANDELARIA, MISIONES",
+    "IN1": "54021"
+  },
+  {
+    "NAM": "CAINGUAS, MISIONES",
+    "IN1": "54014"
+  },
+  {
+    "NAM": "LIBERTADOR GENERAL SAN MARTÍN, MISIONES",
+    "IN1": "54077"
+  },
+  {
+    "NAM": "GENERAL MANUEL BELGRANO, MISIONES",
+    "IN1": "54049"
+  },
+  {
+    "NAM": "GUARANI, MISIONES",
+    "IN1": "54056"
+  },
+  {
+    "NAM": "IGUAZU, MISIONES",
+    "IN1": "54063"
+  },
+  {
+    "NAM": "25 DE MAYO, MISIONES",
+    "IN1": "54119"
+  },
+  {
+    "NAM": "OBERA, MISIONES",
+    "IN1": "54091"
+  },
+  {
+    "NAM": "SAN IGNACIO, MISIONES",
+    "IN1": "54098"
+  },
+  {
+    "NAM": "LEANDRO N. ALEM, MISIONES",
+    "IN1": "54070"
+  },
+  {
+    "NAM": "SAN JAVIER, MISIONES",
+    "IN1": "54105"
+  },
+  {
+    "NAM": "CONCEPCION, MISIONES",
+    "IN1": "54035"
+  },
+  {
+    "NAM": "APOSTOLES, MISIONES",
+    "IN1": "54007"
+  },
+  {
+    "NAM": "1° DE MAYO, CHACO",
+    "IN1": "22126"
+  },
+  {
+    "NAM": "9 DE JULIO, CHACO",
+    "IN1": "22105"
+  },
+  {
+    "NAM": "SAN FERNANDO, CHACO",
+    "IN1": "22140"
+  },
+  {
+    "NAM": "VALLE VIEJO, CATAMARCA",
+    "IN1": "10112"
+  },
+  {
+    "NAM": "SAN LORENZO, CHACO",
+    "IN1": "22147"
+  },
+  {
+    "NAM": "2 DE ABRIL, CHACO",
+    "IN1": "22039"
+  },
+  {
+    "NAM": "LANÚS, BUENOS AIRES",
+    "IN1": "06434"
+  },
+  {
+    "NAM": "LOMAS DE ZAMORA, BUENOS AIRES",
+    "IN1": "06490"
+  },
+  {
+    "NAM": "AVELLANEDA, BUENOS AIRES",
+    "IN1": "06035"
+  },
+  {
+    "NAM": "25 DE MAYO, CHACO",
+    "IN1": "22168"
+  },
+  {
+    "NAM": "LIBERTAD, CHACO",
+    "IN1": "22077"
+  },
+  {
+    "NAM": "COMANDANTE FERNANDEZ, CHACO",
+    "IN1": "22021"
+  },
+  {
+    "NAM": "GENERAL BELGRANO, CHACO",
+    "IN1": "22049"
+  },
+  {
+    "NAM": "GENERAL DONOVAN, CHACO",
+    "IN1": "22056"
+  },
+  {
+    "NAM": "LIBERTADOR GENERAL SAN MARTÍN, SAN LUIS",
+    "IN1": "74063"
+  },
+  {
+    "NAM": "CORONEL PRINGLES, SAN LUIS",
+    "IN1": "74021"
+  },
+  {
+    "NAM": "CHACABUCO, SAN LUIS",
+    "IN1": "74028"
+  },
+  {
+    "NAM": "COMUNA 15, CIUDAD DE BUENOS AIRES",
+    "IN1": "02015"
+  },
+  {
+    "NAM": "CAPITAL, SAN JUAN",
+    "IN1": "70028"
+  },
+  {
+    "NAM": "RIVADAVIA, SAN JUAN",
+    "IN1": "70084"
+  },
+  {
+    "NAM": "SANTA LUCIA, SAN JUAN",
+    "IN1": "70098"
+  },
+  {
+    "NAM": "RAWSON, SAN JUAN",
+    "IN1": "70077"
+  },
+  {
+    "NAM": "POCITO, SAN JUAN",
+    "IN1": "70070"
+  },
+  {
+    "NAM": "ZONDA, SAN JUAN",
+    "IN1": "70133"
+  },
+  {
+    "NAM": "ULLUM, SAN JUAN",
+    "IN1": "70112"
+  },
+  {
+    "NAM": "CHIMBAS, SAN JUAN",
+    "IN1": "70042"
+  },
+  {
+    "NAM": "9 DE JULIO, SAN JUAN",
+    "IN1": "70063"
+  },
+  {
+    "NAM": "ALBARDON, SAN JUAN",
+    "IN1": "70007"
+  },
+  {
+    "NAM": "ANGACO, SAN JUAN",
+    "IN1": "70014"
+  },
+  {
+    "NAM": "SAN MARTIN, SAN JUAN",
+    "IN1": "70091"
+  },
+  {
+    "NAM": "CAUCETE, SAN JUAN",
+    "IN1": "70035"
+  },
+  {
+    "NAM": "25 DE MAYO, SAN JUAN",
+    "IN1": "70126"
+  },
+  {
+    "NAM": "SARMIENTO, SAN JUAN",
+    "IN1": "70105"
+  },
+  {
+    "NAM": "CALINGASTA, SAN JUAN",
+    "IN1": "70021"
+  },
+  {
+    "NAM": "IGLESIA, SAN JUAN",
+    "IN1": "70049"
+  },
+  {
+    "NAM": "JACHAL, SAN JUAN",
+    "IN1": "70056"
+  },
+  {
+    "NAM": "VALLE FERTIL, SAN JUAN",
+    "IN1": "70119"
+  },
+  {
+    "NAM": "LA PLATA, BUENOS AIRES",
+    "IN1": "06441"
+  },
+  {
+    "NAM": "MERCEDES, CORRIENTES",
+    "IN1": "18105"
+  },
+  {
+    "NAM": "SANTA BARBARA, JUJUY",
+    "IN1": "38070"
+  },
+  {
+    "NAM": "ORAN, SALTA",
+    "IN1": "66126"
+  }
+]
