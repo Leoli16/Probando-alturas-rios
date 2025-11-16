@@ -14,9 +14,9 @@ let lista = []
 
 for (let i of datasetNegativos){
 
-    let nuevoCode = localidades[generarNumeroRandom(0,529)]["Code Departamento"];
+    let nuevoCode = localidades[generarNumeroRandom(0,526)]["Code Departamento"];
     while (nuevoCode === i["Code Departamento"]){
-        nuevoCode = localidades[generarNumeroRandom(0,529)]["Code Departamento"];
+        nuevoCode = localidades[generarNumeroRandom(0,526)]["Code Departamento"];
     }
 
     let fechasNuevas = [];
@@ -36,9 +36,9 @@ for (let i of datasetNegativos){
     }
 
     while (repetido){
-        nuevoCode = localidades[generarNumeroRandom(0,529)]["Code Departamento"];
+        nuevoCode = localidades[generarNumeroRandom(0,526)]["Code Departamento"];
         while (nuevoCode === i["Code Departamento"]){
-            nuevoCode = localidades[generarNumeroRandom(0,529)]["Code Departamento"];
+            nuevoCode = localidades[generarNumeroRandom(0,526)]["Code Departamento"];
         }
 
         fechasNuevas = [];
