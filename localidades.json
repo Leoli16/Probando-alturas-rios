@@ -1,2652 +1,4218 @@
 [
   {
+    "Nombre": "SAN JERONIMO",
     "Code Departamento": "82105",
     "lat": "-32.2399352",
-    "lon": "-61.231266"
+    "lon": "-61.231266",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "YAVI",
     "Code Departamento": "38112",
     "lat": "-22.32981174",
-    "lon": "-65.82598231"
+    "lon": "-65.82598231",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "EL CUY",
     "Code Departamento": "62035",
     "lat": "-39.86671829",
-    "lon": "-68.70343781"
+    "lon": "-68.70343781",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "PERGAMINO",
     "Code Departamento": "06623",
     "lat": "-33.5893048",
-    "lon": "-60.7727646"
+    "lon": "-60.7727646",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "VILLA GESELL",
     "Code Departamento": "06868",
     "lat": "-37.33667316",
-    "lon": "-57.03250147"
+    "lon": "-57.03250147",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL PAZ",
     "Code Departamento": "06343",
     "lat": "-35.45190573",
-    "lon": "-58.26954177"
+    "lon": "-58.26954177",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "ATREUCO",
     "Code Departamento": "42007",
     "lat": "-37.12629611",
-    "lon": "-63.82921122"
+    "lon": "-63.82921122",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "25 DE MAYO",
     "Code Departamento": "62091",
     "lat": "-41.5127138",
-    "lon": "-69.51735638"
+    "lon": "-69.51735638",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "RAWSON",
     "Code Departamento": "70077",
     "lat": "-31.6492",
-    "lon": "-68.5015"
+    "lon": "-68.5015",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL JUAN MADARIAGA",
     "Code Departamento": "06315",
     "lat": "-37.02462769",
-    "lon": "-56.95607376"
+    "lon": "-56.95607376",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PRESIDENCIA DE LA PLAZA",
     "Code Departamento": "22119",
     "lat": "-26.84889313",
-    "lon": "-59.87023116"
+    "lon": "-59.87023116",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ALBARDON",
     "Code Departamento": "70007",
     "lat": "-31.32696915",
-    "lon": "-68.41723633"
+    "lon": "-68.41723633",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PUNTA INDIO",
     "Code Departamento": "06655",
     "lat": "-35.350566",
-    "lon": "-57.297616"
+    "lon": "-57.297616",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "LEZAMA",
     "Code Departamento": "06466",
     "lat": "-35.87482487",
-    "lon": "-57.89642268"
+    "lon": "-57.89642268",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "TOLHUIN",
     "Code Departamento": "94035",
     "lat": "-54.51138676",
-    "lon": "-67.19580446"
+    "lon": "-67.19580446",
+    "Provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "CASTRO BARROS",
     "Code Departamento": "46021",
     "lat": "-28.9634753",
-    "lon": "-66.99905992"
+    "lon": "-66.99905992",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL SAN MARTÍN",
     "Code Departamento": "46091",
     "lat": "-31.69222606",
-    "lon": "-65.88603902"
+    "lon": "-65.88603902",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Salinas"
   },
   {
+    "Nombre": "ZARATE",
     "Code Departamento": "06882",
     "lat": "-33.9804188",
-    "lon": "-59.2846864"
+    "lon": "-59.2846864",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "9 DE JULIO",
     "Code Departamento": "22105",
     "lat": "-27.01701868",
-    "lon": "-61.18742808"
+    "lon": "-61.18742808",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "JIMENEZ",
     "Code Departamento": "86091",
     "lat": "-26.68895431",
-    "lon": "-64.45447124"
+    "lon": "-64.45447124",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LIBERTAD",
     "Code Departamento": "22077",
     "lat": "-27.26945671",
-    "lon": "-59.21122233"
+    "lon": "-59.21122233",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "AVELLANEDA",
     "Code Departamento": "86028",
     "lat": "-28.70814175",
-    "lon": "-63.1050531"
+    "lon": "-63.1050531",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "RIO GRANDE",
     "Code Departamento": "94007",
     "lat": "-52.88412863",
-    "lon": "-68.44878312"
+    "lon": "-68.44878312",
+    "Provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "RIVADAVIA",
     "Code Departamento": "86154",
     "lat": "-29.83512",
-    "lon": "-62.16991"
+    "lon": "-62.16991",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COMUNA 7",
     "Code Departamento": "02007",
     "lat": "-34.63680708",
-    "lon": "-58.45826985"
+    "lon": "-58.45826985",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "CATRILO",
     "Code Departamento": "42028",
     "lat": "-36.67294558",
-    "lon": "-63.66446349"
+    "lon": "-63.66446349",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "RINCONADA",
     "Code Departamento": "38049",
     "lat": "-22.53894",
-    "lon": "-65.96138"
+    "lon": "-65.96138",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN BLAS DE LOS SAUCES",
     "Code Departamento": "46119",
     "lat": "-28.32074846",
-    "lon": "-67.05337607"
+    "lon": "-67.05337607",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LAS FLORES",
     "Code Departamento": "06455",
     "lat": "-36.3036243",
-    "lon": "-59.3193839"
+    "lon": "-59.3193839",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "RIVADAVIA",
     "Code Departamento": "06679",
     "lat": "-35.4640821",
-    "lon": "-62.8552805"
+    "lon": "-62.8552805",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MAYOR LUIS J FONTANA",
     "Code Departamento": "22098",
     "lat": "-27.68955287",
-    "lon": "-60.83488783"
+    "lon": "-60.83488783",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
-    "Code Departamento": "94021",
-    "lat": "-51.80653183",
-    "lon": "-58.95965896"
-  },
-  {
+    "Nombre": "COMUNA 5",
     "Code Departamento": "02005",
     "lat": "-34.60922769",
-    "lon": "-58.42174523"
+    "lon": "-58.42174523",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "SAAVEDRA",
     "Code Departamento": "06700",
     "lat": "-37.72446606",
-    "lon": "-62.10173503"
+    "lon": "-62.10173503",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "ÑORQUINCO",
     "Code Departamento": "62056",
     "lat": "-41.68252462",
-    "lon": "-70.71325062"
+    "lon": "-70.71325062",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "GENERAL GUIDO",
     "Code Departamento": "06308",
     "lat": "-36.6656205",
-    "lon": "-58.0745242"
+    "lon": "-58.0745242",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Lagunas"
   },
   {
+    "Nombre": "CORONEL DORREGO",
     "Code Departamento": "06189",
     "lat": "-38.7655502",
-    "lon": "-61.4127594"
+    "lon": "-61.4127594",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "25 DE MAYO",
     "Code Departamento": "06854",
     "lat": "-35.2813845",
-    "lon": "-60.2618183"
+    "lon": "-60.2618183",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "9 DE JULIO",
     "Code Departamento": "70063",
     "lat": "-31.70219126",
-    "lon": "-68.36862207"
+    "lon": "-68.36862207",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BERMEJO",
     "Code Departamento": "22014",
     "lat": "-26.92175039",
-    "lon": "-58.77874597"
+    "lon": "-58.77874597",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "MARCOS JUAREZ",
     "Code Departamento": "14063",
     "lat": "-32.62947464",
-    "lon": "-62.30913162"
+    "lon": "-62.30913162",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "18021",
     "lat": "-27.4064",
-    "lon": "-58.78276"
+    "lon": "-58.78276",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "LA PLATA",
     "Code Departamento": "06441",
     "lat": "-35.03880607",
-    "lon": "-58.05930616"
+    "lon": "-58.05930616",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "HUILICHES",
     "Code Departamento": "58049",
     "lat": "-39.73103584",
-    "lon": "-71.07764941"
+    "lon": "-71.07764941",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "EL CARMEN",
     "Code Departamento": "38014",
     "lat": "-24.4262104",
-    "lon": "-65.10740662"
+    "lon": "-65.10740662",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ROJAS",
     "Code Departamento": "06686",
     "lat": "-34.2433108",
-    "lon": "-60.532499"
+    "lon": "-60.532499",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA PAZ",
     "Code Departamento": "10070",
     "lat": "-28.71805191",
-    "lon": "-65.2964859"
+    "lon": "-65.2964859",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GENERAL OBLIGADO",
     "Code Departamento": "82049",
     "lat": "-28.6765561",
-    "lon": "-59.7497004"
+    "lon": "-59.7497004",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SALAVINA",
     "Code Departamento": "86168",
     "lat": "-29.03431036",
-    "lon": "-63.33874661"
+    "lon": "-63.33874661",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "BANDA",
     "Code Departamento": "86035",
     "lat": "-27.59548811",
-    "lon": "-64.41117012"
+    "lon": "-64.41117012",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "PATAGONES",
     "Code Departamento": "06602",
     "lat": "-40.8136857",
-    "lon": "-62.6629984"
+    "lon": "-62.6629984",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "LA MATANZA",
     "Code Departamento": "06427",
     "lat": "-34.71417289",
-    "lon": "-58.50890438"
+    "lon": "-58.50890438",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ESQUINA",
     "Code Departamento": "18049",
     "lat": "-30.0784368",
-    "lon": "-59.4055912"
+    "lon": "-59.4055912",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "GARAY",
     "Code Departamento": "82035",
     "lat": "-31.1523125",
-    "lon": "-60.1365521"
+    "lon": "-60.1365521",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MERLO",
     "Code Departamento": "06539",
     "lat": "-34.70854224",
-    "lon": "-58.67958673"
+    "lon": "-58.67958673",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "ROBLES",
     "Code Departamento": "86161",
     "lat": "-27.84078886",
-    "lon": "-63.93408912"
+    "lon": "-63.93408912",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "BELEN",
     "Code Departamento": "10035",
     "lat": "-26.94426",
-    "lon": "-66.73487"
+    "lon": "-66.73487",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "CARLOS CASARES",
     "Code Departamento": "06147",
     "lat": "-35.83601",
-    "lon": "-61.43436"
+    "lon": "-61.43436",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ITUZAINGO",
     "Code Departamento": "06410",
     "lat": "-34.64405512",
-    "lon": "-58.68848933"
+    "lon": "-58.68848933",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "MONTE CASEROS",
     "Code Departamento": "18112",
     "lat": "-30.47490444",
-    "lon": "-57.98344137"
+    "lon": "-57.98344137",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "LOMAS DE ZAMORA",
     "Code Departamento": "06490",
     "lat": "-34.73790272",
-    "lon": "-58.44067537"
+    "lon": "-58.44067537",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "9 DE JULIO",
     "Code Departamento": "06588",
     "lat": "-35.6497312",
-    "lon": "-61.0228986"
+    "lon": "-61.0228986",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL PUEYRREDON",
     "Code Departamento": "06357",
     "lat": "-37.80766254",
-    "lon": "-57.62989086"
+    "lon": "-57.62989086",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "RAUCH",
     "Code Departamento": "06672",
     "lat": "-36.3845307",
-    "lon": "-59.0051146"
+    "lon": "-59.0051146",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MOLINOS",
     "Code Departamento": "66119",
     "lat": "-25.39472961",
-    "lon": "-66.38092804"
+    "lon": "-66.38092804",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CAÑUELAS",
     "Code Departamento": "06134",
     "lat": "-35.2637758",
-    "lon": "-58.6725328"
+    "lon": "-58.6725328",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "GENERAL ALVEAR",
     "Code Departamento": "18056",
     "lat": "-29.10620117",
-    "lon": "-56.5596695"
+    "lon": "-56.5596695",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "COMUNA 15",
     "Code Departamento": "02015",
     "lat": "-34.59294425",
-    "lon": "-58.48867142"
+    "lon": "-58.48867142",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "BAHÍA BLANCA",
     "Code Departamento": "06056",
     "lat": "-38.68387462",
-    "lon": "-62.21595631"
+    "lon": "-62.21595631",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COMUNA 3",
     "Code Departamento": "02003",
     "lat": "-34.60909977",
-    "lon": "-58.40306252"
+    "lon": "-58.40306252",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "LUJAN DE CUYO",
     "Code Departamento": "50063",
     "lat": "-33.32638993",
-    "lon": "-68.92342084"
+    "lon": "-68.92342084",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "RIO SECO",
     "Code Departamento": "14112",
     "lat": "-29.8135599",
-    "lon": "-63.75524"
+    "lon": "-63.75524",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN LORENZO",
     "Code Departamento": "82119",
     "lat": "-32.69503021",
-    "lon": "-60.73096848"
+    "lon": "-60.73096848",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MARTIRES",
     "Code Departamento": "26063",
     "lat": "-43.6901741",
-    "lon": "-67.19438171"
+    "lon": "-67.19438171",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "25 DE MAYO",
     "Code Departamento": "22168",
     "lat": "-26.61293466",
-    "lon": "-59.90404881"
+    "lon": "-59.90404881",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PILAGAS",
     "Code Departamento": "34042",
     "lat": "-24.9895438",
-    "lon": "-58.6912886"
+    "lon": "-58.6912886",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "SIMOCA",
     "Code Departamento": "90091",
     "lat": "-27.40925026",
-    "lon": "-65.26894379"
+    "lon": "-65.26894379",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CUSHAMEN",
     "Code Departamento": "26014",
     "lat": "-42.03927359",
-    "lon": "-71.56551616"
+    "lon": "-71.56551616",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CRUZ ALTA",
     "Code Departamento": "90014",
     "lat": "-27.0201218",
-    "lon": "-65.0182022"
+    "lon": "-65.0182022",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CONHELO",
     "Code Departamento": "42035",
     "lat": "-35.96125794",
-    "lon": "-64.4406662"
+    "lon": "-64.4406662",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LIBERTADOR GENERAL SAN MARTÍN",
     "Code Departamento": "22084",
     "lat": "-26.51481035",
-    "lon": "-59.22556127"
+    "lon": "-59.22556127",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "PINAMAR",
     "Code Departamento": "06644",
     "lat": "-37.16415938",
-    "lon": "-56.90279144"
+    "lon": "-56.90279144",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "ROSARIO DE LA FRONTERA",
     "Code Departamento": "66140",
     "lat": "-25.89667",
-    "lon": "-64.7655"
+    "lon": "-64.7655",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "RIVADAVIA",
     "Code Departamento": "70084",
     "lat": "-31.52868412",
-    "lon": "-68.59820379"
+    "lon": "-68.59820379",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "MATACOS",
     "Code Departamento": "34028",
     "lat": "-23.67500877",
-    "lon": "-62.31292343"
+    "lon": "-62.31292343",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "RIO HONDO",
     "Code Departamento": "86147",
     "lat": "-27.60805727",
-    "lon": "-64.54365708"
+    "lon": "-64.54365708",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "OBERA",
     "Code Departamento": "54091",
     "lat": "-27.3929091",
-    "lon": "-55.12277042"
+    "lon": "-55.12277042",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL LAVALLE",
     "Code Departamento": "06336",
     "lat": "-36.55442064",
-    "lon": "-57.07742058"
+    "lon": "-57.07742058",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN CAYETANO",
     "Code Departamento": "06742",
     "lat": "-38.6740577",
-    "lon": "-59.49935949"
+    "lon": "-59.49935949",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL BELGRANO",
     "Code Departamento": "06301",
     "lat": "-35.83441",
-    "lon": "-58.47736003"
+    "lon": "-58.47736003",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "GUALEGUAY",
     "Code Departamento": "30049",
     "lat": "-33.55871824",
-    "lon": "-59.48052013"
+    "lon": "-59.48052013",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BURRUYACU",
     "Code Departamento": "90007",
     "lat": "-26.36994",
-    "lon": "-64.78136"
+    "lon": "-64.78136",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANTA ROSA",
     "Code Departamento": "10098",
     "lat": "-28.04503194",
-    "lon": "-65.27845615"
+    "lon": "-65.27845615",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "TUMBAYA",
     "Code Departamento": "38098",
     "lat": "-23.83205605",
-    "lon": "-65.47557831"
+    "lon": "-65.47557831",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "DOLORES",
     "Code Departamento": "06238",
     "lat": "-36.3899064",
-    "lon": "-57.6947905"
+    "lon": "-57.6947905",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUATRACHE",
     "Code Departamento": "42070",
     "lat": "-37.57537932",
-    "lon": "-63.54911308"
+    "lon": "-63.54911308",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LORETO",
     "Code Departamento": "86105",
     "lat": "-28.47635326",
-    "lon": "-64.04507396"
+    "lon": "-64.04507396",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "VILLAGUAY",
     "Code Departamento": "30113",
     "lat": "-31.77167964",
-    "lon": "-59.57091449"
+    "lon": "-59.57091449",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Vertisoles"
   },
   {
+    "Nombre": "GENERAL ROCA",
     "Code Departamento": "62042",
     "lat": "-39.13837603",
-    "lon": "-66.90952075"
+    "lon": "-66.90952075",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "LA COSTA",
     "Code Departamento": "06420",
     "lat": "-36.48839763",
-    "lon": "-56.70043526"
+    "lon": "-56.70043526",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL GUEMES",
     "Code Departamento": "66049",
     "lat": "-24.75876236",
-    "lon": "-64.99394226"
+    "lon": "-64.99394226",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "RIO SEGUNDO",
     "Code Departamento": "14119",
     "lat": "-31.59773001",
-    "lon": "-63.24553941"
+    "lon": "-63.24553941",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "LAGO BUENOS AIRES",
     "Code Departamento": "78035",
     "lat": "-46.04208374",
-    "lon": "-71.65873718"
+    "lon": "-71.65873718",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "VALCHETA",
     "Code Departamento": "62084",
     "lat": "-41.21434552",
-    "lon": "-66.33830967"
+    "lon": "-66.33830967",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MARCOS PAZ",
     "Code Departamento": "06525",
     "lat": "-34.776242",
-    "lon": "-58.9395696"
+    "lon": "-58.9395696",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "14014",
     "lat": "-31.47878838",
-    "lon": "-64.14509583"
+    "lon": "-64.14509583",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "PUELEN",
     "Code Departamento": "42112",
     "lat": "-37.95782503",
-    "lon": "-67.82531198"
+    "lon": "-67.82531198",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "DOCTOR MANUEL BELGRANO",
     "Code Departamento": "38021",
     "lat": "-24.02938843",
-    "lon": "-65.64742279"
+    "lon": "-65.64742279",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "LA COCHA",
     "Code Departamento": "90049",
     "lat": "-27.75605583",
-    "lon": "-65.59912109"
+    "lon": "-65.59912109",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "ANCASTI",
     "Code Departamento": "10014",
     "lat": "-28.92693532",
-    "lon": "-65.52077229"
+    "lon": "-65.52077229",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "LA CALDERA",
     "Code Departamento": "66077",
     "lat": "-24.57701543",
-    "lon": "-65.36872897"
+    "lon": "-65.36872897",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "TORDILLO",
     "Code Departamento": "06812",
     "lat": "-36.4708183",
-    "lon": "-57.1914178"
+    "lon": "-57.1914178",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Lagunas"
   },
   {
+    "Nombre": "CHILECITO",
     "Code Departamento": "46042",
     "lat": "-29.10233846",
-    "lon": "-67.60548106"
+    "lon": "-67.60548106",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CHIVILCOY",
     "Code Departamento": "06224",
     "lat": "-34.9440654",
-    "lon": "-60.1765372"
+    "lon": "-60.1765372",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "PASO DE INDIOS",
     "Code Departamento": "26070",
     "lat": "-44.46556091",
-    "lon": "-68.47408295"
+    "lon": "-68.47408295",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "46014",
     "lat": "-29.72519684",
-    "lon": "-66.60608673"
+    "lon": "-66.60608673",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "AVELLANEDA",
     "Code Departamento": "06035",
     "lat": "-34.67500565",
-    "lon": "-58.31056343"
+    "lon": "-58.31056343",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "66028",
     "lat": "-24.70494203",
-    "lon": "-65.47051055"
+    "lon": "-65.47051055",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "9 DE JULIO",
     "Code Departamento": "62049",
     "lat": "-41.25013351",
-    "lon": "-66.89643097"
+    "lon": "-66.89643097",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL ROCA",
     "Code Departamento": "14035",
     "lat": "-34.8188719",
-    "lon": "-63.3857113"
+    "lon": "-63.3857113",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "ELDORADO",
     "Code Departamento": "54042",
     "lat": "-26.15509937",
-    "lon": "-54.58240989"
+    "lon": "-54.58240989",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL ARENALES",
     "Code Departamento": "06294",
     "lat": "-34.3397918",
-    "lon": "-61.3746941"
+    "lon": "-61.3746941",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN MARTIN",
     "Code Departamento": "70091",
     "lat": "-31.49227011",
-    "lon": "-68.30050286"
+    "lon": "-68.30050286",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAUCE",
     "Code Departamento": "18175",
     "lat": "-29.98807812",
-    "lon": "-58.53570766"
+    "lon": "-58.53570766",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Vertisoles"
   },
   {
+    "Nombre": "CHIMBAS",
     "Code Departamento": "70042",
     "lat": "-31.49561412",
-    "lon": "-68.56370679"
+    "lon": "-68.56370679",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "42021",
     "lat": "-36.68302536",
-    "lon": "-64.19379425"
+    "lon": "-64.19379425",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "VICTORIA",
     "Code Departamento": "30105",
     "lat": "-32.957337",
-    "lon": "-60.049086"
+    "lon": "-60.049086",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TRENEL",
     "Code Departamento": "42147",
     "lat": "-35.74137636",
-    "lon": "-64.44795989"
+    "lon": "-64.44795989",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHAPALEUFU",
     "Code Departamento": "42056",
     "lat": "-35.02186343",
-    "lon": "-63.81897737"
+    "lon": "-63.81897737",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN ANTONIO",
     "Code Departamento": "38056",
     "lat": "-24.37362671",
-    "lon": "-65.60406494"
+    "lon": "-65.60406494",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
-    "Code Departamento": "02000",
-    "lat": "-34.61329173",
-    "lon": "-58.38875174"
-  },
-  {
+    "Nombre": "VERA",
     "Code Departamento": "82133",
     "lat": "-29.72572798",
-    "lon": "-60.28951287"
+    "lon": "-60.28951287",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Lagunas"
   },
   {
+    "Nombre": "12 DE OCTUBRE",
     "Code Departamento": "22036",
     "lat": "-27.34587947",
-    "lon": "-61.4341435"
+    "lon": "-61.4341435",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "LOS LAGOS",
     "Code Departamento": "58070",
     "lat": "-40.7275238",
-    "lon": "-71.67723084"
+    "lon": "-71.67723084",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "GUACHIPAS",
     "Code Departamento": "66063",
     "lat": "-25.77241",
-    "lon": "-65.34234"
+    "lon": "-65.34234",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GODOY CRUZ",
     "Code Departamento": "50021",
     "lat": "-32.92152832",
-    "lon": "-68.85492318"
+    "lon": "-68.85492318",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GENERAL BELGRANO",
     "Code Departamento": "46063",
     "lat": "-30.55722809",
-    "lon": "-66.16072846"
+    "lon": "-66.16072846",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PEHUENCHES",
     "Code Departamento": "58091",
     "lat": "-36.92528915",
-    "lon": "-69.9850235"
+    "lon": "-69.9850235",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANTA MARÍA",
     "Code Departamento": "14147",
     "lat": "-31.55910043",
-    "lon": "-64.19196866"
+    "lon": "-64.19196866",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GASTRE",
     "Code Departamento": "26049",
     "lat": "-42.84112549",
-    "lon": "-68.45661163"
+    "lon": "-68.45661163",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MONTEROS",
     "Code Departamento": "90070",
     "lat": "-27.13862419",
-    "lon": "-65.44361877"
+    "lon": "-65.44361877",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "TUPUNGATO",
     "Code Departamento": "50126",
     "lat": "-33.30008474",
-    "lon": "-69.17169565"
+    "lon": "-69.17169565",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN FERNANDO",
     "Code Departamento": "06749",
     "lat": "-34.2256455",
-    "lon": "-58.5931568"
+    "lon": "-58.5931568",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "APOSTOLES",
     "Code Departamento": "54007",
     "lat": "-28.06622124",
-    "lon": "-55.59853745"
+    "lon": "-55.59853745",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Ultisoles"
   },
   {
+    "Nombre": "MALVINAS ARGENTINAS",
     "Code Departamento": "06515",
     "lat": "-34.45445506",
-    "lon": "-58.70624174"
+    "lon": "-58.70624174",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "CORONEL SUAREZ",
     "Code Departamento": "06203",
     "lat": "-37.6402741",
-    "lon": "-62.0066225"
+    "lon": "-62.0066225",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "2 DE ABRIL",
     "Code Departamento": "22039",
     "lat": "-27.59748636",
-    "lon": "-61.13197067"
+    "lon": "-61.13197067",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "FORMOSA",
     "Code Departamento": "34014",
     "lat": "-25.73826408",
-    "lon": "-57.92005921"
+    "lon": "-57.92005921",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "LOBERIA",
     "Code Departamento": "06476",
     "lat": "-37.7714343",
-    "lon": "-58.6447231"
+    "lon": "-58.6447231",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PARANA",
     "Code Departamento": "30084",
     "lat": "-31.88541285",
-    "lon": "-60.23444834"
+    "lon": "-60.23444834",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN IGNACIO",
     "Code Departamento": "54098",
     "lat": "-27.25123207",
-    "lon": "-55.5304925"
+    "lon": "-55.5304925",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "COMUNA 13",
     "Code Departamento": "02013",
     "lat": "-34.55488152",
-    "lon": "-58.4502891"
+    "lon": "-58.4502891",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "LANÚS",
     "Code Departamento": "06434",
     "lat": "-34.69095715",
-    "lon": "-58.38386285"
+    "lon": "-58.38386285",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "PALPALA",
     "Code Departamento": "38042",
     "lat": "-24.18229866",
-    "lon": "-65.20774078"
+    "lon": "-65.20774078",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "AYACUCHO",
     "Code Departamento": "06042",
     "lat": "-37.2159908",
-    "lon": "-58.6862018"
+    "lon": "-58.6862018",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "86049",
     "lat": "-27.80983349",
-    "lon": "-64.48893926"
+    "lon": "-64.48893926",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SALLIQUELO",
     "Code Departamento": "06721",
     "lat": "-36.56899083",
-    "lon": "-63.08762296"
+    "lon": "-63.08762296",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "FAMATINA",
     "Code Departamento": "46049",
     "lat": "-28.9015462",
-    "lon": "-67.5409052"
+    "lon": "-67.5409052",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GENERAL ALVEAR",
     "Code Departamento": "06287",
     "lat": "-36.0095752",
-    "lon": "-60.2101369"
+    "lon": "-60.2101369",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHACABUCO",
     "Code Departamento": "74028",
     "lat": "-32.56339762",
-    "lon": "-65.03153075"
+    "lon": "-65.03153075",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN PEDRO",
     "Code Departamento": "54112",
     "lat": "-26.50855467",
-    "lon": "-53.92302828"
+    "lon": "-53.92302828",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MONTECARLO",
     "Code Departamento": "54084",
     "lat": "-26.75464362",
-    "lon": "-54.69924477"
+    "lon": "-54.69924477",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN SALVADOR",
     "Code Departamento": "30088",
     "lat": "-31.59398509",
-    "lon": "-58.37116015"
+    "lon": "-58.37116015",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Vertisoles"
   },
   {
+    "Nombre": "VILLARINO",
     "Code Departamento": "06875",
     "lat": "-39.4323988",
-    "lon": "-62.9350751"
+    "lon": "-62.9350751",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COLON",
     "Code Departamento": "06175",
     "lat": "-33.97042426",
-    "lon": "-61.07620535"
+    "lon": "-61.07620535",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ITUZAINGO",
     "Code Departamento": "18084",
     "lat": "-27.71591449",
-    "lon": "-56.94751639"
+    "lon": "-56.94751639",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MERCEDES",
     "Code Departamento": "06532",
     "lat": "-34.64501572",
-    "lon": "-59.35927582"
+    "lon": "-59.35927582",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TAPENAGA",
     "Code Departamento": "22161",
     "lat": "-27.77849579",
-    "lon": "-59.60456467"
+    "lon": "-59.60456467",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "PRESIDENTE ROQUE SAENZ PEÑA",
     "Code Departamento": "14084",
     "lat": "-33.90469055",
-    "lon": "-63.83804658"
+    "lon": "-63.83804658",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SANTA ROSA",
     "Code Departamento": "50112",
     "lat": "-33.0552929",
-    "lon": "-68.06689238"
+    "lon": "-68.06689238",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CONCEPCION",
     "Code Departamento": "54035",
     "lat": "-27.88963381",
-    "lon": "-55.42634391"
+    "lon": "-55.42634391",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "25 DE MAYO",
     "Code Departamento": "70126",
     "lat": "-31.73063248",
-    "lon": "-68.34501277"
+    "lon": "-68.34501277",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BRAGADO",
     "Code Departamento": "06112",
     "lat": "-35.2410531",
-    "lon": "-60.3474272"
+    "lon": "-60.3474272",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SUSQUES",
     "Code Departamento": "38084",
     "lat": "-23.11491966",
-    "lon": "-66.25007629"
+    "lon": "-66.25007629",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANAGASTA",
     "Code Departamento": "46126",
     "lat": "-29.16052455",
-    "lon": "-67.09195563"
+    "lon": "-67.09195563",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "FELICIANO",
     "Code Departamento": "30042",
     "lat": "-30.42934153",
-    "lon": "-58.76618814"
+    "lon": "-58.76618814",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TIGRE",
     "Code Departamento": "06805",
     "lat": "-34.3277116",
-    "lon": "-58.608687"
+    "lon": "-58.608687",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "RÍO CHICO",
     "Code Departamento": "78049",
     "lat": "-47.45429993",
-    "lon": "-71.84503174"
+    "lon": "-71.84503174",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANTA VICTORIA",
     "Code Departamento": "66161",
     "lat": "-22.17502",
-    "lon": "-64.93502"
+    "lon": "-64.93502",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GENERAL LOPEZ",
     "Code Departamento": "82042",
     "lat": "-34.17471073",
-    "lon": "-62.05032677"
+    "lon": "-62.05032677",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
-    "Code Departamento": "94028",
-    "lat": "-64.15580231",
-    "lon": "-60.95507405"
-  },
-  {
+    "Nombre": "CACHI",
     "Code Departamento": "66014",
     "lat": "-25.02048923",
-    "lon": "-66.0970212"
+    "lon": "-66.0970212",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "PEHUAJO",
     "Code Departamento": "06609",
     "lat": "-35.6179927",
-    "lon": "-62.0046671"
+    "lon": "-62.0046671",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA PAZ",
     "Code Departamento": "50042",
     "lat": "-33.55845261",
-    "lon": "-67.25244904"
+    "lon": "-67.25244904",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "VALLE GRANDE",
     "Code Departamento": "38105",
     "lat": "-23.56311433",
-    "lon": "-64.89713769"
+    "lon": "-64.89713769",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "TILCARA",
     "Code Departamento": "38094",
     "lat": "-23.77525242",
-    "lon": "-65.29804781"
+    "lon": "-65.29804781",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "COMANDANTE FERNANDEZ",
     "Code Departamento": "22021",
     "lat": "-26.9538276",
-    "lon": "-60.51530921"
+    "lon": "-60.51530921",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL RODRIGUEZ",
     "Code Departamento": "06364",
     "lat": "-34.72117406",
-    "lon": "-59.01160158"
+    "lon": "-59.01160158",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "ROSARIO VERA PEÑALOZA",
     "Code Departamento": "46112",
     "lat": "-31.38359642",
-    "lon": "-66.62695313"
+    "lon": "-66.62695313",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LAGO ARGENTINO",
     "Code Departamento": "78028",
     "lat": "-50.27098465",
-    "lon": "-71.8927536"
+    "lon": "-71.8927536",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LIMAY MAHUIDA",
     "Code Departamento": "42091",
     "lat": "-37.55200494",
-    "lon": "-66.2268539"
+    "lon": "-66.2268539",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "JOSE C PAZ",
     "Code Departamento": "06412",
     "lat": "-34.4804958",
-    "lon": "-58.8042589"
+    "lon": "-58.8042589",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "ALBERDI",
     "Code Departamento": "86014",
     "lat": "-26.78946686",
-    "lon": "-62.70516586"
+    "lon": "-62.70516586",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "TRES ARROYOS",
     "Code Departamento": "06833",
     "lat": "-38.2667152",
-    "lon": "-60.4002814"
+    "lon": "-60.4002814",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA VIÑA",
     "Code Departamento": "66098",
     "lat": "-25.62320328",
-    "lon": "-65.61323547"
+    "lon": "-65.61323547",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "ULLUM",
     "Code Departamento": "70112",
     "lat": "-31.4627522",
-    "lon": "-68.73605428"
+    "lon": "-68.73605428",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "INDEPENDENCIA",
     "Code Departamento": "22070",
     "lat": "-26.52423694",
-    "lon": "-60.57193526"
+    "lon": "-60.57193526",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "ROSARIO DE LERMA",
     "Code Departamento": "66147",
     "lat": "-24.14188957",
-    "lon": "-66.01944733"
+    "lon": "-66.01944733",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "TOTORAL",
     "Code Departamento": "14168",
     "lat": "-30.81785967",
-    "lon": "-64.21185018"
+    "lon": "-64.21185018",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "TAPALQUE",
     "Code Departamento": "06798",
     "lat": "-36.475682",
-    "lon": "-60.1222218"
+    "lon": "-60.1222218",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "VICENTE LOPEZ",
     "Code Departamento": "06861",
     "lat": "-34.52591497",
-    "lon": "-58.53576394"
+    "lon": "-58.53576394",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "SAN JUSTO",
     "Code Departamento": "82112",
     "lat": "-30.8130411",
-    "lon": "-60.3886502"
+    "lon": "-60.3886502",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "VALLE VIEJO",
     "Code Departamento": "10112",
     "lat": "-28.56060853",
-    "lon": "-65.78033709"
+    "lon": "-65.78033709",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "BELLA VISTA",
     "Code Departamento": "18007",
     "lat": "-28.48951707",
-    "lon": "-59.03412064"
+    "lon": "-59.03412064",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "FLORENTINO AMEGHINO",
     "Code Departamento": "06277",
     "lat": "-34.81670709",
-    "lon": "-62.44968298"
+    "lon": "-62.44968298",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "JUAREZ CELMAN",
     "Code Departamento": "14056",
     "lat": "-33.3160107",
-    "lon": "-63.2538219"
+    "lon": "-63.2538219",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA POMA",
     "Code Departamento": "66091",
     "lat": "-23.78698349",
-    "lon": "-66.06783295"
+    "lon": "-66.06783295",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "MORON",
     "Code Departamento": "06568",
     "lat": "-34.6644131",
-    "lon": "-58.64564271"
+    "lon": "-58.64564271",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "ESCALANTE",
     "Code Departamento": "26021",
     "lat": "-45.89050293",
-    "lon": "-68.06896973"
+    "lon": "-68.06896973",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "ALUMINE",
     "Code Departamento": "58007",
     "lat": "-39.30917583",
-    "lon": "-70.92970664"
+    "lon": "-70.92970664",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "AVELLANEDA",
     "Code Departamento": "62014",
     "lat": "-39.60125657",
-    "lon": "-65.49681844"
+    "lon": "-65.49681844",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "GENERAL PEDERNERA",
     "Code Departamento": "74035",
     "lat": "-33.7828408",
-    "lon": "-65.72200942"
+    "lon": "-65.72200942",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Medano"
   },
   {
+    "Nombre": "GENERAL JUAN F QUIROGA",
     "Code Departamento": "46070",
     "lat": "-30.75595424",
-    "lon": "-66.66826174"
+    "lon": "-66.66826174",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "TRES LOMAS",
     "Code Departamento": "06847",
     "lat": "-36.499723",
-    "lon": "-62.6930571"
+    "lon": "-62.6930571",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LIBERTADOR GENERAL SAN MARTÍN",
     "Code Departamento": "54077",
     "lat": "-26.78501255",
-    "lon": "-54.90115103"
+    "lon": "-54.90115103",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LONCOPUE",
     "Code Departamento": "58063",
     "lat": "-38.14383318",
-    "lon": "-70.528734"
+    "lon": "-70.528734",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN CARLOS",
     "Code Departamento": "50091",
     "lat": "-33.67094361",
-    "lon": "-68.98052274"
+    "lon": "-68.98052274",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "COCHINOCA",
     "Code Departamento": "38007",
     "lat": "-22.84146227",
-    "lon": "-66.07927857"
+    "lon": "-66.07927857",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CURUZU CUATIA",
     "Code Departamento": "18035",
     "lat": "-29.30959977",
-    "lon": "-58.51285545"
+    "lon": "-58.51285545",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "QUEBRACHOS",
     "Code Departamento": "86140",
     "lat": "-29.79049",
-    "lon": "-63.18682"
+    "lon": "-63.18682",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SAN CRISTOBAL",
     "Code Departamento": "82091",
     "lat": "-29.88749922",
-    "lon": "-61.57182768"
+    "lon": "-61.57182768",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "BELGRANO",
     "Code Departamento": "86042",
     "lat": "-28.89628",
-    "lon": "-62.62596"
+    "lon": "-62.62596",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CORONEL PRINGLES",
     "Code Departamento": "74021",
     "lat": "-33.12074849",
-    "lon": "-65.96684395"
+    "lon": "-65.96684395",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PELLEGRINI",
     "Code Departamento": "86133",
     "lat": "-26.28318787",
-    "lon": "-64.45684052"
+    "lon": "-64.45684052",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "50007",
     "lat": "-32.87749385",
-    "lon": "-68.85278707"
+    "lon": "-68.85278707",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL SAN MARTIN",
     "Code Departamento": "06371",
     "lat": "-34.56734338",
-    "lon": "-58.58431125"
+    "lon": "-58.58431125",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "QUEMU QUEMU",
     "Code Departamento": "42119",
     "lat": "-36.20842743",
-    "lon": "-63.70277786"
+    "lon": "-63.70277786",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUALEGUAYCHU",
     "Code Departamento": "30056",
     "lat": "-33.15450509",
-    "lon": "-58.98890113"
+    "lon": "-58.98890113",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "PUNILLA",
     "Code Departamento": "14091",
     "lat": "-31.10580063",
-    "lon": "-64.59128571"
+    "lon": "-64.59128571",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LAVALLE",
     "Code Departamento": "18091",
     "lat": "-28.9356733",
-    "lon": "-58.8052348"
+    "lon": "-58.8052348",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CERRILLOS",
     "Code Departamento": "66035",
     "lat": "-24.95319832",
-    "lon": "-65.42243492"
+    "lon": "-65.42243492",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "PRESIDENTE PERON",
     "Code Departamento": "06648",
     "lat": "-34.9075871",
-    "lon": "-58.4348955"
+    "lon": "-58.4348955",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ALBERTI",
     "Code Departamento": "06021",
     "lat": "-35.23729324",
-    "lon": "-60.30303192"
+    "lon": "-60.30303192",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHACABUCO",
     "Code Departamento": "22028",
     "lat": "-27.37689119",
-    "lon": "-60.85868532"
+    "lon": "-60.85868532",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "LACAR",
     "Code Departamento": "58056",
     "lat": "-40.20055771",
-    "lon": "-71.06008911"
+    "lon": "-71.06008911",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "FLORENTINO AMEGHINO",
     "Code Departamento": "26028",
     "lat": "-44.3381691",
-    "lon": "-65.23617554"
+    "lon": "-65.23617554",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TULUMBA",
     "Code Departamento": "14175",
     "lat": "-29.9823914",
-    "lon": "-64.49000783"
+    "lon": "-64.49000783",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Salinas"
   },
   {
+    "Nombre": "GENERAL ÁNGEL VERA PEÑALOZA",
     "Code Departamento": "46056",
     "lat": "-30.51572228",
-    "lon": "-66.86412811"
+    "lon": "-66.86412811",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "RIVADAVIA",
     "Code Departamento": "66133",
     "lat": "-22.49881",
-    "lon": "-62.40759"
+    "lon": "-62.40759",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHALILEO",
     "Code Departamento": "42049",
     "lat": "-36.63620803",
-    "lon": "-66.47691656"
+    "lon": "-66.47691656",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "BOLIVAR",
     "Code Departamento": "06105",
     "lat": "-36.002259",
-    "lon": "-60.623087"
+    "lon": "-60.623087",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "POMAN",
     "Code Departamento": "10084",
     "lat": "-28.33781745",
-    "lon": "-66.54987231"
+    "lon": "-66.54987231",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANTO TOME",
     "Code Departamento": "18168",
     "lat": "-28.51878167",
-    "lon": "-56.05544289"
+    "lon": "-56.05544289",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Ultisoles"
   },
   {
+    "Nombre": "TINOGASTA",
     "Code Departamento": "10105",
     "lat": "-27.09210847",
-    "lon": "-67.81896152"
+    "lon": "-67.81896152",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "VALLE FERTIL",
     "Code Departamento": "70119",
     "lat": "-30.80415774",
-    "lon": "-67.366235"
+    "lon": "-67.366235",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "AÑELO",
     "Code Departamento": "58014",
     "lat": "-37.88803423",
-    "lon": "-68.51449"
+    "lon": "-68.51449",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "JUNIN",
     "Code Departamento": "74049",
     "lat": "-32.31398017",
-    "lon": "-65.41102538"
+    "lon": "-65.41102538",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MITRE",
     "Code Departamento": "86112",
     "lat": "-29.29157166",
-    "lon": "-63.03450311"
+    "lon": "-63.03450311",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "TRES DE FEBRERO",
     "Code Departamento": "06840",
     "lat": "-34.60887295",
-    "lon": "-58.56366446"
+    "lon": "-58.56366446",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "SAN ANTONIO DE ARECO",
     "Code Departamento": "06735",
     "lat": "-34.2881384",
-    "lon": "-59.5070413"
+    "lon": "-59.5070413",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "BELGRANO",
     "Code Departamento": "82007",
     "lat": "-32.7494032",
-    "lon": "-61.5381149"
+    "lon": "-61.5381149",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN JUSTO",
     "Code Departamento": "14140",
     "lat": "-31.23400374",
-    "lon": "-62.74066613"
+    "lon": "-62.74066613",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "TRANCAS",
     "Code Departamento": "90112",
     "lat": "-26.38549995",
-    "lon": "-65.36309815"
+    "lon": "-65.36309815",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "FRAY JUSTO SANTA MARÍA DE ORO",
     "Code Departamento": "22043",
     "lat": "-27.86749866",
-    "lon": "-61.32540304"
+    "lon": "-61.32540304",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ANGACO",
     "Code Departamento": "70014",
     "lat": "-31.45675103",
-    "lon": "-68.34171324"
+    "lon": "-68.34171324",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CAPAYAN",
     "Code Departamento": "10042",
     "lat": "-29.02534681",
-    "lon": "-66.00383546"
+    "lon": "-66.00383546",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CAMPANA",
     "Code Departamento": "06126",
     "lat": "-34.059934",
-    "lon": "-58.836065"
+    "lon": "-58.836065",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "SAN PEDRO",
     "Code Departamento": "38063",
     "lat": "-24.40863991",
-    "lon": "-64.62158966"
+    "lon": "-64.62158966",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "FEDERAL",
     "Code Departamento": "30035",
     "lat": "-30.97193714",
-    "lon": "-58.99327599"
+    "lon": "-58.99327599",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Vertisoles"
   },
   {
+    "Nombre": "DESEADO",
     "Code Departamento": "78014",
     "lat": "-47.88713837",
-    "lon": "-66.95114899"
+    "lon": "-66.95114899",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "COPO",
     "Code Departamento": "86056",
     "lat": "-25.72948778",
-    "lon": "-63.46601397"
+    "lon": "-63.46601397",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUAMINI",
     "Code Departamento": "06399",
     "lat": "-36.8942337",
-    "lon": "-62.3563118"
+    "lon": "-62.3563118",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA CAPITAL",
     "Code Departamento": "82063",
     "lat": "-31.18858147",
-    "lon": "-60.62677383"
+    "lon": "-60.62677383",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LA CANDELARIA",
     "Code Departamento": "66084",
     "lat": "-26.14426",
-    "lon": "-65.0142"
+    "lon": "-65.0142",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MINAS",
     "Code Departamento": "14070",
     "lat": "-30.84970027",
-    "lon": "-65.36509038"
+    "lon": "-65.36509038",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "ÑORQUIN",
     "Code Departamento": "58084",
     "lat": "-37.35794067",
-    "lon": "-70.87005615"
+    "lon": "-70.87005615",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "SANTA CATALINA",
     "Code Departamento": "38077",
     "lat": "-22.05120277",
-    "lon": "-65.84176636"
+    "lon": "-65.84176636",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SARMIENTO",
     "Code Departamento": "70105",
     "lat": "-32.02091413",
-    "lon": "-68.39270346"
+    "lon": "-68.39270346",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "HUMAHUACA",
     "Code Departamento": "38028",
     "lat": "-22.96907829",
-    "lon": "-65.43667552"
+    "lon": "-65.43667552",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "ADOLFO GONZALES CHAVES",
     "Code Departamento": "06014",
     "lat": "-37.85445023",
-    "lon": "-59.95879364"
+    "lon": "-59.95879364",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ANTOFAGASTA DE LA SIERRA",
     "Code Departamento": "10028",
     "lat": "-25.24611473",
-    "lon": "-67.52076721"
+    "lon": "-67.52076721",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "BARILOCHE",
     "Code Departamento": "62021",
     "lat": "-41.89814608",
-    "lon": "-71.50316469"
+    "lon": "-71.50316469",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "ANTA",
     "Code Departamento": "66007",
     "lat": "-24.25001144",
-    "lon": "-64.14095306"
+    "lon": "-64.14095306",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SARGENTO CABRAL",
     "Code Departamento": "22154",
     "lat": "-26.5995021",
-    "lon": "-59.74867643"
+    "lon": "-59.74867643",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CARLOS TEJEDOR",
     "Code Departamento": "06154",
     "lat": "-35.26376343",
-    "lon": "-62.67741013"
+    "lon": "-62.67741013",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN LUIS DEL PALMAR",
     "Code Departamento": "18140",
     "lat": "-27.41325145",
-    "lon": "-58.37888858"
+    "lon": "-58.37888858",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MAR CHIQUITA",
     "Code Departamento": "06518",
     "lat": "-37.4842367",
-    "lon": "-57.4365959"
+    "lon": "-57.4365959",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LIBERTADOR GENERAL SAN MARTÍN",
     "Code Departamento": "74063",
     "lat": "-32.77143097",
-    "lon": "-65.76694489"
+    "lon": "-65.76694489",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CONCORDIA",
     "Code Departamento": "30015",
     "lat": "-31.35230446",
-    "lon": "-58.05355072"
+    "lon": "-58.05355072",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Vertisoles"
   },
   {
+    "Nombre": "ARAUCO",
     "Code Departamento": "46007",
     "lat": "-28.39283371",
-    "lon": "-66.56823731"
+    "lon": "-66.56823731",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SANTA LUCIA",
     "Code Departamento": "70098",
     "lat": "-31.50973511",
-    "lon": "-68.5026858"
+    "lon": "-68.5026858",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN ANDRES DE GILES",
     "Code Departamento": "06728",
     "lat": "-34.387887",
-    "lon": "-59.4326743"
+    "lon": "-59.4326743",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "AGUIRRE",
     "Code Departamento": "86007",
     "lat": "-28.96850322",
-    "lon": "-62.90029133"
+    "lon": "-62.90029133",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "UNION",
     "Code Departamento": "14182",
     "lat": "-33.4792553",
-    "lon": "-62.9564065"
+    "lon": "-62.9564065",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COMUNA 11",
     "Code Departamento": "02011",
     "lat": "-34.6042463",
-    "lon": "-58.49067643"
+    "lon": "-58.49067643",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "URUGUAY",
     "Code Departamento": "30098",
     "lat": "-32.38095474",
-    "lon": "-58.23688127"
+    "lon": "-58.23688127",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MARACO",
     "Code Departamento": "42105",
     "lat": "-35.48140196",
-    "lon": "-63.49637054"
+    "lon": "-63.49637054",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PIRANE",
     "Code Departamento": "34056",
     "lat": "-25.5645932",
-    "lon": "-59.10290413"
+    "lon": "-59.10290413",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "BERMEJO",
     "Code Departamento": "34007",
     "lat": "-23.75578308",
-    "lon": "-61.17063904"
+    "lon": "-61.17063904",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "COMUNA 2",
     "Code Departamento": "02002",
     "lat": "-34.58587601",
-    "lon": "-58.39499618"
+    "lon": "-58.39499618",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "HUCAL",
     "Code Departamento": "42077",
     "lat": "-37.72244263",
-    "lon": "-64.06454468"
+    "lon": "-64.06454468",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHASCOMUS",
     "Code Departamento": "06217",
     "lat": "-35.4916042",
-    "lon": "-57.8945611"
+    "lon": "-57.8945611",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "90084",
     "lat": "-26.82900979",
-    "lon": "-65.21054418"
+    "lon": "-65.21054418",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "JUNIN",
     "Code Departamento": "50035",
     "lat": "-33.15090031",
-    "lon": "-68.40880629"
+    "lon": "-68.40880629",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "ITATI",
     "Code Departamento": "18077",
     "lat": "-27.35196615",
-    "lon": "-57.87393625"
+    "lon": "-57.87393625",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "POCITO",
     "Code Departamento": "70070",
     "lat": "-31.72999788",
-    "lon": "-68.56591515"
+    "lon": "-68.56591515",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "1° DE MAYO",
     "Code Departamento": "22126",
     "lat": "-27.22855035",
-    "lon": "-58.90405078"
+    "lon": "-58.90405078",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUER AIKE",
     "Code Departamento": "78021",
     "lat": "-51.8701101",
-    "lon": "-70.5994988"
+    "lon": "-70.5994988",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ESTEBAN ECHEVERRIA",
     "Code Departamento": "06260",
     "lat": "-34.88497914",
-    "lon": "-58.47780994"
+    "lon": "-58.47780994",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "COMUNA 9",
     "Code Departamento": "02009",
     "lat": "-34.64379608",
-    "lon": "-58.5191299"
+    "lon": "-58.5191299",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "LEANDRO N. ALEM",
     "Code Departamento": "54070",
     "lat": "-27.55139444",
-    "lon": "-55.54013766"
+    "lon": "-55.54013766",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PILCANIYEU",
     "Code Departamento": "62070",
     "lat": "-41.32152141",
-    "lon": "-70.27466678"
+    "lon": "-70.27466678",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "MONTE HERMOSO",
     "Code Departamento": "06553",
     "lat": "-38.99535769",
-    "lon": "-61.21520159"
+    "lon": "-61.21520159",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "QUILMES",
     "Code Departamento": "06658",
     "lat": "-34.70037841",
-    "lon": "-58.27664278"
+    "lon": "-58.27664278",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "SUIPACHA",
     "Code Departamento": "06784",
     "lat": "-34.7224296",
-    "lon": "-59.7512909"
+    "lon": "-59.7512909",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MONTE",
     "Code Departamento": "06547",
     "lat": "-35.5785579",
-    "lon": "-58.9391774"
+    "lon": "-58.9391774",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "25 DE MAYO",
     "Code Departamento": "54119",
     "lat": "-27.54825371",
-    "lon": "-54.76106548"
+    "lon": "-54.76106548",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "TANDIL",
     "Code Departamento": "06791",
     "lat": "-37.3502704",
-    "lon": "-59.07873297"
+    "lon": "-59.07873297",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PICUNCHES",
     "Code Departamento": "58105",
     "lat": "-38.34971979",
-    "lon": "-69.93995142"
+    "lon": "-69.93995142",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CAINGUAS",
     "Code Departamento": "54014",
     "lat": "-27.11729715",
-    "lon": "-54.69785278"
+    "lon": "-54.69785278",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "EMPEDRADO",
     "Code Departamento": "18042",
     "lat": "-27.70578113",
-    "lon": "-58.68808341"
+    "lon": "-58.68808341",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "CASTELLI",
     "Code Departamento": "06168",
     "lat": "-36.1352289",
-    "lon": "-57.7158097"
+    "lon": "-57.7158097",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "RAMALLO",
     "Code Departamento": "06665",
     "lat": "-33.6241496",
-    "lon": "-60.0461017"
+    "lon": "-60.0461017",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "ANDALGALÁ",
     "Code Departamento": "10021",
     "lat": "-27.61905956",
-    "lon": "-66.11518542"
+    "lon": "-66.11518542",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CALEU CALEU",
     "Code Departamento": "42014",
     "lat": "-38.40961523",
-    "lon": "-63.4727511"
+    "lon": "-63.4727511",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CANDELARIA",
     "Code Departamento": "54021",
     "lat": "-27.37033272",
-    "lon": "-55.53538513"
+    "lon": "-55.53538513",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "AYACUCHO",
     "Code Departamento": "74007",
     "lat": "-32.13651315",
-    "lon": "-66.85445389"
+    "lon": "-66.85445389",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "70028",
     "lat": "-31.53719704",
-    "lon": "-68.52501832"
+    "lon": "-68.52501832",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CHICOANA",
     "Code Departamento": "66042",
     "lat": "-25.15339187",
-    "lon": "-65.69363231"
+    "lon": "-65.69363231",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GUARANI",
     "Code Departamento": "54056",
     "lat": "-27.23071149",
-    "lon": "-54.17877558"
+    "lon": "-54.17877558",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Ultisoles"
   },
   {
+    "Nombre": "CONSTITUCION",
     "Code Departamento": "82028",
     "lat": "-33.3790173",
-    "lon": "-61.3544315"
+    "lon": "-61.3544315",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "FIGUEROA",
     "Code Departamento": "86070",
     "lat": "-26.91460859",
-    "lon": "-63.52985443"
+    "lon": "-63.52985443",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BALCARCE",
     "Code Departamento": "06063",
     "lat": "-37.5739424",
-    "lon": "-58.6177189"
+    "lon": "-58.6177189",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SOBREMONTE",
     "Code Departamento": "14154",
     "lat": "-29.61635494",
-    "lon": "-64.06243638"
+    "lon": "-64.06243638",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "TUNUYAN",
     "Code Departamento": "50119",
     "lat": "-33.4855528",
-    "lon": "-69.18303881"
+    "lon": "-69.18303881",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "ALMIRANTE BROWN",
     "Code Departamento": "22007",
     "lat": "-25.53445625",
-    "lon": "-62.85266113"
+    "lon": "-62.85266113",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "HURLINGHAM",
     "Code Departamento": "06408",
     "lat": "-34.59309314",
-    "lon": "-58.63572095"
+    "lon": "-58.63572095",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "LA PAZ",
     "Code Departamento": "30070",
     "lat": "-30.60360412",
-    "lon": "-59.52751986"
+    "lon": "-59.52751986",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "QUITILIPI",
     "Code Departamento": "22133",
     "lat": "-26.99698694",
-    "lon": "-60.33777397"
+    "lon": "-60.33777397",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "JUAN MARTÍN DE PUEYRREDÓN",
     "Code Departamento": "74056",
     "lat": "-33.36877796",
-    "lon": "-66.40741813"
+    "lon": "-66.40741813",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Medano"
   },
   {
+    "Nombre": "TAFI VIEJO",
     "Code Departamento": "90105",
     "lat": "-26.74196322",
-    "lon": "-65.56315645"
+    "lon": "-65.56315645",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CHOYA",
     "Code Departamento": "86063",
     "lat": "-28.59957504",
-    "lon": "-64.66501617"
+    "lon": "-64.66501617",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "O HIGGINS",
     "Code Departamento": "22112",
     "lat": "-27.28230625",
-    "lon": "-60.80237676"
+    "lon": "-60.80237676",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "GAIMAN",
     "Code Departamento": "26042",
     "lat": "-43.33395568",
-    "lon": "-65.47259113"
+    "lon": "-65.47259113",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "CAPITAN SARMIENTO",
     "Code Departamento": "06140",
     "lat": "-34.1731879",
-    "lon": "-59.9792421"
+    "lon": "-59.9792421",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "REALICO",
     "Code Departamento": "42133",
     "lat": "-35.01791303",
-    "lon": "-64.03511786"
+    "lon": "-64.03511786",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "BELGRANO",
     "Code Departamento": "74014",
     "lat": "-32.52213375",
-    "lon": "-66.48595015"
+    "lon": "-66.48595015",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN ANTONIO",
     "Code Departamento": "62077",
     "lat": "-40.77858734",
-    "lon": "-65.0507431"
+    "lon": "-65.0507431",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "FUTALEUFU",
     "Code Departamento": "26035",
     "lat": "-43.48395319",
-    "lon": "-71.59418478"
+    "lon": "-71.59418478",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "ATAMISQUI",
     "Code Departamento": "86021",
     "lat": "-28.82072",
-    "lon": "-63.74698"
+    "lon": "-63.74698",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MAIPU",
     "Code Departamento": "22091",
     "lat": "-26.16427903",
-    "lon": "-60.55151954"
+    "lon": "-60.55151954",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CATAN LIL",
     "Code Departamento": "58021",
     "lat": "-39.31451053",
-    "lon": "-70.15403895"
+    "lon": "-70.15403895",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SALTO",
     "Code Departamento": "06714",
     "lat": "-34.1554316",
-    "lon": "-60.4724629"
+    "lon": "-60.4724629",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL MANUEL BELGRANO",
     "Code Departamento": "54049",
     "lat": "-25.79129267",
-    "lon": "-53.88429149"
+    "lon": "-53.88429149",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Ultisoles"
   },
   {
+    "Nombre": "GOYA",
     "Code Departamento": "18070",
     "lat": "-29.1751244",
-    "lon": "-58.88982054"
+    "lon": "-58.88982054",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "GENERAL PINTO",
     "Code Departamento": "06351",
     "lat": "-34.8011277",
-    "lon": "-61.8636453"
+    "lon": "-61.8636453",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CORPEN AIKE",
     "Code Departamento": "78007",
     "lat": "-50.20358968",
-    "lon": "-69.91434697"
+    "lon": "-69.91434697",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PICHI MAHUIDA",
     "Code Departamento": "62063",
     "lat": "-39.0626",
-    "lon": "-63.9792"
+    "lon": "-63.9792",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CALAMUCHITA",
     "Code Departamento": "14007",
     "lat": "-32.09286214",
-    "lon": "-64.56387845"
+    "lon": "-64.56387845",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CARMEN DE ARECO",
     "Code Departamento": "06161",
     "lat": "-34.4145467",
-    "lon": "-59.8540512"
+    "lon": "-59.8540512",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TERCERO ARRIBA",
     "Code Departamento": "14161",
     "lat": "-32.25289151",
-    "lon": "-64.25143209"
+    "lon": "-64.25143209",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "SAN FERNANDO",
     "Code Departamento": "22140",
     "lat": "-27.92561531",
-    "lon": "-59.31798172"
+    "lon": "-59.31798172",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "EXALTACIÓN DE LA CRUZ",
     "Code Departamento": "06266",
     "lat": "-34.2240131",
-    "lon": "-59.232576"
+    "lon": "-59.232576",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COMUNA 12",
     "Code Departamento": "02012",
     "lat": "-34.56062514",
-    "lon": "-58.47494475"
+    "lon": "-58.47494475",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "LIHUEL CALEL",
     "Code Departamento": "42084",
     "lat": "-38.01481736",
-    "lon": "-65.58481895"
+    "lon": "-65.58481895",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "NECOCHEA",
     "Code Departamento": "06581",
     "lat": "-38.085516",
-    "lon": "-59.2924177"
+    "lon": "-59.2924177",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUASAYAN",
     "Code Departamento": "86084",
     "lat": "-27.85040093",
-    "lon": "-65.01179504"
+    "lon": "-65.01179504",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PILAR",
     "Code Departamento": "06638",
     "lat": "-34.42200558",
-    "lon": "-58.95283788"
+    "lon": "-58.95283788",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL OCAMPO",
     "Code Departamento": "46084",
     "lat": "-30.87825775",
-    "lon": "-66.18005371"
+    "lon": "-66.18005371",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PACLIN",
     "Code Departamento": "10077",
     "lat": "-27.85473251",
-    "lon": "-65.7172699"
+    "lon": "-65.7172699",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN MIGUEL",
     "Code Departamento": "06760",
     "lat": "-34.57514015",
-    "lon": "-58.69604099"
+    "lon": "-58.69604099",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "PILA",
     "Code Departamento": "06630",
     "lat": "-36.09760675",
-    "lon": "-58.09855871"
+    "lon": "-58.09855871",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MAGALLANES",
     "Code Departamento": "78042",
     "lat": "-49.06422424",
-    "lon": "-68.32466888"
+    "lon": "-68.32466888",
+    "Provincia": "SANTA CRUZ",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "DIAMANTE",
     "Code Departamento": "30021",
     "lat": "-32.01197804",
-    "lon": "-60.61726225"
+    "lon": "-60.61726225",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "MAIPU",
     "Code Departamento": "50070",
     "lat": "-32.94093297",
-    "lon": "-68.64291679"
+    "lon": "-68.64291679",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SANTA MARIA",
     "Code Departamento": "10091",
     "lat": "-26.79468925",
-    "lon": "-66.48349644"
+    "lon": "-66.48349644",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "LEDESMA",
     "Code Departamento": "38035",
     "lat": "-23.88497353",
-    "lon": "-64.67390442"
+    "lon": "-64.67390442",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "UTRACAN",
     "Code Departamento": "42154",
     "lat": "-37.4392128",
-    "lon": "-65.02373505"
+    "lon": "-65.02373505",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ADOLFO ALSINA",
     "Code Departamento": "06007",
     "lat": "-37.04622644",
-    "lon": "-63.26682104"
+    "lon": "-63.26682104",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "RIO PRIMERO",
     "Code Departamento": "14105",
     "lat": "-30.80593546",
-    "lon": "-63.17324293"
+    "lon": "-63.17324293",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAFAYATE",
     "Code Departamento": "66021",
     "lat": "-26.10228924",
-    "lon": "-66.01550671"
+    "lon": "-66.01550671",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SARMIENTO",
     "Code Departamento": "86182",
     "lat": "-28.08144587",
-    "lon": "-63.33466823"
+    "lon": "-63.33466823",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MERCEDES",
     "Code Departamento": "18105",
     "lat": "-29.06",
-    "lon": "-57.76000002"
+    "lon": "-57.76000002",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LOBOS",
     "Code Departamento": "06483",
     "lat": "-35.2649767",
-    "lon": "-59.0698098"
+    "lon": "-59.0698098",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL GUEMES",
     "Code Departamento": "22063",
     "lat": "-25.70413822",
-    "lon": "-61.03150273"
+    "lon": "-61.03150273",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "OJO DE AGUA",
     "Code Departamento": "86126",
     "lat": "-29.72712",
-    "lon": "-63.42753"
+    "lon": "-63.42753",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "AZUL",
     "Code Departamento": "06049",
     "lat": "-37.0314689",
-    "lon": "-59.6042326"
+    "lon": "-59.6042326",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ENSENADA",
     "Code Departamento": "06245",
     "lat": "-34.87584856",
-    "lon": "-57.9336299"
+    "lon": "-57.9336299",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "MORENO",
     "Code Departamento": "86119",
     "lat": "-27.41385841",
-    "lon": "-63.06546783"
+    "lon": "-63.06546783",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "10049",
     "lat": "-28.33210754",
-    "lon": "-65.89406586"
+    "lon": "-65.89406586",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CONFLUENCIA",
     "Code Departamento": "58035",
     "lat": "-38.75282316",
-    "lon": "-68.83773873"
+    "lon": "-68.83773873",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "DAIREAUX",
     "Code Departamento": "06231",
     "lat": "-36.75218201",
-    "lon": "-61.81564331"
+    "lon": "-61.81564331",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LAVALLE",
     "Code Departamento": "50056",
     "lat": "-32.81013676",
-    "lon": "-67.22178208"
+    "lon": "-67.22178208",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CONESA",
     "Code Departamento": "62028",
     "lat": "-40.2205658",
-    "lon": "-64.07060242"
+    "lon": "-64.07060242",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "TAFI DEL VALLE",
     "Code Departamento": "90098",
     "lat": "-26.596217",
-    "lon": "-65.8573856"
+    "lon": "-65.8573856",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GOBERNADOR DUPUY",
     "Code Departamento": "74042",
     "lat": "-34.82387161",
-    "lon": "-66.44893646"
+    "lon": "-66.44893646",
+    "Provincia": "SAN LUIS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LOS ANDES",
     "Code Departamento": "66105",
     "lat": "-24.65456963",
-    "lon": "-67.30360413"
+    "lon": "-67.30360413",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "COMUNA 8",
     "Code Departamento": "02008",
     "lat": "-34.67499358",
-    "lon": "-58.47616299"
+    "lon": "-58.47616299",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "CASEROS",
     "Code Departamento": "82014",
     "lat": "-33.2334798",
-    "lon": "-61.682947"
+    "lon": "-61.682947",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "TRENQUE LAUQUEN",
     "Code Departamento": "06826",
     "lat": "-36.0383096",
-    "lon": "-62.8210281"
+    "lon": "-62.8210281",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "METAN",
     "Code Departamento": "66112",
     "lat": "-25.51643753",
-    "lon": "-64.60592651"
+    "lon": "-64.60592651",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL TABOADA",
     "Code Departamento": "86077",
     "lat": "-28.41299021",
-    "lon": "-62.79434139"
+    "lon": "-62.79434139",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "USHUAIA",
     "Code Departamento": "94014",
     "lat": "-54.63768608",
-    "lon": "-67.76694086"
+    "lon": "-67.76694086",
+    "Provincia": "TIERRA DEL FUEGO, ANTÁRTIDA E ISLAS DEL ATLÁNTICO SUR",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "SAN VICENTE",
     "Code Departamento": "06778",
     "lat": "-35.18311",
-    "lon": "-58.45241002"
+    "lon": "-58.45241002",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL LAMADRID",
     "Code Departamento": "46077",
     "lat": "-28.9762001",
-    "lon": "-68.21488953"
+    "lon": "-68.21488953",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "JACHAL",
     "Code Departamento": "70056",
     "lat": "-30.20949542",
-    "lon": "-68.74673275"
+    "lon": "-68.74673275",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "RAWSON",
     "Code Departamento": "26077",
     "lat": "-43.31555403",
-    "lon": "-65.3717721"
+    "lon": "-65.3717721",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "GENERAL PAZ",
     "Code Departamento": "18063",
     "lat": "-27.7055629",
-    "lon": "-57.79496584"
+    "lon": "-57.79496584",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "COMUNA 4",
     "Code Departamento": "02004",
     "lat": "-34.64641355",
-    "lon": "-58.38427103"
+    "lon": "-58.38427103",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "COMUNA 10",
     "Code Departamento": "02010",
     "lat": "-34.62768629",
-    "lon": "-58.48358728"
+    "lon": "-58.48358728",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "ALMIRANTE BROWN",
     "Code Departamento": "06028",
     "lat": "-34.80155807",
-    "lon": "-58.39146772"
+    "lon": "-58.39146772",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "GENERAL ALVEAR",
     "Code Departamento": "50014",
     "lat": "-35.16899569",
-    "lon": "-66.50196772"
+    "lon": "-66.50196772",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "TALA",
     "Code Departamento": "30091",
     "lat": "-31.99620378",
-    "lon": "-59.24649058"
+    "lon": "-59.24649058",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "BENITO JUAREZ",
     "Code Departamento": "06084",
     "lat": "-37.5763984",
-    "lon": "-60.1392005"
+    "lon": "-60.1392005",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL VIAMONTE",
     "Code Departamento": "06385",
     "lat": "-35.1438182",
-    "lon": "-61.2992596"
+    "lon": "-61.2992596",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "BARADERO",
     "Code Departamento": "06070",
     "lat": "-33.8417492",
-    "lon": "-59.4518203"
+    "lon": "-59.4518203",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "CURACO",
     "Code Departamento": "42042",
     "lat": "-38.74134077",
-    "lon": "-66.43606534"
+    "lon": "-66.43606534",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "RAMON LISTA",
     "Code Departamento": "34063",
     "lat": "-23.18007636",
-    "lon": "-62.03032748"
+    "lon": "-62.03032748",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "GENERAL VILLEGAS",
     "Code Departamento": "06392",
     "lat": "-34.8579191",
-    "lon": "-63.1611931"
+    "lon": "-63.1611931",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CORONEL DE MARINA L ROSALES",
     "Code Departamento": "06182",
     "lat": "-38.93877",
-    "lon": "-61.96122"
+    "lon": "-61.96122",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COLON",
     "Code Departamento": "30008",
     "lat": "-31.70735861",
-    "lon": "-58.28660961"
+    "lon": "-58.28660961",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BERON DE ASTRADA",
     "Code Departamento": "18014",
     "lat": "-27.46421006",
-    "lon": "-57.46462652"
+    "lon": "-57.46462652",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "LAS HERAS",
     "Code Departamento": "50049",
     "lat": "-32.24008942",
-    "lon": "-69.45531464"
+    "lon": "-69.45531464",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "ZONDA",
     "Code Departamento": "70133",
     "lat": "-31.77467156",
-    "lon": "-68.91460419"
+    "lon": "-68.91460419",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "MAGDALENA",
     "Code Departamento": "06505",
     "lat": "-35.17544498",
-    "lon": "-57.51894858"
+    "lon": "-57.51894858",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "ADOLFO ALSINA",
     "Code Departamento": "62007",
     "lat": "-40.63358307",
-    "lon": "-63.50950623"
+    "lon": "-63.50950623",
+    "Provincia": "RÍO NEGRO",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "INDEPENDENCIA",
     "Code Departamento": "46105",
     "lat": "-30.44523",
-    "lon": "-67.359382"
+    "lon": "-67.359382",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "GENERAL JOSE DE SAN MARTÍN",
     "Code Departamento": "66056",
     "lat": "-22.16459982",
-    "lon": "-63.9088426"
+    "lon": "-63.9088426",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "RIVADAVIA",
     "Code Departamento": "50084",
     "lat": "-33.4740166",
-    "lon": "-68.80969287"
+    "lon": "-68.80969287",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "ZAPALA",
     "Code Departamento": "58112",
     "lat": "-38.8224678",
-    "lon": "-70.00800324"
+    "lon": "-70.00800324",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "FEDERACION",
     "Code Departamento": "30028",
     "lat": "-30.70681007",
-    "lon": "-57.88784914"
+    "lon": "-57.88784914",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "BERISSO",
     "Code Departamento": "06098",
     "lat": "-34.84587606",
-    "lon": "-57.87973336"
+    "lon": "-57.87973336",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "CASTELLANOS",
     "Code Departamento": "82021",
     "lat": "-31.38184929",
-    "lon": "-61.37005997"
+    "lon": "-61.37005997",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SAN ROQUE",
     "Code Departamento": "18161",
     "lat": "-28.88393134",
-    "lon": "-58.78485627"
+    "lon": "-58.78485627",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "COLLON CURA",
     "Code Departamento": "58028",
     "lat": "-40.22934341",
-    "lon": "-70.30752564"
+    "lon": "-70.30752564",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "SAN MARTIN",
     "Code Departamento": "82126",
     "lat": "-31.84254265",
-    "lon": "-61.56270981"
+    "lon": "-61.56270981",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ROQUE PEREZ",
     "Code Departamento": "06693",
     "lat": "-35.41999054",
-    "lon": "-59.66501618"
+    "lon": "-59.66501618",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "PELLEGRINI",
     "Code Departamento": "06616",
     "lat": "-36.3151294",
-    "lon": "-63.2094531"
+    "lon": "-63.2094531",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN MARTIN",
     "Code Departamento": "86175",
     "lat": "-28.2954",
-    "lon": "-63.86655"
+    "lon": "-63.86655",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "RANCUL",
     "Code Departamento": "42126",
     "lat": "-35.08643621",
-    "lon": "-64.92315252"
+    "lon": "-64.92315252",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "PILCOMAYO",
     "Code Departamento": "34049",
     "lat": "-25.11711311",
-    "lon": "-58.18847657"
+    "lon": "-58.18847657",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "MALARGUE",
     "Code Departamento": "50077",
     "lat": "-36.47914887",
-    "lon": "-69.82659912"
+    "lon": "-69.82659912",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "LOVENTUE",
     "Code Departamento": "42098",
     "lat": "-36.72337723",
-    "lon": "-65.22473908"
+    "lon": "-65.22473908",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GRANEROS",
     "Code Departamento": "90035",
     "lat": "-27.6423966",
-    "lon": "-65.5086366"
+    "lon": "-65.5086366",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CALINGASTA",
     "Code Departamento": "70021",
     "lat": "-31.30289373",
-    "lon": "-69.41260371"
+    "lon": "-69.41260371",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "OLAVARRIA",
     "Code Departamento": "06595",
     "lat": "-36.8410918",
-    "lon": "-60.4478581"
+    "lon": "-60.4478581",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL LAS HERAS",
     "Code Departamento": "06329",
     "lat": "-34.8223015",
-    "lon": "-59.1343749"
+    "lon": "-59.1343749",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "FAMAILLA",
     "Code Departamento": "90028",
     "lat": "-27.11478",
-    "lon": "-65.42955"
+    "lon": "-65.42955",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "PASO DE LOS LIBRES",
     "Code Departamento": "18119",
     "lat": "-29.87793885",
-    "lon": "-57.53288465"
+    "lon": "-57.53288465",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN NICOLAS",
     "Code Departamento": "06763",
     "lat": "-33.6042287",
-    "lon": "-60.4178226"
+    "lon": "-60.4178226",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ISCHILIN",
     "Code Departamento": "14049",
     "lat": "-30.64323498",
-    "lon": "-64.49851277"
+    "lon": "-64.49851277",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "SAN ISIDRO",
     "Code Departamento": "06756",
     "lat": "-34.47940181",
-    "lon": "-58.5074044"
+    "lon": "-58.5074044",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "POCHO",
     "Code Departamento": "14077",
     "lat": "-31.31932831",
-    "lon": "-65.61785889"
+    "lon": "-65.61785889",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "CHICAL CO",
     "Code Departamento": "42063",
     "lat": "-36.16043091",
-    "lon": "-68.1297226"
+    "lon": "-68.1297226",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "NAVARRO",
     "Code Departamento": "06574",
     "lat": "-35.0117915",
-    "lon": "-59.4247779"
+    "lon": "-59.4247779",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN COSME",
     "Code Departamento": "18133",
     "lat": "-27.36393313",
-    "lon": "-58.66198243"
+    "lon": "-58.66198243",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "LEALES",
     "Code Departamento": "90056",
     "lat": "-27.14003944",
-    "lon": "-65.13464356"
+    "lon": "-65.13464356",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CRUZ DEL EJE",
     "Code Departamento": "14028",
     "lat": "-31.0893001",
-    "lon": "-65.0484771"
+    "lon": "-65.0484771",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Salinas"
   },
   {
+    "Nombre": "SAN ALBERTO",
     "Code Departamento": "14126",
     "lat": "-31.79056275",
-    "lon": "-65.16710187"
+    "lon": "-65.16710187",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "GENERAL DONOVAN",
     "Code Departamento": "22056",
     "lat": "-27.1738508",
-    "lon": "-59.26113326"
+    "lon": "-59.26113326",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ESCOBAR",
     "Code Departamento": "06252",
     "lat": "-34.3007971",
-    "lon": "-58.7215474"
+    "lon": "-58.7215474",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SALADAS",
     "Code Departamento": "18126",
     "lat": "-28.32076054",
-    "lon": "-58.54644943"
+    "lon": "-58.54644943",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LAS COLONIAS",
     "Code Departamento": "82070",
     "lat": "-31.6618986",
-    "lon": "-61.0112577"
+    "lon": "-61.0112577",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "EL ALTO",
     "Code Departamento": "10056",
     "lat": "-28.37478",
-    "lon": "-65.15865"
+    "lon": "-65.15865",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "LINCOLN",
     "Code Departamento": "06469",
     "lat": "-35.4981702",
-    "lon": "-61.8064882"
+    "lon": "-61.8064882",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Lagunas"
   },
   {
+    "Nombre": "RIO CUARTO",
     "Code Departamento": "14098",
     "lat": "-32.64751095",
-    "lon": "-64.22141859"
+    "lon": "-64.22141859",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "CORONEL FELIPE VARELA",
     "Code Departamento": "46028",
     "lat": "-29.28070259",
-    "lon": "-68.15567017"
+    "lon": "-68.15567017",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CHOS MALAL",
     "Code Departamento": "58042",
     "lat": "-37.06895161",
-    "lon": "-70.38454137"
+    "lon": "-70.38454137",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SALADILLO",
     "Code Departamento": "06707",
     "lat": "-35.6504504",
-    "lon": "-59.8096018"
+    "lon": "-59.8096018",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL LA MADRID",
     "Code Departamento": "06322",
     "lat": "-37.53062058",
-    "lon": "-61.56911469"
+    "lon": "-61.56911469",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL ALVARADO",
     "Code Departamento": "06280",
     "lat": "-38.22244917",
-    "lon": "-57.89572673"
+    "lon": "-57.89572673",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CORONEL PRINGLES",
     "Code Departamento": "06196",
     "lat": "-37.9951979",
-    "lon": "-60.8897785"
+    "lon": "-60.8897785",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GUAYMALLEN",
     "Code Departamento": "50028",
     "lat": "-32.92076147",
-    "lon": "-68.70711858"
+    "lon": "-68.70711858",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "YERBA BUENA",
     "Code Departamento": "90119",
     "lat": "-26.77896396",
-    "lon": "-65.28532084"
+    "lon": "-65.28532084",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ISLAS DEL IBICUY",
     "Code Departamento": "30063",
     "lat": "-33.7787707",
-    "lon": "-58.54070986"
+    "lon": "-58.54070986",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "NOGOYA",
     "Code Departamento": "30077",
     "lat": "-32.17297901",
-    "lon": "-59.56341301"
+    "lon": "-59.56341301",
+    "Provincia": "ENTRE RÍOS",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "VINCHINA",
     "Code Departamento": "46098",
     "lat": "-28.5085144",
-    "lon": "-68.50804138"
+    "lon": "-68.50804138",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN JAVIER",
     "Code Departamento": "14133",
     "lat": "-32.01613487",
-    "lon": "-65.16382005"
+    "lon": "-65.16382005",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "SAN MIGUEL",
     "Code Departamento": "18154",
     "lat": "-27.78172854",
-    "lon": "-57.31162693"
+    "lon": "-57.31162693",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Esteros"
   },
   {
+    "Nombre": "SAN RAFAEL",
     "Code Departamento": "50105",
     "lat": "-34.22018814",
-    "lon": "-67.91163635"
+    "lon": "-67.91163635",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "AMBATO",
     "Code Departamento": "10007",
     "lat": "-27.89856",
-    "lon": "-65.97863"
+    "lon": "-65.97863",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "CHACABUCO",
     "Code Departamento": "06210",
     "lat": "-34.66495",
-    "lon": "-60.44139"
+    "lon": "-60.44139",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SAN JAVIER",
     "Code Departamento": "54105",
     "lat": "-27.75120279",
-    "lon": "-55.00895577"
+    "lon": "-55.00895577",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ARRECIFES",
     "Code Departamento": "06077",
     "lat": "-33.9628001",
-    "lon": "-59.8615291"
+    "lon": "-59.8615291",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "9 DE JULIO",
     "Code Departamento": "82077",
     "lat": "-29.0758472",
-    "lon": "-61.73625069"
+    "lon": "-61.73625069",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SAN MARTIN",
     "Code Departamento": "50098",
     "lat": "-33.03597168",
-    "lon": "-68.47084072"
+    "lon": "-68.47084072",
+    "Provincia": "MENDOZA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "PUAN",
     "Code Departamento": "06651",
     "lat": "-38.2787652",
-    "lon": "-63.308047"
+    "lon": "-63.308047",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAUCETE",
     "Code Departamento": "70035",
     "lat": "-31.70272711",
-    "lon": "-68.28587359"
+    "lon": "-68.28587359",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "BERAZATEGUI",
     "Code Departamento": "06091",
     "lat": "-34.83264047",
-    "lon": "-58.10084123"
+    "lon": "-58.10084123",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "ORAN",
     "Code Departamento": "66126",
     "lat": "-22.9746",
-    "lon": "-64.41384"
+    "lon": "-64.41384",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN PEDRO",
     "Code Departamento": "06770",
     "lat": "-33.6362648",
-    "lon": "-59.7862782"
+    "lon": "-59.7862782",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "SILIPICA",
     "Code Departamento": "86189",
     "lat": "-28.10344",
-    "lon": "-64.08491"
+    "lon": "-64.08491",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "LULES",
     "Code Departamento": "90063",
     "lat": "-26.94954",
-    "lon": "-65.30289"
+    "lon": "-65.30289",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "SAN MARTIN",
     "Code Departamento": "18147",
     "lat": "-29.3611063",
-    "lon": "-56.8024261"
+    "lon": "-56.8024261",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "HIPOLITO YRIGOYEN",
     "Code Departamento": "06406",
     "lat": "-36.1793412",
-    "lon": "-61.6445672"
+    "lon": "-61.6445672",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "EZEIZA",
     "Code Departamento": "06270",
     "lat": "-34.9645699",
-    "lon": "-58.5460971"
+    "lon": "-58.5460971",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL BELGRANO",
     "Code Departamento": "22049",
     "lat": "-26.96507701",
-    "lon": "-61.03071359"
+    "lon": "-61.03071359",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "IRUYA",
     "Code Departamento": "66070",
     "lat": "-22.7747986",
-    "lon": "-65.14338644"
+    "lon": "-65.14338644",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "RIO CHICO",
     "Code Departamento": "90077",
     "lat": "-27.4543092",
-    "lon": "-65.603622"
+    "lon": "-65.603622",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "MORENO",
     "Code Departamento": "06560",
     "lat": "-34.55865957",
-    "lon": "-58.81630109"
+    "lon": "-58.81630109",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "TOAY",
     "Code Departamento": "42140",
     "lat": "-36.87195836",
-    "lon": "-64.78146927"
+    "lon": "-64.78146927",
+    "Provincia": "LA PAMPA",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "SANTA BARBARA",
     "Code Departamento": "38070",
     "lat": "-24.13571358",
-    "lon": "-64.58811188"
+    "lon": "-64.58811188",
+    "Provincia": "JUJUY",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "JUAN B ALBERDI",
     "Code Departamento": "90042",
     "lat": "-27.60163",
-    "lon": "-65.5373"
+    "lon": "-65.5373",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "TELSEN",
     "Code Departamento": "26105",
     "lat": "-42.77024078",
-    "lon": "-67.66608429"
+    "lon": "-67.66608429",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "PICUN LEUFU",
     "Code Departamento": "58098",
     "lat": "-39.18308258",
-    "lon": "-69.37890625"
+    "lon": "-69.37890625",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "MBURUCUYA",
     "Code Departamento": "18098",
     "lat": "-27.9570441",
-    "lon": "-57.93704971"
+    "lon": "-57.93704971",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "CHAMICAL",
     "Code Departamento": "46035",
     "lat": "-30.38569434",
-    "lon": "-66.26041862"
+    "lon": "-66.26041862",
+    "Provincia": "LA RIOJA",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "FRAY MAMERTO ESQUIU",
     "Code Departamento": "10063",
     "lat": "-28.30193901",
-    "lon": "-65.72743988"
+    "lon": "-65.72743988",
+    "Provincia": "CATAMARCA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "SAN LORENZO",
     "Code Departamento": "22147",
     "lat": "-27.25204807",
-    "lon": "-60.51610474"
+    "lon": "-60.51610474",
+    "Provincia": "CHACO",
+    "tipoDeSuelo": "Inceptisoles"
   },
   {
+    "Nombre": "RIO SENGUER",
     "Code Departamento": "26084",
     "lat": "-45.68628224",
-    "lon": "-70.26062851"
+    "lon": "-70.26062851",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "CONCEPCION",
     "Code Departamento": "18028",
     "lat": "-28.26887939",
-    "lon": "-58.12185639"
+    "lon": "-58.12185639",
+    "Provincia": "CORRIENTES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "TEHUELCHES",
     "Code Departamento": "26098",
     "lat": "-43.8274765",
-    "lon": "-69.90713501"
+    "lon": "-69.90713501",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "LUJAN",
     "Code Departamento": "06497",
     "lat": "-34.4619848",
-    "lon": "-59.1744878"
+    "lon": "-59.1744878",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "COMUNA 6",
     "Code Departamento": "02006",
     "lat": "-34.6168255",
-    "lon": "-58.44360311"
+    "lon": "-58.44360311",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "JUAN F IBARRA",
     "Code Departamento": "86098",
     "lat": "-27.95003",
-    "lon": "-61.84724"
+    "lon": "-61.84724",
+    "Provincia": "SANTIAGO DEL ESTERO",
+    "tipoDeSuelo": "Entisoles"
   },
   {
+    "Nombre": "IGLESIA",
     "Code Departamento": "70049",
     "lat": "-30.27013016",
-    "lon": "-69.19116211"
+    "lon": "-69.19116211",
+    "Provincia": "SAN JUAN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "TORNQUIST",
     "Code Departamento": "06819",
     "lat": "-38.41312",
-    "lon": "-62.79452"
+    "lon": "-62.79452",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "COMUNA 1",
     "Code Departamento": "02001",
     "lat": "-34.62504786",
-    "lon": "-58.38438723"
+    "lon": "-58.38438723",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "BIEDMA",
     "Code Departamento": "26007",
     "lat": "-42.32925797",
-    "lon": "-65.63134766"
+    "lon": "-65.63134766",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "JUNIN",
     "Code Departamento": "06413",
     "lat": "-34.5109222",
-    "lon": "-60.865793"
+    "lon": "-60.865793",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Lagunas"
   },
   {
+    "Nombre": "LANGUIÑEO",
     "Code Departamento": "26056",
     "lat": "-42.66468787",
-    "lon": "-70.44354981"
+    "lon": "-70.44354981",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "IGUAZU",
     "Code Departamento": "54063",
     "lat": "-25.86430349",
-    "lon": "-54.55489168"
+    "lon": "-54.55489168",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "FLORENCIO VARELA",
     "Code Departamento": "06274",
     "lat": "-34.8275807",
-    "lon": "-58.222912"
+    "lon": "-58.222912",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "LAPRIDA",
     "Code Departamento": "06448",
     "lat": "-37.52471",
-    "lon": "-60.96114"
+    "lon": "-60.96114",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "GENERAL SAN MARTIN",
     "Code Departamento": "14042",
     "lat": "-32.34123693",
-    "lon": "-62.99621706"
+    "lon": "-62.99621706",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "SARMIENTO",
     "Code Departamento": "26091",
     "lat": "-45.59720158",
-    "lon": "-69.14443499"
+    "lon": "-69.14443499",
+    "Provincia": "CHUBUT",
+    "tipoDeSuelo": "Aridisoles"
   },
   {
+    "Nombre": "SAN CARLOS",
     "Code Departamento": "66154",
     "lat": "-25.54455",
-    "lon": "-65.82056"
+    "lon": "-65.82056",
+    "Provincia": "SALTA",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "PATIÑO",
     "Code Departamento": "34035",
     "lat": "-24.61192",
-    "lon": "-60.30033"
+    "lon": "-60.30033",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "IRIONDO",
     "Code Departamento": "82056",
     "lat": "-32.92903431",
-    "lon": "-61.26562377"
+    "lon": "-61.26562377",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "ROSARIO",
     "Code Departamento": "82084",
     "lat": "-33.07901008",
-    "lon": "-60.91379957"
+    "lon": "-60.91379957",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "MINAS",
     "Code Departamento": "58077",
     "lat": "-37.05693858",
-    "lon": "-70.77617021"
+    "lon": "-70.77617021",
+    "Provincia": "NEUQUÉN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "LAISHI",
     "Code Departamento": "34021",
     "lat": "-26.65249252",
-    "lon": "-58.34178925"
+    "lon": "-58.34178925",
+    "Provincia": "FORMOSA",
+    "tipoDeSuelo": "Rio"
   },
   {
+    "Nombre": "CHICLIGASTA",
     "Code Departamento": "90021",
     "lat": "-27.3126707",
-    "lon": "-65.4820785"
+    "lon": "-65.4820785",
+    "Provincia": "TUCUMÁN",
+    "tipoDeSuelo": "Roca"
   },
   {
+    "Nombre": "BRANDSEN",
     "Code Departamento": "06119",
     "lat": "-34.9854674",
-    "lon": "-58.1762428"
+    "lon": "-58.1762428",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "CAPITAL",
     "Code Departamento": "54028",
     "lat": "-27.47659493",
-    "lon": "-55.92169961"
+    "lon": "-55.92169961",
+    "Provincia": "MISIONES",
+    "tipoDeSuelo": "Alfisoles"
   },
   {
+    "Nombre": "SAN JAVIER",
     "Code Departamento": "82098",
     "lat": "-29.42420679",
-    "lon": "-59.97955475"
+    "lon": "-59.97955475",
+    "Provincia": "SANTA FE",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "MAIPU",
     "Code Departamento": "06511",
     "lat": "-37.0161454",
-    "lon": "-57.4884889"
+    "lon": "-57.4884889",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Molisoles"
   },
   {
+    "Nombre": "LEANDRO N ALEM",
     "Code Departamento": "06462",
     "lat": "-34.4448464",
-    "lon": "-61.3192363"
+    "lon": "-61.3192363",
+    "Provincia": "BUENOS AIRES",
+    "tipoDeSuelo": "Complejo indiferenci"
   },
   {
+    "Nombre": "COMUNA 14",
     "Code Departamento": "02014",
     "lat": "-34.57389998",
-    "lon": "-58.42243645"
+    "lon": "-58.42243645",
+    "Provincia": "CIUDAD DE BUENOS AIRES",
+    "tipoDeSuelo": "Miscelaneas"
   },
   {
+    "Nombre": "COLON",
     "Code Departamento": "14021",
     "lat": "-31.25624481",
-    "lon": "-63.95340394"
+    "lon": "-63.95340394",
+    "Provincia": "CÓRDOBA",
+    "tipoDeSuelo": "Miscelaneas"
   }
 ]

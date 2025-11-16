@@ -1,0 +1,2647 @@
+[
+  {
+    "nam": "La Paz",
+    "in1": "30070",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Javier",
+    "in1": "82098",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Saladillo",
+    "in1": "06707",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Las Flores",
+    "in1": "06455",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rojas",
+    "in1": "06686",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Escobar",
+    "in1": "06252",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Jos� C. Paz",
+    "in1": "06412",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "San Antonio de Areco",
+    "in1": "06735",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Maip�",
+    "in1": "06511",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "O'Higgins",
+    "in1": "22112",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Moreno",
+    "in1": "06560",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "La Matanza",
+    "in1": "06427",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Catril�",
+    "in1": "42028",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Quem� Quem�",
+    "in1": "42119",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Curac�",
+    "in1": "42042",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Los Andes",
+    "in1": "66105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Juan Bautista Alberdi",
+    "in1": "90042",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "R�o Chico",
+    "in1": "90077",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Simoca",
+    "in1": "90091",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Chicligasta",
+    "in1": "90021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Monteros",
+    "in1": "90070",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Leales",
+    "in1": "90056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Famaill�",
+    "in1": "90028",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "90084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Cruz Alta",
+    "in1": "90014",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Lules",
+    "in1": "90063",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Yerba Buena",
+    "in1": "90119",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Taf� Viejo",
+    "in1": "90105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Burruyac�",
+    "in1": "90007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Trancas",
+    "in1": "90112",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Taf� del Valle",
+    "in1": "90098",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Islas del Atl�ntico Sur",
+    "in1": "94021",
+    "ORDEN_SUE1": "Histosoles"
+  },
+  {
+    "nam": "Ant�rtida Argentina",
+    "in1": "94028",
+    "ORDEN_SUE1": ""
+  },
+  {
+    "nam": "Capital",
+    "in1": "54028",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "San Ignacio",
+    "in1": "54098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Candelaria",
+    "in1": "54021",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Montecarlo",
+    "in1": "54084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Caingu�s",
+    "in1": "54014",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ober�",
+    "in1": "54091",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "25 de Mayo",
+    "in1": "54119",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Leandro N. Alem",
+    "in1": "54070",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Javier",
+    "in1": "54105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Concepci�n",
+    "in1": "54035",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ap�stoles",
+    "in1": "54007",
+    "ORDEN_SUE1": "Ultisoles"
+  },
+  {
+    "nam": "Guaran�",
+    "in1": "54056",
+    "ORDEN_SUE1": "Ultisoles"
+  },
+  {
+    "nam": "San Pedro",
+    "in1": "54112",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Iguaz�",
+    "in1": "54063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Manuel Belgrano",
+    "in1": "54049",
+    "ORDEN_SUE1": "Ultisoles"
+  },
+  {
+    "nam": "Eldorado",
+    "in1": "54042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Libertador General San Mart�n",
+    "in1": "54077",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Monte Caseros",
+    "in1": "18112",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Federaci�n",
+    "in1": "30028",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Islas del Ibicuy",
+    "in1": "30063",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Uruguay",
+    "in1": "30098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Col�n",
+    "in1": "30008",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Gualeguaych�",
+    "in1": "30056",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Concordia",
+    "in1": "30015",
+    "ORDEN_SUE1": "Vertisoles"
+  },
+  {
+    "nam": "Adolfo Gonzales Chaves",
+    "in1": "06014",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Bah�a Blanca",
+    "in1": "06056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Alvarado",
+    "in1": "06280",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Pueyrred�n",
+    "in1": "06357",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Mar Chiquita",
+    "in1": "06518",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Villa Gesell",
+    "in1": "06868",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Pinamar",
+    "in1": "06644",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General Lavalle",
+    "in1": "06336",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "La Costa",
+    "in1": "06420",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Tres Lomas",
+    "in1": "06847",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ayacucho",
+    "in1": "06042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Guamin�",
+    "in1": "06399",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ensenada",
+    "in1": "06245",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Laprida",
+    "in1": "06448",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Isidro",
+    "in1": "06756",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Benito Ju�rez",
+    "in1": "06084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Col�n",
+    "in1": "06175",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "70028",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Magdalena",
+    "in1": "06505",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Vicente L�pez",
+    "in1": "06861",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Comuna 1",
+    "in1": "02001",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Comuna 4",
+    "in1": "02004",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General Paz",
+    "in1": "06343",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "General Guido",
+    "in1": "06308",
+    "ORDEN_SUE1": "Lagunas"
+  },
+  {
+    "nam": "General Juan Madariaga",
+    "in1": "06315",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Tandil",
+    "in1": "06791",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Coronel Su�rez",
+    "in1": "06203",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Alberdi",
+    "in1": "86014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Juan Felipe Ibarra",
+    "in1": "86098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General Taboada",
+    "in1": "86077",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Chamical",
+    "in1": "46035",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Rivadavia",
+    "in1": "86154",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ojo de Agua",
+    "in1": "86126",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Choya",
+    "in1": "86063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rauch",
+    "in1": "06672",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Salliquel�",
+    "in1": "06721",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Berazategui",
+    "in1": "06091",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Tornquist",
+    "in1": "06819",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Coronel Pringles",
+    "in1": "06196",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Uni�n",
+    "in1": "14182",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Pinto",
+    "in1": "06351",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Cayetano",
+    "in1": "06742",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Tres Arroyos",
+    "in1": "06833",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Coronel Dorrego",
+    "in1": "06189",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Necochea",
+    "in1": "06581",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Independencia",
+    "in1": "46105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "General Ortiz de Ocampo",
+    "in1": "46084",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Tercero Arriba",
+    "in1": "14161",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "R�o Cuarto",
+    "in1": "14098",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Pilag�s",
+    "in1": "34042",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Laishi",
+    "in1": "34021",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Arauco",
+    "in1": "46007",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Lezama",
+    "in1": "06466",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Chascom�s",
+    "in1": "06217",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Punta Indio",
+    "in1": "06655",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "El Carmen",
+    "in1": "38014",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Campana",
+    "in1": "06126",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Magallanes",
+    "in1": "78042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Corpen Aike",
+    "in1": "78007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Piran�",
+    "in1": "34056",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "General G�emes",
+    "in1": "22063",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Conesa",
+    "in1": "62028",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "General Lamadrid",
+    "in1": "46077",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Comuna 6",
+    "in1": "02006",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "12 de Octubre",
+    "in1": "22036",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tulumba",
+    "in1": "14175",
+    "ORDEN_SUE1": "Salinas"
+  },
+  {
+    "nam": "Cruz del Eje",
+    "in1": "14028",
+    "ORDEN_SUE1": "Salinas"
+  },
+  {
+    "nam": "Punilla",
+    "in1": "14091",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Santa Mar�a",
+    "in1": "14147",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Minas",
+    "in1": "14070",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "San Alberto",
+    "in1": "14126",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "R�o Segundo",
+    "in1": "14119",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "San Justo",
+    "in1": "14140",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Valcheta",
+    "in1": "62084",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Antonio",
+    "in1": "62077",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "9 de Julio",
+    "in1": "62049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "�orquinco",
+    "in1": "62056",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "25 de Mayo",
+    "in1": "62091",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Pilcaniyeu",
+    "in1": "62070",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Adolfo Alsina",
+    "in1": "06007",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Villarino",
+    "in1": "06875",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Quitilipi",
+    "in1": "22133",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Pellegrini",
+    "in1": "06616",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Chimbas",
+    "in1": "70042",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "9 de Julio",
+    "in1": "70063",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Albard�n",
+    "in1": "70007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Angaco",
+    "in1": "70014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General Roca",
+    "in1": "14035",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Pic�n Leuf�",
+    "in1": "58098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Zapala",
+    "in1": "58112",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Pu�n",
+    "in1": "06651",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Presidente Roque S�enz Pe�a",
+    "in1": "14084",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Cafayate",
+    "in1": "66021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Santa Victoria",
+    "in1": "66161",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "General Jos� de San Mart�n",
+    "in1": "66056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rivadavia",
+    "in1": "66133",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "66028",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Cerrillos",
+    "in1": "66035",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Chicoana",
+    "in1": "66042",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Rosario de Lerma",
+    "in1": "66147",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "La Caldera",
+    "in1": "66077",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Cachi",
+    "in1": "66014",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "La Vi�a",
+    "in1": "66098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Carlos",
+    "in1": "66154",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Anta",
+    "in1": "66007",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Guachipas",
+    "in1": "66063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Loncopu�",
+    "in1": "58063",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Alumin�",
+    "in1": "58007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General Villegas",
+    "in1": "06392",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Comuna 5",
+    "in1": "02005",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Figueroa",
+    "in1": "86070",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Chos Malal",
+    "in1": "58042",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Lago Buenos Aires",
+    "in1": "78035",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Comuna 7",
+    "in1": "02007",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Saavedra",
+    "in1": "06700",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Monte Hermoso",
+    "in1": "06553",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Lober�a",
+    "in1": "06476",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Berisso",
+    "in1": "06098",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Tordillo",
+    "in1": "06812",
+    "ORDEN_SUE1": "Lagunas"
+  },
+  {
+    "nam": "Z�rate",
+    "in1": "06882",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Ramallo",
+    "in1": "06665",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "San Nicol�s",
+    "in1": "06763",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Salavina",
+    "in1": "86168",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Pellegrini",
+    "in1": "86133",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Avellaneda",
+    "in1": "86028",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "�orqu�n",
+    "in1": "58084",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Constituci�n",
+    "in1": "82028",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Rosario",
+    "in1": "82084",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Comuna 10",
+    "in1": "02010",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Moreno",
+    "in1": "86119",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Iriondo",
+    "in1": "82056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Las Colonias",
+    "in1": "82070",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Justo",
+    "in1": "82112",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Comuna 11",
+    "in1": "02011",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Chacabuco",
+    "in1": "22028",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Ju�rez Celman",
+    "in1": "14056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Sil�pica",
+    "in1": "86189",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Comuna 12",
+    "in1": "02012",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "San Vicente",
+    "in1": "06778",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Lobos",
+    "in1": "06483",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Mart�n",
+    "in1": "86175",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Yavi",
+    "in1": "38112",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Santa Catalina",
+    "in1": "38077",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Pedro",
+    "in1": "38063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Valle Grande",
+    "in1": "38105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Pati�o",
+    "in1": "34035",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Bermejo",
+    "in1": "34007",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Susques",
+    "in1": "38084",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General Alvear",
+    "in1": "06287",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Quilmes",
+    "in1": "06658",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General La Madrid",
+    "in1": "06322",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Bol�var",
+    "in1": "06105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Matacos",
+    "in1": "34028",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tilcara",
+    "in1": "38094",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Palpal�",
+    "in1": "38042",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Quebrachos",
+    "in1": "86140",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Esquina",
+    "in1": "18049",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Tapenag�",
+    "in1": "22161",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tapalqu�",
+    "in1": "06798",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Vinchina",
+    "in1": "46098",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Antofagasta de la Sierra",
+    "in1": "10028",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Tinogasta",
+    "in1": "10105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Caleu Caleu",
+    "in1": "42014",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Bragado",
+    "in1": "06112",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Presidencia de la Plaza",
+    "in1": "22119",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Pergamino",
+    "in1": "06623",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Sargento Cabral",
+    "in1": "22154",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Independencia",
+    "in1": "22070",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "General Las Heras",
+    "in1": "06329",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Marcos Paz",
+    "in1": "06525",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Mayor Luis J. Fontana",
+    "in1": "22098",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Fray Justo Santa Mar�a de Oro",
+    "in1": "22043",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Belgrano",
+    "in1": "46063",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Copo",
+    "in1": "86056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Chical Co",
+    "in1": "42063",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "R�o Hondo",
+    "in1": "86147",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "46014",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "R�o Seco",
+    "in1": "14112",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Avellaneda",
+    "in1": "62014",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "General Roca",
+    "in1": "62042",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Los Lagos",
+    "in1": "58070",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "L�car",
+    "in1": "58056",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Confluencia",
+    "in1": "58035",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Picunches",
+    "in1": "58105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "A�elo",
+    "in1": "58014",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Pehuenches",
+    "in1": "58091",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Minas",
+    "in1": "58077",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Comuna 2",
+    "in1": "02002",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Ezeiza",
+    "in1": "06270",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Comuna 8",
+    "in1": "02008",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Castro Barros",
+    "in1": "46021",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Sobremonte",
+    "in1": "14154",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "R�o Grande",
+    "in1": "94008",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Comuna 13",
+    "in1": "02013",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Banda",
+    "in1": "86035",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Sarmiento",
+    "in1": "86182",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Deseado",
+    "in1": "78014",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Belgrano",
+    "in1": "86042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Aguirre",
+    "in1": "86007",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Maip�",
+    "in1": "22091",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Guasay�n",
+    "in1": "86084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "14014",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "R�o Chico",
+    "in1": "78049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Lago Argentino",
+    "in1": "78028",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "El Cuy",
+    "in1": "62035",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Pichi Mahuida",
+    "in1": "62063",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Adolfo Alsina",
+    "in1": "62007",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Bariloche",
+    "in1": "62021",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Huiliches",
+    "in1": "58049",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Cat�n Lil",
+    "in1": "58021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Chapaleuf�",
+    "in1": "42056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rancul",
+    "in1": "42126",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Lihuel Calel",
+    "in1": "42084",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Almirante Brown",
+    "in1": "22007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Coll�n Cur�",
+    "in1": "58028",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Comuna 3",
+    "in1": "02003",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Hucal",
+    "in1": "42077",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Limay Mahuida",
+    "in1": "42091",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Robles",
+    "in1": "86161",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Sanagasta",
+    "in1": "46126",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Guatrach�",
+    "in1": "42070",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "86049",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Comuna 14",
+    "in1": "02014",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Marac�",
+    "in1": "42105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Realic�",
+    "in1": "42133",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Loreto",
+    "in1": "86105",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Castelli",
+    "in1": "06168",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Rosario Vera Pe�aloza",
+    "in1": "46112",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Almirante Brown",
+    "in1": "06028",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Presidente Per�n",
+    "in1": "06648",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Empedrado",
+    "in1": "18042",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Ituzaing�",
+    "in1": "18084",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "18021",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "San Luis del Palmar",
+    "in1": "18140",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "San Cosme",
+    "in1": "18133",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Itat�",
+    "in1": "18077",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Ber�n de Astrada",
+    "in1": "18014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Tolhuin",
+    "in1": "94035",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "1� de Mayo",
+    "in1": "22126",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Utrac�n",
+    "in1": "42154",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Brandsen",
+    "in1": "06119",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Toay",
+    "in1": "42140",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "42021",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Carlos Casares",
+    "in1": "06147",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "9 de Julio",
+    "in1": "22105",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Trenel",
+    "in1": "42147",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Carlos Tejedor",
+    "in1": "06154",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "25 de Mayo",
+    "in1": "06854",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "9 de Julio",
+    "in1": "06588",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Pehuaj�",
+    "in1": "06609",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Trenque Lauquen",
+    "in1": "06826",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Belgrano",
+    "in1": "06301",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Monte",
+    "in1": "06547",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Roque P�rez",
+    "in1": "06693",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Olavarr�a",
+    "in1": "06595",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Merlo",
+    "in1": "06539",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Esteban Echeverr�a",
+    "in1": "06260",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Arrecifes",
+    "in1": "06077",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Capit�n Sarmiento",
+    "in1": "06140",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "2 de Abril",
+    "in1": "22039",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Carmen de Areco",
+    "in1": "06161",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Salto",
+    "in1": "06714",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Exaltaci�n de la Cruz",
+    "in1": "06266",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Miguel",
+    "in1": "06760",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "San Andr�s de Giles",
+    "in1": "06728",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Jun�n",
+    "in1": "06413",
+    "ORDEN_SUE1": "Lagunas"
+  },
+  {
+    "nam": "Mercedes",
+    "in1": "06532",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Pilar",
+    "in1": "06638",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Luj�n",
+    "in1": "06497",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Hurlingham",
+    "in1": "06408",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Mor�n",
+    "in1": "06568",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Chacabuco",
+    "in1": "06210",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Chalileo",
+    "in1": "42049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Puel�n",
+    "in1": "42112",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Conhelo",
+    "in1": "42035",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Malvinas Argentinas",
+    "in1": "06515",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Lan�s",
+    "in1": "06434",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General San Mart�n",
+    "in1": "06371",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Lincoln",
+    "in1": "06469",
+    "ORDEN_SUE1": "Lagunas"
+  },
+  {
+    "nam": "General Belgrano",
+    "in1": "22049",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Ituzaing�",
+    "in1": "06410",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General Rodr�guez",
+    "in1": "06364",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Suipacha",
+    "in1": "06784",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Tres de Febrero",
+    "in1": "06840",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General Felipe Varela",
+    "in1": "46028",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Chivilcoy",
+    "in1": "06224",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Alberti",
+    "in1": "06021",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Hip�lito Yrigoyen",
+    "in1": "06406",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Donovan",
+    "in1": "22056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Viamonte",
+    "in1": "06385",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Florencio Varela",
+    "in1": "06274",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Navarro",
+    "in1": "06574",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Ca�uelas",
+    "in1": "06134",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Curuz� Cuati�",
+    "in1": "18035",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Pocho",
+    "in1": "14077",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Santa Mar�a",
+    "in1": "10091",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Santa Rosa",
+    "in1": "10098",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "La Paz",
+    "in1": "10070",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Fray Mamerto Esqui�",
+    "in1": "10063",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Bel�n",
+    "in1": "10035",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Capital",
+    "in1": "10049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Ancasti",
+    "in1": "10014",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Pom�n",
+    "in1": "10084",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Capay�n",
+    "in1": "10042",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Andalgal�",
+    "in1": "10021",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Ambato",
+    "in1": "10007",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Pacl�n",
+    "in1": "10077",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "El Alto",
+    "in1": "10056",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Valle Viejo",
+    "in1": "10112",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "G�er Aike",
+    "in1": "78021",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Balcarce",
+    "in1": "06063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Dolores",
+    "in1": "06238",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Azul",
+    "in1": "06049",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Daireaux",
+    "in1": "06231",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Pila",
+    "in1": "06630",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Alvear",
+    "in1": "50014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Malarg�e",
+    "in1": "50077",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Santa Rosa",
+    "in1": "50112",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Maip�",
+    "in1": "50070",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Chilecito",
+    "in1": "46042",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Jun�n",
+    "in1": "50035",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Loventu�",
+    "in1": "42098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Ushuaia",
+    "in1": "94014",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "San Fernando",
+    "in1": "06749",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Tigre",
+    "in1": "06805",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "�ngel Vicente Pe�aloza",
+    "in1": "46056",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Col�n",
+    "in1": "14021",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "General Juan Facundo Quiroga",
+    "in1": "46070",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General San Mart�n",
+    "in1": "46091",
+    "ORDEN_SUE1": "Salinas"
+  },
+  {
+    "nam": "Famatina",
+    "in1": "46049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "San Blas de Los Sauces",
+    "in1": "46119",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Antonio",
+    "in1": "38056",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Gaiman",
+    "in1": "26042",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Formosa",
+    "in1": "34014",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Pilcomayo",
+    "in1": "34049",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Ischil�n",
+    "in1": "14049",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Totoral",
+    "in1": "14168",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "General San Mart�n",
+    "in1": "14042",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "San Javier",
+    "in1": "14133",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "R�o Primero",
+    "in1": "14105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Marcos Ju�rez",
+    "in1": "14063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Leandro N. Alem",
+    "in1": "06462",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Libertador General San Mart�n",
+    "in1": "22084",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "General Arenales",
+    "in1": "06294",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Bermejo",
+    "in1": "22014",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Calamuchita",
+    "in1": "14007",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Patagones",
+    "in1": "06602",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Capital",
+    "in1": "50007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Luj�n de Cuyo",
+    "in1": "50063",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Las Heras",
+    "in1": "50049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Comuna 9",
+    "in1": "02009",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Mitre",
+    "in1": "86112",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Atamisqui",
+    "in1": "86021",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tunuy�n",
+    "in1": "50119",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "San Carlos",
+    "in1": "50091",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "La Paz",
+    "in1": "50042",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Lavalle",
+    "in1": "50056",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Rafael",
+    "in1": "50105",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "R�o Senguer",
+    "in1": "26084",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Biedma",
+    "in1": "26007",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Villaguay",
+    "in1": "30113",
+    "ORDEN_SUE1": "Vertisoles"
+  },
+  {
+    "nam": "Federal",
+    "in1": "30035",
+    "ORDEN_SUE1": "Vertisoles"
+  },
+  {
+    "nam": "Jim�nez",
+    "in1": "86091",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Coronel de Marina Leonardo Rosales",
+    "in1": "06182",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Baradero",
+    "in1": "06070",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "San Pedro",
+    "in1": "06770",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Ledesma",
+    "in1": "38035",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Humahuaca",
+    "in1": "38028",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Cochinoca",
+    "in1": "38007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Tumbaya",
+    "in1": "38098",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Dr. Manuel Belgrano",
+    "in1": "38021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Rinconada",
+    "in1": "38049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Ram�n Lista",
+    "in1": "34063",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "San Salvador",
+    "in1": "30088",
+    "ORDEN_SUE1": "Vertisoles"
+  },
+  {
+    "nam": "Nogoy�",
+    "in1": "30077",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tala",
+    "in1": "30091",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Feliciano",
+    "in1": "30042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Paran�",
+    "in1": "30084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Diamante",
+    "in1": "30021",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Florentino Ameghino",
+    "in1": "06277",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Sauce",
+    "in1": "18175",
+    "ORDEN_SUE1": "Vertisoles"
+  },
+  {
+    "nam": "San Mart�n",
+    "in1": "18147",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Paso de los Libres",
+    "in1": "18119",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Goya",
+    "in1": "18070",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Lavalle",
+    "in1": "18091",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "San Roque",
+    "in1": "18161",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Alvear",
+    "in1": "18056",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Concepci�n",
+    "in1": "18028",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Bella Vista",
+    "in1": "18007",
+    "ORDEN_SUE1": "Rio"
+  },
+  {
+    "nam": "Santo Tom�",
+    "in1": "18168",
+    "ORDEN_SUE1": "Ultisoles"
+  },
+  {
+    "nam": "Saladas",
+    "in1": "18126",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "General Paz",
+    "in1": "18063",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Victoria",
+    "in1": "30105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Gualeguay",
+    "in1": "30049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Mburucuy�",
+    "in1": "18098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Miguel",
+    "in1": "18154",
+    "ORDEN_SUE1": "Esteros"
+  },
+  {
+    "nam": "San Fernando",
+    "in1": "22140",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "San Lorenzo",
+    "in1": "22147",
+    "ORDEN_SUE1": "Inceptisoles"
+  },
+  {
+    "nam": "Lomas de Zamora",
+    "in1": "06490",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "Avellaneda",
+    "in1": "06035",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "25 de Mayo",
+    "in1": "22168",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Libertad",
+    "in1": "22077",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Comandante Fern�ndez",
+    "in1": "22021",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Comuna 15",
+    "in1": "02015",
+    "ORDEN_SUE1": "Miscelaneas"
+  },
+  {
+    "nam": "M�rtires",
+    "in1": "26063",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "La Plata",
+    "in1": "06441",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "Mercedes",
+    "in1": "18105",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Santa B�rbara",
+    "in1": "38070",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "San Mart�n",
+    "in1": "50098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Rivadavia",
+    "in1": "50084",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Guaymall�n",
+    "in1": "50028",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Telsen",
+    "in1": "26105",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Rawson",
+    "in1": "26077",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Florentino Ameghino",
+    "in1": "26028",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Escalante",
+    "in1": "26021",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Sarmiento",
+    "in1": "26091",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Tehuelches",
+    "in1": "26098",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Langui�eo",
+    "in1": "26056",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Gastre",
+    "in1": "26049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Cushamen",
+    "in1": "26014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Futaleuf�",
+    "in1": "26035",
+    "ORDEN_SUE1": "Aridisoles"
+  },
+  {
+    "nam": "Godoy Cruz",
+    "in1": "50021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Rivadavia",
+    "in1": "70084",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Santa Luc�a",
+    "in1": "70098",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Rawson",
+    "in1": "70077",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Pocito",
+    "in1": "70070",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Zonda",
+    "in1": "70133",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "San Mart�n",
+    "in1": "70091",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Caucete",
+    "in1": "70035",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Calingasta",
+    "in1": "70021",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "J�chal",
+    "in1": "70056",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Valle F�rtil",
+    "in1": "70119",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Iglesia",
+    "in1": "70049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Ullum",
+    "in1": "70112",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Gobernador Dupuy",
+    "in1": "74042",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Ayacucho",
+    "in1": "74007",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Belgrano",
+    "in1": "74014",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Juan Mart�n de Pueyrred�n",
+    "in1": "74056",
+    "ORDEN_SUE1": "Medano"
+  },
+  {
+    "nam": "General Pedernera",
+    "in1": "74035",
+    "ORDEN_SUE1": "Medano"
+  },
+  {
+    "nam": "Jun�n",
+    "in1": "74049",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Libertador General San Mart�n",
+    "in1": "74063",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Coronel Pringles",
+    "in1": "74021",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Chacabuco",
+    "in1": "74028",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "25 de Mayo",
+    "in1": "70126",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Sarmiento",
+    "in1": "70105",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Iruya",
+    "in1": "66070",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Or�n",
+    "in1": "66126",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "La Candelaria",
+    "in1": "66084",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Castellanos",
+    "in1": "82021",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "General L�pez",
+    "in1": "82042",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Caseros",
+    "in1": "82014",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "San Lorenzo",
+    "in1": "82119",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Vera",
+    "in1": "82133",
+    "ORDEN_SUE1": "Lagunas"
+  },
+  {
+    "nam": "San Mart�n",
+    "in1": "82126",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Paso de Indios",
+    "in1": "26070",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "9 de Julio",
+    "in1": "82077",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Crist�bal",
+    "in1": "82091",
+    "ORDEN_SUE1": "Complejo indiferenci"
+  },
+  {
+    "nam": "La Capital",
+    "in1": "82063",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Atreuc�",
+    "in1": "42007",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rivadavia",
+    "in1": "06679",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "La Poma",
+    "in1": "66091",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "General G�emes",
+    "in1": "66049",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Rosario de la Frontera",
+    "in1": "66140",
+    "ORDEN_SUE1": "Entisoles"
+  },
+  {
+    "nam": "Met�n",
+    "in1": "66112",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Molinos",
+    "in1": "66119",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "General Obligado",
+    "in1": "82049",
+    "ORDEN_SUE1": "Alfisoles"
+  },
+  {
+    "nam": "Tupungato",
+    "in1": "50126",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Garay",
+    "in1": "82035",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "Belgrano",
+    "in1": "82007",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "San Jer�nimo",
+    "in1": "82105",
+    "ORDEN_SUE1": "Molisoles"
+  },
+  {
+    "nam": "La Cocha",
+    "in1": "90049",
+    "ORDEN_SUE1": "Roca"
+  },
+  {
+    "nam": "Graneros",
+    "in1": "90035",
+    "ORDEN_SUE1": "Molisoles"
+  }
+]
