@@ -52,7 +52,8 @@ for (let i in inundaciones){
     rio2.distancia = parseInt(distancias[1]*100)/100
     rio2.code = codes[1]
 
-    inundaciones[i].rio1 = rio1;
+    inundaciones[i].distanciaRio = parseInt(distancias[0]*100)/100;
+    inundaciones[i].codeRio = codes[0];
     //inundaciones[i].rio2 = rio2;
 }
 
