@@ -1,12 +1,12 @@
 import fs from "fs";
 
 let localidades = JSON.parse(fs.readFileSync("localidades.json"))
-let registros = JSON.parse(fs.readFileSync("registrosNegativos.json"))
+let registros = JSON.parse(fs.readFileSync("inundaciones.json"))
 
 let listaDeLocalidadesUtilizadas = []
 let lista = []
 
-let añoAcortar = 1990
+let añoAcortar = 2000
 //año 1986
 
 
