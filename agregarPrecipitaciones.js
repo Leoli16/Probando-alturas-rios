@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 import pLimit from "p-limit";
 
 // Limitar la concurrencia a 10 peticiones simultáneas
-const limit = pLimit(15);
+const limit = pLimit(10);
 const archivoSobreescribir = "inundacionesDesde1990.json"
 
 
