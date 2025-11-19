@@ -3,13 +3,15 @@ import fetch from "node-fetch";
 import pLimit from "p-limit";
 
 // Limitar la concurrencia a 10 peticiones simultáneas
-const limit = pLimit(50);
+const limit = pLimit(15);
+const archivoSobreescribir = "inundacionesDesde1990.json"
+
 
 async function getPrecipitation(lat, lon, fechas) {
   const start = fechas[0];
   const end = fechas[fechas.length - 1];
 
-  const url = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat}&longitude=${lon}&start_date=${start}&end_date=${end}&daily=precipitation_sum&timezone=UTC`;
+  const url = `https://archive-api.open-meteo.com/v1/archive?latitude=${lat}&longitude=${lon}&start_date=${start}&end_date=${end}&daily=precipitation_sum&timezone=auto`;
 
   const res = await fetch(url);
   const data = await res.json();
@@ -22,7 +24,7 @@ async function getPrecipitation(lat, lon, fechas) {
 }
 
 async function main() {
-  const rawData = JSON.parse(fs.readFileSync("inundacionesDesde1990.json", "utf8"));
+  const rawData = JSON.parse(fs.readFileSync(archivoSobreescribir, "utf8"));
 
   let index = 0;
   const tasks = rawData.map((item) => {
@@ -42,7 +44,7 @@ async function main() {
 
   await Promise.all(tasks);
 
-  fs.writeFileSync("inundacionesDesde1990.json", JSON.stringify(rawData, null, 2));
+  fs.writeFileSync(archivoSobreescribir, JSON.stringify(rawData, null, 2));
   console.log("✔️ Archivo guardado con precipitation_sum");
 }
 

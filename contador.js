@@ -9,4 +9,4 @@ function contar(archivo){
     console.log(content.length);
 }
 
-contar("registrosNegativos.json");
+contar("registrosNegativosDesde1990.json");

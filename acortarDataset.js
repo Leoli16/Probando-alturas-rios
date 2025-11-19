@@ -2,7 +2,7 @@ import fs from "fs"
 
 let inundaciones = JSON.parse(fs.readFileSync("inundaciones.json"))
 
-let añoACortar = 2000
+let añoACortar = 1990
 
 let lista = []
 
