@@ -458,13 +458,13 @@
     "runoff_sum": 0.00010223686695098876,
     "volumetric_soil_water_layer_1": 0.4179623921712239,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      3.5,
+      1.7,
+      5.3,
+      29.6,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -4742,13 +4742,13 @@
     "runoff_sum": 0.0012191012501716,
     "volumetric_soil_water_layer_1": 0.3997732798258464,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      8.4,
+      4.8,
+      18.1,
+      0,
+      0,
+      0.5,
+      0
     ]
   },
   {
@@ -4778,13 +4778,13 @@
     "runoff_sum": 0.0012191012501716,
     "volumetric_soil_water_layer_1": 0.3997732798258464,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      8.4,
+      4.8,
+      18.1,
+      0,
+      0,
+      0.5,
+      0
     ]
   },
   {
@@ -4994,13 +4994,13 @@
     "runoff_sum": 0.000022739171981811523,
     "volumetric_soil_water_layer_1": 0.3176403045654297,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      4.5,
+      13.7,
+      0.3,
+      1.2,
+      3,
+      4.8,
+      4.9
     ]
   },
   {
@@ -13202,13 +13202,13 @@
     "runoff_sum": null,
     "volumetric_soil_water_layer_1": null,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      1.2,
+      10.9,
+      2.7,
+      24.3,
+      23.3,
+      3,
+      0
     ]
   },
   {
@@ -13238,13 +13238,13 @@
     "runoff_sum": 0.00020968914031982425,
     "volumetric_soil_water_layer_1": 0.4008394877115885,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0.5,
+      7.3,
+      0,
+      15.5,
+      15.8,
+      3.4,
+      0
     ]
   },
   {
@@ -22418,13 +22418,13 @@
     "runoff_sum": 0.00017699599266052246,
     "volumetric_soil_water_layer_1": 0.4693279266357422,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      9,
+      74.5,
+      1.2,
+      0,
+      0.2,
+      0,
+      2.9
     ]
   },
   {
@@ -37538,13 +37538,13 @@
     "runoff_sum": 0.000002026557922363281,
     "volumetric_soil_water_layer_1": 0.2584253946940104,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0.3,
+      0.7,
+      8.7,
+      1.2,
+      16.7,
+      4.5,
+      10.9
     ]
   },
   {
@@ -53198,13 +53198,13 @@
     "runoff_sum": 0.0002731233835220337,
     "volumetric_soil_water_layer_1": 0.3231773376464844,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0.6,
+      1.4,
+      0,
+      3.5
     ]
   },
   {
@@ -53234,13 +53234,13 @@
     "runoff_sum": 0.0002731233835220337,
     "volumetric_soil_water_layer_1": 0.3231773376464844,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0,
+      0.1,
+      1.4,
+      0,
+      3.4
     ]
   },
   {
@@ -53378,13 +53378,13 @@
     "runoff_sum": 0.00027538836002349854,
     "volumetric_soil_water_layer_1": 0.2339763641357422,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0.1,
+      0.8,
+      0,
+      22.4,
+      11.7,
+      28.6,
+      0
     ]
   },
   {
@@ -53450,13 +53450,13 @@
     "runoff_sum": 0.00027538836002349854,
     "volumetric_soil_water_layer_1": 0.2339763641357422,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0.7,
+      0,
+      26.1,
+      54,
+      15.7,
+      0
     ]
   },
   {
@@ -53486,13 +53486,13 @@
     "runoff_sum": 0.0172787904739379,
     "volumetric_soil_water_layer_1": 0.4249858856201172,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      20.2,
+      0.1,
+      1.7,
+      4.2,
+      7.2,
+      0.1,
+      0.1
     ]
   },
   {
@@ -56294,13 +56294,13 @@
     "runoff_sum": 0.0291016697883605,
     "volumetric_soil_water_layer_1": 0.5910822550455729,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      68.2,
+      55.6,
+      1.3,
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -65546,13 +65546,13 @@
     "runoff_sum": 0.000002115964889526367,
     "volumetric_soil_water_layer_1": 0.4564781188964844,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      1.6,
+      21.9,
+      5.7,
+      2.1,
+      0
     ]
   },
   {
@@ -65582,13 +65582,13 @@
     "runoff_sum": null,
     "volumetric_soil_water_layer_1": null,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0.5,
+      7.5,
+      2.5,
+      1.3,
+      0
     ]
   },
   {
@@ -65654,13 +65654,13 @@
     "runoff_sum": 0.000003620982170104981,
     "volumetric_soil_water_layer_1": 0.4467849731445312,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0.1,
+      0.6,
+      6.6,
+      4.1,
+      3.2,
+      0
     ]
   },
   {
@@ -65690,13 +65690,13 @@
     "runoff_sum": 0.00002367794513702393,
     "volumetric_soil_water_layer_1": 0.4377574920654297,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0.5,
+      7.5,
+      2.5,
+      1.3,
+      0
     ]
   },
   {
@@ -65762,13 +65762,13 @@
     "runoff_sum": 0.0001741647720336914,
     "volumetric_soil_water_layer_1": 0.3680044809977214,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      0,
+      0,
+      0.6,
+      6,
+      2.3,
+      1.4,
+      0
     ]
   },
   {
@@ -71738,13 +71738,13 @@
     "runoff_sum": 0.00004602968692779541,
     "volumetric_soil_water_layer_1": 0.4319133758544922,
     "precipitation_sum": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      7.4,
+      1.2,
+      0,
+      0,
+      4.6,
+      0,
+      12.7
     ]
   },
   {
