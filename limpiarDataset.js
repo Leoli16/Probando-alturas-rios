@@ -1,15 +1,15 @@
 import fs from "fs"
 
-let archivo = "registrosNegativos.json"
+let archivo = "registrosNegativosDesde2000.json"
 
 let inundaciones = JSON.parse(fs.readFileSync(archivo))
 
 let lista = [];
 
 for (let i of inundaciones){
-    i.distanciaRio = i.rio1.distancia;
-    i.codeRio = i.rio1.code;
-    delete i["rio1"]
+    if (i.total_evaporation_sum !== null){
+      i.total_evaporation_sum = i.total_evaporation_sum * (-1000)
+    }   
     lista.push(i)
 }
 
