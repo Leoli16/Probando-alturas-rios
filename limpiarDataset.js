@@ -1,6 +1,6 @@
 import fs from "fs"
 
-let archivo = "datasetRealDesde1990.json"
+let archivo = "registrosNegativosDesde1990.json"
 
 let inundaciones = JSON.parse(fs.readFileSync(archivo))
 
@@ -17,7 +17,7 @@ const contenidoJSON = JSON.stringify(lista, null, 2);
 
 try {
     fs.writeFileSync(archivo, contenidoJSON);
-    console.log('✅ ¡Archivo "datasetRealDesde1990.json" guardado con éxito!');
+    console.log(`✅ ¡Archivo "${archivo}" guardado con éxito!`);
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
 }
