@@ -12,6 +12,8 @@ for (let i of registrosPostitivos){
     registro.distanciaRio = i.distanciaRio;
     registro.tipoDeSuelo = i.tipoDeSuelo;
     registro.estacion = i.estacion;
+    registro.elevacion_m = i.elevacion_m;
+    registro.pendiente_grados = i.pendiente_grados;
     registro.temperature_2m = i.temperature_2m;
     registro.total_evaporation_sum = i.total_evaporation_sum;
     //registro.runoff_sum = i.runoff_sum;
@@ -29,6 +31,8 @@ for (let i of registrosNegativos){
     registro.distanciaRio = i.distanciaRio;
     registro.tipoDeSuelo = i.tipoDeSuelo;
     registro.estacion = i.estacion;
+    registro.elevacion_m = i.elevacion_m;
+    registro.pendiente_grados = i.pendiente_grados;
     registro.temperature_2m = i.temperature_2m;
     registro.total_evaporation_sum = i.total_evaporation_sum;
     //registro.runoff_sum = i.runoff_sum;
