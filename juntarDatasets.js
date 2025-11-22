@@ -1,7 +1,7 @@
 import fs from "fs"
 
-let registrosPostitivos = JSON.parse(fs.readFileSync("inundacionesDesde1990.json"))
-let registrosNegativos = JSON.parse(fs.readFileSync("registrosNegativosDesde1990.json"))
+let registrosPostitivos = JSON.parse(fs.readFileSync("inundacionesDesde2000.json"))
+let registrosNegativos = JSON.parse(fs.readFileSync("registrosNegativosDesde2000.json"))
 
 let lista = []
 
@@ -46,8 +46,8 @@ for (let i of registrosNegativos){
 const contenidoJSON = JSON.stringify(lista, null, 2);
 
 try {
-    fs.writeFileSync('datasetRealDesde1990.json', contenidoJSON);
-    console.log('✅ ¡Archivo "datasetRealDesde1990.json" guardado con éxito!');
+    fs.writeFileSync('datasetRealDesde2000.json', contenidoJSON);
+    console.log('✅ ¡Archivo "datasetRealDesde2000.json" guardado con éxito!');
   } catch (error) {
     console.error('❌ Error al guardar el archivo:', error);
 }
