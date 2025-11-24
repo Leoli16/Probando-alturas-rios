@@ -7,10 +7,10 @@ from datetime import datetime
 ee.Initialize(project="sirena-477917")
 
 # Nombre del archivo JSON local (entrada)
-INPUT_JSON = "registrosNegativosDesde1990.json"
+INPUT_JSON = "registrosNegativosDesde1990_doble.json"
 
 # Nombre que tendrá el CSV en Google Drive (sin ruta)
-DRIVE_FILENAME = "registrosNegativosDesde1990.csv"
+DRIVE_FILENAME = "registrosNegativosDesde1990_doble.csv"
 
 # Leer JSON
 with open(INPUT_JSON, "r", encoding="utf-8") as f:
@@ -77,7 +77,7 @@ result = fc.map(add_vars)
 # Lanzar exportación a Google Drive
 task = ee.batch.Export.table.toDrive(
     collection=result,
-    description="Export_registrosNegativosDesde1990",
+    description="Export_registrosNegativosDesde1990_doble",
     fileNamePrefix=DRIVE_FILENAME.replace(".csv", ""),
     fileFormat="CSV"
 )

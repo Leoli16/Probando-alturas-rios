@@ -5,7 +5,7 @@ import pLimit from "p-limit";
 // Concurrency configurable
 const concurrency = 2; // bajá a 2 si seguís teniendo problemas
 const limit = pLimit(concurrency);
-const archivoSobreescribir = "registrosNegativosDesde2000.json";
+const archivoSobreescribir = "registrosNegativosDesde1990_doble.json";
 
 // Simple cache in-memory to avoid duplicate calls
 const cache = new Map();

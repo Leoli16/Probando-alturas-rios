@@ -32,7 +32,7 @@ function calcularEstacion(mes, dia) {
     return "ERROR";
 }
 
-let archivo = "registrosNegativos.json"
+let archivo = "registrosNegativosDesde1990_doble.json"
 let registros = JSON.parse(fs.readFileSync(archivo))
 
 let lista = []

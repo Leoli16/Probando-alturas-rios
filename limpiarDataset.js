@@ -1,14 +1,14 @@
 import fs from "fs"
 
-let archivo = "registrosNegativosDesde1990.json"
+let archivo = "registrosNegativosDesde1990_doble.json"
 
 let inundaciones = JSON.parse(fs.readFileSync(archivo))
 
 let lista = [];
 
 for (let i of inundaciones){
-    if (i.temperature_2m !== null){
-      i.temperature_2m = i.temperature_2m - 273.15
+    if (i.total_evaporation_sum !== null){
+      i.total_evaporation_sum = i.total_evaporation_sum * (-1000)
     }   
     lista.push(i)
 }

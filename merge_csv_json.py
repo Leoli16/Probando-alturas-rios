@@ -2,7 +2,7 @@
 import json
 import pandas as pd
 
-ARCHIVO = "inundacionesDesde1990"
+ARCHIVO = "registrosNegativosDesde1990_doble"
 INPUT_JSON = f"{ARCHIVO}.json"
 CSV_RESULT = f"{ARCHIVO}.csv"  # archivo que descargaste desde Drive
 OUTPUT_JSON = f"{ARCHIVO}.json"  # vamos a sobrescribir el mismo archivo
